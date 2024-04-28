@@ -1,0 +1,1432 @@
+[
+    {
+      "Recipe": "Oatmeal with Apples and Almonds",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Oatmeal", "Apples", "Almonds"],
+      "Instructions": "Cook oatmeal according to package instructions. Top with sliced apples and crushed almonds. Serve warm."
+    },
+    {
+      "Recipe": "Salmon with Broccoli and Quinoa",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 400,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Salmon", "Broccoli", "Quinoa"],
+      "Instructions": "Grill or bake salmon until cooked through. Steam broccoli until tender. Cook quinoa according to package instructions. Serve salmon over a bed of quinoa with steamed broccoli on the side."
+    },
+    {
+      "Recipe": "Black Bean and Kale Salad with Avocado Dressing",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 9,
+      "Ingredients": ["Black Beans", "Kale", "Avocado"],
+      "Instructions": "Mix cooked black beans and chopped kale in a bowl. Blend avocado with lime juice, garlic, and salt until smooth to make the dressing. Toss the salad with the avocado dressing and serve."
+    },
+    {
+      "Recipe": "Spinach and Lentil Soup",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 0,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Spinach", "Lentils"],
+      "Instructions": "Cook lentils in vegetable broth until tender. Add chopped spinach and simmer until wilted. Season with salt and pepper to taste. Serve hot."
+    },
+    {
+      "Recipe": "Blueberry and Walnut Smoothie",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Blueberries", "Walnuts"],
+      "Instructions": "Blend blueberries, walnuts, Greek yogurt, and honey with almond milk until smooth. Adjust sweetness to taste. Enjoy as a refreshing breakfast or snack."
+    },
+    {
+      "Recipe": "Cauliflower Rice Stir-Fry with Orange Glazed Tofu",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 350,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cauliflower", "Tofu", "Oranges"],
+      "Instructions": "Grate cauliflower into rice-like grains. Stir-fry cauliflower rice with diced tofu and orange segments in a skillet. Drizzle with a mixture of orange juice, soy sauce, and honey. Cook until heated through. Serve hot."
+    },
+    {
+      "Recipe": "Quinoa Salad with Roasted Vegetables",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Quinoa", "Bell peppers", "Zucchini", "Cherry tomatoes", "Red onion", "Feta cheese", "Olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions. Roast bell peppers, zucchini, cherry tomatoes, and red onion in the oven with olive oil, salt, and pepper until tender. Toss cooked quinoa with roasted vegetables, crumbled feta cheese, and a drizzle of balsamic vinegar. Serve chilled or at room temperature."
+    },
+    {
+      "Recipe": "Grilled Chicken Breast with Asparagus",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Chicken breast", "Asparagus", "Olive oil", "Garlic", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Marinate chicken breast in olive oil, minced garlic, lemon juice, salt, and pepper for at least 30 minutes. Grill chicken until cooked through. Grill asparagus spears until tender. Serve grilled chicken breast with grilled asparagus on the side."
+    },
+    {
+      "Recipe": "Mediterranean Chickpea Salad",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 10,
+      "Ingredients": ["Chickpeas", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Garlic", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Mix cooked chickpeas, diced cucumber, halved cherry tomatoes, thinly sliced red onion, pitted and sliced kalamata olives, and crumbled feta cheese in a bowl. Dress with olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper. Toss to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Tuna and White Bean Salad",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Canned tuna", "Cannellini beans", "Red bell pepper", "Celery", "Red onion", "Parsley", "Lemon juice", "Olive oil", "Dijon mustard", "Salt", "Pepper"],
+      "Instructions": "Drain canned tuna and cannellini beans. Flake tuna with a fork and mix with drained beans in a bowl. Add diced red bell pepper, chopped celery, thinly sliced red onion, and chopped parsley. Dress with lemon juice, olive oil, Dijon mustard, salt, and pepper. Toss to combine. Serve chilled or at room temperature."
+    },
+    {
+      "Recipe": "Stir-Fried Tofu with Bok Choy",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Firm tofu", "Bok choy", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Cornstarch", "Green onions", "Rice vinegar", "Honey", "Sesame seeds"],
+      "Instructions": "Press tofu to remove excess moisture, then cut into cubes. Stir-fry tofu in sesame oil with minced garlic and ginger until golden brown. Add sliced bok choy and cook until wilted. Mix soy sauce, rice vinegar, honey, and cornstarch in a bowl, then pour over tofu and bok choy. Cook until sauce thickens. Garnish with sliced green onions and sesame seeds. Serve hot."
+    },
+    {
+      "Recipe": "Roasted Vegetable and Hummus Wrap",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Whole wheat tortillas", "Assorted roasted vegetables (such as bell peppers, zucchini, eggplant)", "Hummus", "Baby spinach leaves", "Red onion", "Sun-dried tomatoes", "Feta cheese (optional)"],
+      "Instructions": "Spread hummus evenly on whole wheat tortillas. Top with assorted roasted vegetables, baby spinach leaves, thinly sliced red onion, sun-dried tomatoes, and crumbled feta cheese if desired. Roll up tightly to form wraps. Serve immediately or wrap in foil for later."
+    },
+  {
+      "Recipe": "Chicken Adobo",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 350,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken thighs", "Soy sauce", "Vinegar", "Garlic", "Bay leaves", "Black peppercorns", "Sugar"],
+      "Instructions": "Marinate chicken thighs in soy sauce, vinegar, minced garlic, bay leaves, black peppercorns, and sugar for at least 30 minutes. Simmer in the marinade until chicken is cooked through and sauce is reduced. Serve hot with steamed rice."
+    },
+    {
+      "Recipe": "Sinigang na Hipon (Shrimp Sour Soup)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Shrimp", "Tamarind soup base", "Tomatoes", "Onions", "Radish", "String beans", "Spinach"],
+      "Instructions": "Boil shrimp with tamarind soup base, sliced tomatoes, chopped onions, sliced radish, and string beans until shrimp is pink and vegetables are tender. Add spinach and simmer until wilted. Serve hot with steamed rice."
+    },
+    {
+      "Recipe": "Pancit Canton (Stir-Fried Noodles)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Canton noodles", "Chicken breast", "Shrimp", "Carrots", "Cabbage", "Bell peppers", "Onions", "Garlic", "Soy sauce", "Oyster sauce"],
+      "Instructions": "Boil Canton noodles until tender, then drain and set aside. Stir-fry sliced chicken breast, shrimp, julienned carrots, shredded cabbage, sliced bell peppers, chopped onions, and minced garlic in soy sauce and oyster sauce until cooked through. Add cooked noodles and toss until well combined. Serve hot."
+    },
+    {
+      "Recipe": "Tinolang Manok (Chicken Ginger Soup)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Chicken pieces", "Ginger", "Garlic", "Onion", "Chayote", "Spinach", "Fish sauce", "Water"],
+      "Instructions": "Sauté sliced ginger, minced garlic, and chopped onion in a pot until fragrant. Add chicken pieces and cook until browned. Pour in water and bring to a boil. Add sliced chayote and simmer until chicken is tender and chayote is cooked through. Season with fish sauce. Add spinach and cook until wilted. Serve hot."
+    },
+    {
+      "Recipe": "Adobong Kangkong (Water Spinach Adobo)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Water spinach (kangkong)", "Soy sauce", "Vinegar", "Garlic", "Onion", "Black peppercorns"],
+      "Instructions": "Sauté minced garlic and chopped onion in a pan until golden brown. Add cleaned and chopped water spinach (kangkong) and cook until wilted. Pour in soy sauce, vinegar, and black peppercorns. Simmer until flavors meld. Serve hot as a side dish."
+    },
+    {
+      "Recipe": "Filipino Fruit Salad",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Canned fruit cocktail", "Nata de coco", "Kaong (sugar palm fruit)", "Macapuno (coconut sport)", "Condensed milk", "All-purpose cream"],
+      "Instructions": "Drain canned fruit cocktail, nata de coco, and kaong. Mix with macapuno in a bowl. Add condensed milk and all-purpose cream. Stir until well combined. Chill in the refrigerator before serving."
+    },
+    {
+      "Recipe": "Ginataang Gulay (Vegetables in Coconut Milk)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Squash", "String beans", "Eggplant", "Okra", "Bok choy", "Coconut milk", "Shrimp paste", "Garlic", "Onion"],
+      "Instructions": "Sauté minced garlic and chopped onion in a pot until fragrant. Add diced squash, sliced string beans, sliced eggplant, sliced okra, and chopped bok choy. Pour in coconut milk and bring to a simmer. Stir in shrimp paste. Simmer until vegetables are tender. Serve hot with rice."
+    },
+   {
+      "Recipe": "Tinolang Tahong (Mussels Ginger Soup)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Mussels", "Ginger", "Garlic", "Onion", "Chili peppers", "Spinach", "Fish sauce", "Water"],
+      "Instructions": "Sauté sliced ginger, minced garlic, chopped onion, and chili peppers in a pot until fragrant. Add cleaned mussels and cook until shells open. Pour in water and bring to a boil. Season with fish sauce. Add spinach and simmer until wilted. Serve hot."
+    },
+    {
+      "Recipe": "Pork Sinigang (Pork Sour Soup)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Pork ribs", "Tamarind soup base", "Tomatoes", "Radish", "Eggplant", "String beans", "Spinach"],
+      "Instructions": "Boil pork ribs with tamarind soup base, sliced tomatoes, sliced radish, sliced eggplant, and string beans until pork is tender and vegetables are cooked through. Add spinach and simmer until wilted. Serve hot with steamed rice."
+    },
+    {
+      "Recipe": "Lumpiang Shanghai (Filipino Spring Rolls)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Ground pork", "Carrots", "Onion", "Garlic", "Spring roll wrappers", "Egg", "Soy sauce", "Salt", "Pepper", "Oil for frying"],
+      "Instructions": "Mix ground pork with finely grated carrots, minced onion, minced garlic, beaten egg, soy sauce, salt, and pepper. Wrap the pork mixture in spring roll wrappers and seal with beaten egg. Fry in hot oil until golden brown and crispy. Serve hot with sweet chili sauce for dipping."
+    },
+    {
+      "Recipe": "Pinakbet (Mixed Vegetable Stew)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bitter melon (ampalaya)", "Eggplant", "Squash", "String beans", "Tomatoes", "Shrimp paste", "Garlic", "Onion", "Ginger", "Pork belly (optional)"],
+      "Instructions": "Sauté minced garlic, chopped onion, and sliced ginger in a pan until fragrant. Add sliced bitter melon, diced eggplant, diced squash, sliced string beans, and chopped tomatoes. Cook until vegetables are tender. Stir in shrimp paste and pork belly (if using). Simmer for a few minutes. Serve hot with rice."
+    },
+    {
+      "Recipe": "Tortang Talong (Eggplant Omelette)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Eggplant", "Egg", "Tomatoes", "Onion", "Garlic", "Salt", "Pepper", "Oil for frying"],
+      "Instructions": "Grill or roast eggplants until skin is charred and flesh is soft. Peel off the skin and flatten the eggplants. Beat eggs and season with salt and pepper. Dip each eggplant in beaten eggs, then fry in hot oil until golden brown and cooked through. Serve hot with diced tomatoes and onions on top."
+    },
+    {
+      "Recipe": "Ginataang Mais (Corn in Coconut Milk)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Corn kernels", "Coconut milk", "Sugar", "Salt"],
+      "Instructions": "Boil corn kernels in coconut milk until tender. Stir in sugar and salt to taste. Simmer until coconut milk thickens. Serve hot as a dessert or snack."
+    },
+  {
+      "Recipe": "Tinolang Tahong (Mussels Ginger Soup)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Mussels", "Ginger", "Garlic", "Onion", "Chili peppers", "Spinach", "Fish sauce", "Water"],
+      "Instructions": "Sauté sliced ginger, minced garlic, chopped onion, and chili peppers in a pot until fragrant. Add cleaned mussels and cook until shells open. Pour in water and bring to a boil. Season with fish sauce. Add spinach and simmer until wilted. Serve hot."
+    },
+    {
+      "Recipe": "Pork Sinigang (Pork Sour Soup)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Pork ribs", "Tamarind soup base", "Tomatoes", "Radish", "Eggplant", "String beans", "Spinach"],
+      "Instructions": "Boil pork ribs with tamarind soup base, sliced tomatoes, sliced radish, sliced eggplant, and string beans until pork is tender and vegetables are cooked through. Add spinach and simmer until wilted. Serve hot with steamed rice."
+    },
+    {
+      "Recipe": "Lumpiang Shanghai (Filipino Spring Rolls)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Ground pork", "Carrots", "Onion", "Garlic", "Spring roll wrappers", "Egg", "Soy sauce", "Salt", "Pepper", "Oil for frying"],
+      "Instructions": "Mix ground pork with finely grated carrots, minced onion, minced garlic, beaten egg, soy sauce, salt, and pepper. Wrap the pork mixture in spring roll wrappers and seal with beaten egg. Fry in hot oil until golden brown and crispy. Serve hot with sweet chili sauce for dipping."
+    },
+    {
+      "Recipe": "Pinakbet (Mixed Vegetable Stew)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bitter melon (ampalaya)", "Eggplant", "Squash", "String beans", "Tomatoes", "Shrimp paste", "Garlic", "Onion", "Ginger", "Pork belly (optional)"],
+      "Instructions": "Sauté minced garlic, chopped onion, and sliced ginger in a pan until fragrant. Add sliced bitter melon, diced eggplant, diced squash, sliced string beans, and chopped tomatoes. Cook until vegetables are tender. Stir in shrimp paste and pork belly (if using). Simmer for a few minutes. Serve hot with rice."
+    },
+    {
+      "Recipe": "Tortang Talong (Eggplant Omelette)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Eggplant", "Egg", "Tomatoes", "Onion", "Garlic", "Salt", "Pepper", "Oil for frying"],
+      "Instructions": "Grill or roast eggplants until skin is charred and flesh is soft. Peel off the skin and flatten the eggplants. Beat eggs and season with salt and pepper. Dip each eggplant in beaten eggs, then fry in hot oil until golden brown and cooked through. Serve hot with diced tomatoes and onions on top."
+    },
+    {
+      "Recipe": "Ginataang Mais (Corn in Coconut Milk)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Corn kernels", "Coconut milk", "Sugar", "Salt"],
+      "Instructions": "Boil corn kernels in coconut milk until tender. Stir in sugar and salt to taste. Simmer until coconut milk thickens. Serve hot as a dessert or snack."
+    },
+    {
+      "Recipe": "Bicol Express",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 3.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Pork belly", "Coconut milk", "Shrimp paste", "Garlic", "Onion", "Green chili peppers"],
+      "Instructions": "Sauté minced garlic and chopped onion in a pan until fragrant. Add sliced pork belly and cook until browned. Stir in coconut milk and shrimp paste. Simmer until pork is tender and sauce thickens. Add sliced green chili peppers and cook for a few more minutes. Serve hot with rice."
+    },
+    {
+      "Recipe": "Tinola Manok (Chicken Ginger Soup)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken", "Ginger", "Garlic", "Onion", "Papaya", "Chili leaves", "Fish sauce"],
+      "Instructions": "Boil chicken with ginger, garlic, and onion until tender. Add sliced papaya and chili leaves. Season with fish sauce. Simmer until papaya is cooked. Serve hot."
+    },
+    {
+      "Recipe": "Ginisang Upo (Sauteed Bottle Gourd)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Bottle gourd (upo)", "Tomatoes", "Onion", "Garlic", "Shrimp (optional)", "Fish sauce"],
+      "Instructions": "Sauté minced garlic, chopped onion, and sliced tomatoes until softened. Add sliced bottle gourd and cook until tender. Add shrimp if desired. Season with fish sauce. Cook until flavors meld. Serve hot."
+    },
+    {
+      "Recipe": "Laing (Taro Leaves in Coconut Milk)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Taro leaves", "Coconut milk", "Shrimp paste", "Garlic", "Onion", "Chili peppers"],
+      "Instructions": "Boil taro leaves in coconut milk until wilted and cooked. Sauté minced garlic, chopped onion, and chili peppers. Add shrimp paste and cooked taro leaves. Simmer until flavors blend. Serve hot with rice."
+    },
+    {
+      "Recipe": "Paksiw na Bangus (Milkfish Stewed in Vinegar)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Milkfish (bangus)", "Vinegar", "Garlic", "Ginger", "Peppercorns", "Chili peppers", "Eggplant"],
+      "Instructions": "Clean and slice milkfish. Combine vinegar, minced garlic, sliced ginger, peppercorns, and chili peppers in a pot. Add milkfish slices and sliced eggplant. Simmer until fish is cooked and sauce thickens. Serve hot."
+    },
+    {
+      "Recipe": "Tortang Talong with Giniling (Eggplant Omelette with Ground Pork)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Eggplant", "Ground pork", "Egg", "Tomatoes", "Onion", "Garlic", "Salt", "Pepper", "Oil for frying"],
+      "Instructions": "Grill or roast eggplants until skin is charred and flesh is soft. Peel off the skin and flatten the eggplants. Sauté ground pork with minced garlic, chopped onion, and diced tomatoes. Season with salt and pepper. Wrap pork mixture in grilled eggplants and dip in beaten eggs. Fry until golden brown. Serve hot."
+    },
+    {
+      "Recipe": "Pinaputok na Tilapia (Stuffed Tilapia)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 310,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Tilapia", "Tomatoes", "Onion", "Ginger", "Garlic", "Chili peppers", "Calamansi juice", "Salt", "Pepper", "Banana leaves"],
+      "Instructions": "Clean and gut tilapia. Stuff cavity with sliced tomatoes, chopped onion, sliced ginger, minced garlic, and chili peppers. Drizzle with calamansi juice. Season with salt and pepper. Wrap in banana leaves and grill until fish is cooked through. Serve hot."
+    },
+    {
+      "Recipe": "Pancit Bihon Guisado (Sauteed Rice Noodles)",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Rice noodles (bihon)", "Chicken breast", "Shrimp", "Carrots", "Cabbage", "Bell peppers", "Onion", "Garlic", "Soy sauce", "Fish sauce"],
+      "Instructions": "Soak rice noodles in water until softened, then drain. Sauté sliced chicken breast, shrimp, julienned carrots, shredded cabbage, sliced bell peppers, chopped onion, and minced garlic in soy sauce and fish sauce until cooked through. Add soaked noodles and toss until well combined. Serve hot."
+    },
+    {
+      "Recipe": "Ginisang Ampalaya at Itlog (Sauteed Bitter Melon with Egg)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 190,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Bitter melon (ampalaya)", "Egg", "Tomatoes", "Onion", "Garlic", "Salt", "Pepper"],
+      "Instructions": "Slice bitter melon and remove seeds. Soak in salted water for 10 minutes, then drain. Sauté sliced tomatoes, chopped onion, and minced garlic until softened. Add bitter melon slices and cook until tender. Season with salt and pepper. Pour beaten eggs over the bitter melon mixture and cook until set. Serve hot."
+    },
+    {
+      "Recipe": "Tinumok (Shrimp and Coconut Milk Taro Dumplings)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Taro (gabi)", "Shrimp", "Coconut milk", "Garlic", "Onion", "Chili peppers", "Salt", "Pepper"],
+      "Instructions": "Boil taro until soft, then mash. Sauté minced garlic, chopped onion, and chili peppers until fragrant. Add mashed taro and coconut milk. Simmer until mixture thickens. Season with salt and pepper. Form into dumplings and stuff with cooked shrimp. Steam until cooked through. Serve hot."
+    },
+    {
+      "Recipe": "Ginataang Langka (Jackfruit in Coconut Milk)",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 210,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Young jackfruit (langka)", "Coconut milk", "Shrimp (optional)", "Garlic", "Onion", "Chili peppers", "Salt"],
+      "Instructions": "Boil young jackfruit until tender, then drain. Sauté minced garlic, chopped onion, and chili peppers until fragrant. Add boiled jackfruit and shrimp (if using). Pour in coconut milk and simmer until flavors meld. Season with salt. Serve hot."
+    },
+    {
+      "Recipe": "Greek Salad",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cucumber", "Tomato", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Oregano", "Salt", "Pepper"],
+      "Instructions": "Combine chopped vegetables and olives. Crumble feta cheese on top. Drizzle with olive oil, lemon juice, and sprinkle with oregano, salt, and pepper."
+    },
+    {
+      "Recipe": "Thai Green Curry",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Chicken breast", "Green curry paste", "Coconut milk", "Bell peppers", "Bamboo shoots", "Thai basil", "Fish sauce", "Brown sugar"],
+      "Instructions": "Sauté chicken with green curry paste. Add coconut milk, bell peppers, and bamboo shoots. Simmer until chicken is cooked. Stir in Thai basil, fish sauce, and brown sugar. Serve hot with rice."
+    },
+    {
+      "Recipe": "Spanish Gazpacho",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Tomatoes", "Cucumber", "Red bell pepper", "Onion", "Garlic", "Olive oil", "Red wine vinegar", "Bread", "Salt", "Pepper"],
+      "Instructions": "Blend vegetables, olive oil, vinegar, and bread until smooth. Season with salt and pepper. Chill before serving."
+    },
+    {
+      "Recipe": "Japanese Miso Soup",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 70,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["Dashi broth", "Miso paste", "Tofu", "Wakame seaweed", "Green onions"],
+      "Instructions": "Bring dashi broth to a boil. Dissolve miso paste in the broth. Add cubed tofu and soaked wakame seaweed. Simmer until heated through. Garnish with sliced green onions."
+    },
+    {
+      "Recipe": "Indian Chana Masala",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Green chili", "Garam masala", "Cumin", "Coriander", "Turmeric", "Lemon juice", "Cilantro"],
+      "Instructions": "Sauté onion, garlic, ginger, and green chili. Add spices and cook until fragrant. Stir in chickpeas and diced tomatoes. Simmer until flavors meld. Finish with lemon juice and chopped cilantro."
+    },
+    {
+      "Recipe": "Italian Caprese Salad",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Fresh mozzarella cheese", "Tomatoes", "Fresh basil leaves", "Balsamic glaze", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Arrange sliced mozzarella, tomatoes, and basil leaves on a plate. Drizzle with balsamic glaze and olive oil. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Mexican Veggie Fajitas",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bell peppers", "Onion", "Zucchini", "Mushroom", "Olive oil", "Fajita seasoning", "Lime juice", "Tortillas", "Avocado", "Salsa"],
+      "Instructions": "Sauté sliced vegetables in olive oil with fajita seasoning until tender. Squeeze lime juice over the veggies. Serve with warm tortillas, sliced avocado, and salsa."
+    },
+    {
+      "Recipe": "Moroccan Chickpea Tagine",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Cumin", "Coriander", "Cinnamon", "Paprika", "Lemon", "Cilantro"],
+      "Instructions": "Sauté onion, garlic, and ginger. Add spices and cook until fragrant. Stir in chickpeas, diced tomatoes, and lemon slices. Simmer until chickpeas are tender. Garnish with fresh cilantro."
+    },
+    {
+      "Recipe": "Vietnamese Fresh Spring Rolls",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Rice paper wrappers", "Shrimp", "Rice vermicelli noodles", "Lettuce", "Cucumber", "Carrot", "Fresh herbs (mint, cilantro, basil)", "Peanut sauce for dipping"],
+      "Instructions": "Soak rice paper wrappers in warm water until pliable. Fill with shrimp, noodles, lettuce, cucumber, carrot, and herbs. Roll tightly and serve with peanut sauce."
+    },
+    {
+      "Recipe": "Brazilian Feijoada",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Black beans", "Pork loin", "Sausage", "Onion", "Garlic", "Bay leaves", "Orange zest", "Cilantro", "Rice"],
+      "Instructions": "Cook black beans with pork loin, sausage, onion, garlic, bay leaves, and orange zest until beans are tender and flavors meld. Serve hot with rice and garnish with cilantro."
+    },
+    {
+      "Recipe": "Swedish Meatballs",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 350,
+      "Saturated Fat (g) per serving": 5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Ground beef", "Ground pork", "Breadcrumbs", "Egg", "Onion", "Garlic", "Allspice", "Nutmeg", "Beef broth", "Cream", "Butter", "Flour", "Lingonberry jam", "Potatoes"],
+      "Instructions": "Mix ground beef, ground pork, breadcrumbs, egg, minced onion, minced garlic, allspice, and nutmeg. Form into meatballs and fry until browned. Make gravy with beef broth, cream, butter, and flour. Serve meatballs with gravy, lingonberry jam, and boiled potatoes."
+    },
+  {
+      "Recipe": "Mediterranean Quinoa Salad",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Quinoa", "Cucumber", "Tomato", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions. Let it cool. Mix cooked quinoa with diced cucumber, tomato, red onion, olives, and crumbled feta cheese. Drizzle with olive oil and lemon juice. Season with salt, pepper, and chopped parsley. Serve chilled."
+    },
+    {
+      "Recipe": "Vegetable Stir-Fry",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Broccoli", "Carrot", "Bell pepper", "Snap peas", "Onion", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Cornstarch", "Water"],
+      "Instructions": "Heat sesame oil in a pan. Add minced garlic and ginger, stir-fry until fragrant. Add sliced vegetables and cook until tender-crisp. Mix soy sauce, water, and cornstarch, pour over the vegetables. Cook until sauce thickens. Serve hot with rice or noodles."
+    },
+    {
+      "Recipe": "Spinach and Feta Stuffed Chicken Breast",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken breast", "Baby spinach", "Feta cheese", "Garlic powder", "Onion powder", "Paprika", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut a pocket into each chicken breast. Mix spinach, crumbled feta cheese, garlic powder, onion powder, paprika, salt, and pepper. Stuff the mixture into the chicken breasts. Secure with toothpicks. Bake for 25-30 minutes or until chicken is cooked through."
+    },
+    {
+      "Recipe": "Tofu and Vegetable Curry",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Tofu", "Coconut milk", "Carrot", "Potato", "Bell pepper", "Green beans", "Onion", "Garlic", "Ginger", "Curry powder", "Turmeric", "Cayenne pepper", "Lime juice", "Cilantro"],
+      "Instructions": "Sauté diced onion, minced garlic, and ginger in a pan. Add diced vegetables and cook until tender. Stir in curry powder, turmeric, and cayenne pepper. Add cubed tofu and coconut milk. Simmer until heated through. Finish with lime juice and chopped cilantro. Serve hot with rice."
+    },
+    {
+      "Recipe": "Mushroom and Spinach Quiche",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 4,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Pie crust", "Mushrooms", "Baby spinach", "Eggs", "Milk", "Swiss cheese", "Onion", "Garlic", "Salt", "Pepper", "Nutmeg"],
+      "Instructions": "Preheat oven to 375°F (190°C). Line a pie dish with pie crust. Sauté sliced mushrooms, chopped onion, and minced garlic until tender. Add baby spinach and cook until wilted. Whisk together eggs, milk, salt, pepper, and nutmeg. Stir in shredded Swiss cheese. Pour into the pie crust. Bake for 35-40 minutes or until set."
+    },
+    {
+      "Recipe": "Lemon Garlic Shrimp Pasta",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Shrimp", "Linguine pasta", "Butter", "Olive oil", "Garlic", "Lemon zest", "Lemon juice", "Red pepper flakes", "Fresh parsley", "Salt", "Pepper", "Parmesan cheese"],
+      "Instructions": "Cook linguine pasta according to package instructions. Drain and set aside. Sauté minced garlic in butter and olive oil until fragrant. Add shrimp and cook until pink. Stir in lemon zest, lemon juice, red pepper flakes, chopped parsley, salt, and pepper. Toss with cooked pasta. Serve hot with grated Parmesan cheese."
+    },
+    {
+      "Recipe": "Vegetable Lentil Soup",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Lentils", "Carrot", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Bay leaf", "Thyme", "Parsley", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion, carrot, celery, and minced garlic until softened. Add lentils, diced tomatoes, vegetable broth, bay leaf, and thyme. Simmer until lentils are tender. Season with salt, pepper, and chopped parsley. Serve hot."
+    },
+    {
+      "Recipe": "Honey Glazed Salmon",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 3.5,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["Salmon fillets", "Honey", "Soy sauce", "Lemon juice", "Garlic", "Ginger", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Mix honey, soy sauce, lemon juice, minced garlic, minced ginger, salt, and pepper. Place salmon fillets on a baking sheet lined with parchment paper. Brush with honey mixture. Bake for 12-15 minutes or until salmon is cooked through."
+    },
+    {
+      "Recipe": "Greek Yogurt Parfait",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Greek yogurt", "Granola", "Mixed berries", "Honey"],
+      "Instructions": "Layer Greek yogurt, granola, and mixed berries in a glass. Drizzle with honey. Repeat layers. Serve chilled."
+    },
+    {
+      "Recipe": "Vegetable Biryani",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Basmati rice", "Mixed vegetables (carrot, peas, cauliflower)", "Onion", "Tomato", "Ginger", "Garlic", "Green chili", "Cumin seeds", "Cinnamon", "Cloves", "Bay leaf", "Turmeric", "Coriander powder", "Garam masala", "Yogurt", "Mint leaves", "Cilantro"],
+      "Instructions": "Cook basmati rice until almost done. Sauté sliced onion, minced ginger, minced garlic, and green chili until golden. Add mixed vegetables and cook until tender. Stir in diced tomato, cumin seeds, cinnamon, cloves, bay leaf, turmeric, coriander powder, and garam masala. Layer cooked rice and vegetable mixture in a pot. Top with yogurt, mint leaves, and chopped cilantro. Cover and cook until rice is fully cooked. Serve hot."
+    },
+    {
+      "Recipe": "Roasted Vegetable Tart",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Puff pastry", "Zucchini", "Yellow squash", "Red bell pepper", "Eggplant", "Cherry tomatoes", "Olive oil", "Balsamic vinegar", "Garlic", "Fresh thyme", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Roll out puff pastry and place on a baking sheet. Score a border around the edges. Arrange sliced vegetables on top of the puff pastry. Drizzle with olive oil, balsamic vinegar, minced garlic, fresh thyme leaves, salt, and pepper. Bake for 25-30 minutes or until pastry is golden brown."
+    },
+    {
+      "Recipe": "Teriyaki Tofu Stir-Fry",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Firm tofu", "Broccoli", "Bell pepper", "Snap peas", "Carrot", "Onion", "Garlic", "Ginger", "Teriyaki sauce", "Soy sauce", "Sesame oil", "Rice vinegar", "Cornstarch", "Water"],
+      "Instructions": "Press tofu to remove excess water, then cut into cubes. Sauté cubed tofu until golden brown. Add sliced vegetables and cook until tender-crisp. Mix teriyaki sauce, soy sauce, rice vinegar, sesame oil, cornstarch, and water. Pour over the tofu and vegetables. Cook until sauce thickens. Serve hot with rice or noodles."
+    },
+    {
+      "Recipe": "Caprese Stuffed Portobello Mushrooms",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Portobello mushrooms", "Tomato", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic glaze", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Remove stems from portobello mushrooms and clean them. Brush with olive oil, season with salt and pepper. Bake for 10 minutes. Fill each mushroom with sliced tomato, fresh mozzarella cheese, and basil leaves. Drizzle with balsamic glaze. Bake for an additional 5 minutes until cheese melts. Serve hot."
+    },
+    {
+      "Recipe": "Vegetable Paella",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Arborio rice", "Vegetable broth", "Onion", "Bell pepper", "Tomato", "Garlic", "Artichoke hearts", "Green beans", "Peas", "Saffron", "Paprika", "Salt", "Pepper", "Lemon wedges"],
+      "Instructions": "Sauté diced onion, minced garlic, sliced bell pepper, and diced tomato in a large paella pan until softened. Stir in arborio rice, saffron, paprika, salt, and pepper. Add vegetable broth and bring to a simmer. Arrange artichoke hearts, green beans, and peas on top of the rice mixture. Cover and cook until rice is tender and liquid is absorbed. Serve hot with lemon wedges."
+    },
+    {
+      "Recipe": "Vegetarian Pad Thai",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Rice noodles", "Tofu", "Bean sprouts", "Scallions", "Garlic", "Egg", "Peanuts", "Soy sauce", "Tamarind paste", "Sugar", "Chili flakes", "Lime wedges"],
+      "Instructions": "Cook rice noodles according to package instructions. Drain and set aside. Sauté diced tofu, minced garlic, and sliced scallions until tofu is golden. Push tofu to the side and scramble the egg in the same pan. Add cooked noodles, bean sprouts, chopped peanuts, soy sauce, tamarind paste, sugar, and chili flakes. Stir-fry until heated through. Serve hot with lime wedges."
+    },
+    {
+      "Recipe": "Ratatouille",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Eggplant", "Zucchini", "Yellow squash", "Bell pepper", "Tomato", "Onion", "Garlic", "Olive oil", "Fresh thyme", "Fresh basil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Thinly slice vegetables. Arrange sliced vegetables in a baking dish in an alternating pattern. Drizzle with olive oil, sprinkle with minced garlic, fresh thyme leaves, salt, and pepper. Cover with foil and bake for 45 minutes. Remove foil and bake for an additional 15 minutes until vegetables are tender. Garnish with fresh basil. Serve hot."
+    },
+    {
+      "Recipe": "Vegetarian Chili",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Kidney beans", "Black beans", "Tomatoes", "Bell pepper", "Onion", "Garlic", "Chili powder", "Cumin", "Oregano", "Vegetable broth", "Corn", "Salt", "Pepper", "Avocado", "Cilantro", "Lime wedges"],
+      "Instructions": "Sauté diced onion, minced garlic, and sliced bell pepper until softened. Add diced tomatoes, drained kidney beans, drained black beans, chili powder, cumin, oregano, vegetable broth, and corn. Bring to a boil, then reduce heat and simmer for 20 minutes. Season with salt and pepper. Serve hot with diced avocado, chopped cilantro, and lime wedges."
+    },
+    {
+      "Recipe": "Shakshuka",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Eggs", "Tomatoes", "Bell pepper", "Onion", "Garlic", "Paprika", "Cumin", "Red pepper flakes", "Olive oil", "Salt", "Pepper", "Fresh parsley", "Crusty bread"],
+      "Instructions": "Sauté sliced onion, diced bell pepper, and minced garlic in olive oil until softened. Add diced tomatoes, paprika, cumin, and red pepper flakes. Simmer until tomatoes break down. Make wells in the sauce and crack eggs into them. Cover and cook until eggs are set. Season with salt, pepper, and chopped parsley. Serve hot with crusty bread."
+    },
+    {
+      "Recipe": "Mushroom Risotto",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Arborio rice", "Mushrooms", "Onion", "Garlic", "Vegetable broth", "White wine", "Parmesan cheese", "Butter", "Olive oil", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "Sauté diced onion and minced garlic in olive oil and butter until translucent. Add sliced mushrooms and cook until tender. Stir in arborio rice and cook for 1-2 minutes. Deglaze the pan with white wine. Gradually add vegetable broth, stirring constantly until absorbed. Stir in grated Parmesan cheese, salt, pepper, and chopped parsley. Serve hot."
+    },
+    {
+      "Recipe": "Tuna Nicoise Salad",
+      "Risk Category": "Moderate Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 3.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Tuna", "Mixed greens", "Boiled potatoes", "Hard-boiled eggs", "Green beans", "Cherry tomatoes", "Kalamata olives", "Red onion", "Dijon mustard", "Red wine vinegar", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Season tuna with salt and pepper. Sear in a hot pan for 2-3 minutes per side. Slice thinly. Arrange mixed greens on a plate. Top with sliced boiled potatoes, halved hard-boiled eggs, blanched green beans, halved cherry tomatoes, sliced Kalamata olives, and thinly sliced red onion. Drizzle with a dressing made from Dijon mustard, red wine vinegar, olive oil, salt, and pepper."
+    },
+    {
+      "Recipe": "Falafel with Tzatziki Sauce",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Chickpeas", "Onion", "Garlic", "Parsley", "Cumin", "Coriander", "Baking powder", "Flour", "Salt", "Pepper", "Greek yogurt", "Cucumber", "Lemon juice", "Dill", "Pita bread"],
+      "Instructions": "Blend chickpeas, diced onion, minced garlic, chopped parsley, ground cumin, ground coriander, baking powder, flour, salt, and pepper until combined. Form into balls and flatten slightly. Fry until golden brown. Mix Greek yogurt, grated cucumber, lemon juice, chopped dill, salt, and pepper for tzatziki sauce. Serve falafel in pita bread with tzatziki sauce."
+    },
+    {
+      "Recipe": "Ratatouille Stuffed Peppers",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Red bell peppers", "Eggplant", "Zucchini", "Tomato", "Onion", "Garlic", "Olive oil", "Fresh thyme", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Slice the tops off red bell peppers and remove seeds. Sauté diced eggplant, diced zucchini, diced tomato, minced onion, and minced garlic until softened. Stir in olive oil, fresh thyme leaves, salt, and pepper. Spoon the ratatouille mixture into the bell peppers. Bake for 25-30 minutes or until peppers are tender. Serve hot."
+    },
+    {
+      "Recipe": "Pasta Primavera",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Pasta", "Broccoli", "Carrot", "Zucchini", "Yellow squash", "Bell pepper", "Cherry tomatoes", "Garlic", "Olive oil", "Fresh basil", "Parmesan cheese", "Salt", "Pepper"],
+      "Instructions": "Cook pasta according to package instructions. Drain and set aside. Sauté sliced vegetables and minced garlic in olive oil until tender-crisp. Toss cooked pasta with sautéed vegetables, chopped fresh basil, grated Parmesan cheese, salt, and pepper. Serve hot."
+    },
+    {
+      "Recipe": "Moroccan Chickpea Tagine",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Chickpeas", "Tomatoes", "Carrot", "Onion", "Garlic", "Ginger", "Turmeric", "Cinnamon", "Cumin", "Coriander", "Vegetable broth", "Lemon", "Dates", "Cilantro", "Almonds"],
+      "Instructions": "Sauté diced onion, minced garlic, and grated ginger until fragrant. Add diced tomatoes, sliced carrot, drained chickpeas, turmeric, cinnamon, cumin, coriander, and vegetable broth. Simmer until vegetables are tender. Stir in lemon zest, chopped dates, and chopped cilantro. Serve hot garnished with toasted almonds."
+    },
+    {
+      "Recipe": "Mushroom Spinach Lasagna",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Lasagna noodles", "Mushrooms", "Baby spinach", "Ricotta cheese", "Parmesan cheese", "Mozzarella cheese", "Egg", "Garlic", "Olive oil", "Marinara sauce", "Salt", "Pepper"],
+      "Instructions": "Cook lasagna noodles according to package instructions. Drain and set aside. Sauté sliced mushrooms and minced garlic in olive oil until tender. Mix ricotta cheese, grated Parmesan cheese, shredded mozzarella cheese, beaten egg, salt, and pepper. Layer lasagna noodles with marinara sauce, mushroom mixture, spinach, and cheese mixture. Repeat layers. Bake for 30-35 minutes or until bubbly."
+    },
+    {
+      "Recipe": "Coconut Curry Lentil Soup",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Red lentils", "Coconut milk", "Carrot", "Celery", "Onion", "Garlic", "Ginger", "Curry powder", "Vegetable broth", "Lime", "Cilantro", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion, minced garlic, and grated ginger until softened. Add diced carrot and celery, curry powder, and red lentils. Cook until lentils are tender. Stir in coconut milk and vegetable broth. Simmer until heated through. Season with lime juice, chopped cilantro, salt, and pepper. Serve hot."
+    },
+    {
+      "Recipe": "Vegetarian Sushi Rolls",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Sushi rice", "Nori sheets", "Cucumber", "Carrot", "Avocado", "Bell pepper", "Soy sauce", "Wasabi", "Pickled ginger"],
+      "Instructions": "Cook sushi rice according to package instructions. Place a nori sheet on a bamboo sushi mat. Spread cooked rice evenly over the nori sheet, leaving a border at the top. Arrange sliced cucumber, julienne carrot, sliced avocado, and sliced bell pepper on the rice. Roll tightly using the sushi mat. Slice into pieces. Serve with soy sauce, wasabi, and pickled ginger."
+    },
+    {
+      "Recipe": "Vegetable Fajitas",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bell peppers", "Onion", "Zucchini", "Yellow squash", "Mushrooms", "Garlic", "Cumin", "Chili powder", "Paprika", "Lime", "Tortillas", "Guacamole", "Salsa"],
+      "Instructions": "Slice bell peppers, onion, zucchini, yellow squash, and mushrooms. Sauté sliced vegetables and minced garlic in olive oil until tender-crisp. Stir in cumin, chili powder, and paprika. Squeeze lime juice over the vegetables. Serve hot with tortillas, guacamole, and salsa."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Tomato", "Onion", "Garlic", "Chili powder", "Cumin", "Oregano", "Salt", "Pepper", "Cheddar cheese", "Cilantro"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds. Roast bell peppers for 15 minutes. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Add cooked quinoa, drained black beans, corn, diced tomato, chili powder, cumin, oregano, salt, and pepper. Stir in shredded cheddar cheese and chopped cilantro. Stuff mixture into roasted bell peppers. Bake for an additional 15 minutes or until peppers are tender."
+    },
+    {
+      "Recipe": "Vegetarian Bibimbap",
+      "Risk Category": "Low Cholesterol",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Short-grain rice", "Carrot", "Spinach", "Zucchini", "Bean sprouts", "Egg", "Soy sauce", "Sesame oil", "Garlic", "Gochujang", "Sesame seeds"],
+      "Instructions": "Cook short-grain rice according to package instructions. Divide cooked rice among bowls. Sauté julienned carrot, blanched spinach, sliced zucchini, and blanched bean sprouts separately in sesame oil and minced garlic. Fry an egg sunny-side-up. Arrange cooked vegetables and fried egg on top of the rice. Serve with a mixture of soy sauce, sesame oil, and gochujang. Sprinkle with sesame seeds."
+    },
+  
+  
+  
+  
+    {
+      "Recipe": "Oatmeal with Berries",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Oats", "Berries", "Almond milk", "Cinnamon", "Honey"],
+      "Instructions": "Cook oats in almond milk until creamy. Top with fresh berries, a sprinkle of cinnamon, and a drizzle of honey."
+    },
+    {
+      "Recipe": "Grilled Chicken Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Chicken breast", "Mixed greens", "Tomatoes", "Cucumber", "Red onion", "Balsamic vinaigrette"],
+      "Instructions": "Grill chicken breast until cooked through. Slice and serve on a bed of mixed greens with sliced tomatoes, cucumber, and red onion. Drizzle with balsamic vinaigrette."
+    },
+    {
+      "Recipe": "Vegetable Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Broccoli", "Bell pepper", "Carrot", "Snap peas", "Onion", "Garlic", "Ginger", "Soy sauce", "Sesame oil"],
+      "Instructions": "Stir-fry broccoli, sliced bell pepper, julienned carrot, snap peas, sliced onion, minced garlic, and grated ginger in sesame oil. Add soy sauce and cook until vegetables are tender-crisp."
+    },
+    {
+      "Recipe": "Quinoa Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Quinoa", "Cucumber", "Tomatoes", "Red onion", "Parsley", "Lemon juice", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions. Allow to cool, then toss with diced cucumber, diced tomatoes, diced red onion, chopped parsley, lemon juice, olive oil, salt, and pepper."
+    },
+    {
+      "Recipe": "Mediterranean Chickpea Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Cucumber", "Tomatoes", "Red onion", "Feta cheese", "Kalamata olives", "Olive oil", "Lemon juice", "Garlic", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Mix cooked chickpeas with diced cucumber, diced tomatoes, diced red onion, crumbled feta cheese, halved Kalamata olives, olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper."
+    },
+    {
+      "Recipe": "Roasted Vegetables",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Carrots", "Broccoli", "Zucchini", "Bell peppers", "Red onion", "Olive oil", "Garlic powder", "Paprika", "Salt", "Pepper"],
+      "Instructions": "Toss sliced carrots, broccoli florets, sliced zucchini, sliced bell peppers, and sliced red onion with olive oil, garlic powder, paprika, salt, and pepper. Roast in the oven until vegetables are tender."
+    },
+    {
+      "Recipe": "Greek Yogurt Parfait",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Greek yogurt", "Berries", "Granola", "Honey"],
+      "Instructions": "Layer Greek yogurt, fresh berries, and granola in a glass. Drizzle with honey."
+    },
+    {
+      "Recipe": "Grilled Salmon with Asparagus",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Salmon fillet", "Asparagus", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+      "Instructions": "Season salmon fillet with olive oil, lemon juice, minced garlic, salt, and pepper. Grill until cooked through. Serve with grilled asparagus."
+    },
+    {
+      "Recipe": "Eggplant Parmesan",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Eggplant", "Tomato sauce", "Mozzarella cheese", "Parmesan cheese", "Breadcrumbs", "Egg", "Italian seasoning", "Garlic powder", "Salt", "Pepper"],
+      "Instructions": "Slice eggplant and dip in beaten egg. Coat with breadcrumbs mixed with Italian seasoning, garlic powder, salt, and pepper. Bake until crispy. Layer with tomato sauce, mozzarella cheese, and Parmesan cheese. Bake until cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Vegetarian Chili",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Kidney beans", "Black beans", "Tomatoes", "Bell pepper", "Onion", "Garlic", "Chili powder", "Cumin", "Oregano", "Vegetable broth", "Corn", "Salt", "Pepper", "Avocado", "Cilantro", "Lime wedges"],
+      "Instructions": "Sauté diced onion, minced garlic, and sliced bell pepper until softened. Add diced tomatoes, drained kidney beans, drained black beans, chili powder, cumin, oregano, vegetable broth, and corn. Bring to a boil, then reduce heat and simmer for 20 minutes. Season with salt and pepper. Serve hot with diced avocado, chopped cilantro, and lime wedges."
+    },
+    {
+      "Recipe": "Caprese Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic glaze", "Extra virgin olive oil", "Salt", "Pepper"],
+      "Instructions": "Slice tomatoes and fresh mozzarella cheese. Arrange on a plate with fresh basil leaves. Drizzle with balsamic glaze and extra virgin olive oil. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Vegetable Paella",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Rice", "Vegetable broth", "Bell peppers", "Tomatoes", "Green beans", "Artichoke hearts", "Onion", "Garlic", "Saffron", "Paprika", "Salt", "Pepper", "Lemon wedges"],
+      "Instructions": "Sauté diced onion and minced garlic in olive oil until softened. Add diced bell peppers, diced tomatoes, trimmed green beans, drained artichoke hearts, rice, saffron, paprika, salt, and pepper. Stir in vegetable broth and bring to a boil. Reduce heat and simmer until rice is cooked. Serve hot with lemon wedges."
+    },
+    {
+      "Recipe": "Vegetarian Pad Thai",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Rice noodles", "Tofu", "Bean sprouts", "Carrots", "Bell pepper", "Green onions", "Egg", "Garlic", "Peanuts", "Soy sauce", "Tamarind paste", "Sugar", "Lime wedges"],
+      "Instructions": "Soak rice noodles in warm water until softened. Drain and set aside. Sauté sliced tofu, bean sprouts, julienned carrots, sliced bell pepper, and sliced green onions in olive oil until tender. Push vegetables to the side and scramble egg in the same pan. Add minced garlic and chopped peanuts. Stir in soaked rice noodles, soy sauce, tamarind paste, and sugar. Cook until heated through. Serve hot with lime wedges."
+    },
+    {
+      "Recipe": "Vegetable Curry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Potatoes", "Carrots", "Bell peppers", "Green peas", "Onion", "Garlic", "Ginger", "Curry powder", "Coconut milk", "Vegetable broth", "Cilantro", "Rice"],
+      "Instructions": "Sauté diced onion, minced garlic, and grated ginger until fragrant. Add diced potatoes, sliced carrots, diced bell peppers, and green peas. Stir in curry powder, coconut milk, and vegetable broth. Simmer until vegetables are tender. Serve hot over cooked rice. Garnish with chopped cilantro."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Tomato", "Onion", "Garlic", "Chili powder", "Cumin", "Oregano", "Salt", "Pepper", "Cheddar cheese", "Cilantro"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds. Roast bell peppers for 15 minutes. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Add cooked quinoa, drained black beans, corn, diced tomato, chili powder, cumin, oregano, salt, and pepper. Stir in shredded cheddar cheese and chopped cilantro. Stuff mixture into roasted bell peppers. Bake for an additional 15 minutes or until peppers are tender."
+    },
+    {
+      "Recipe": "Vegetarian Bibimbap",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Short-grain rice", "Carrot", "Spinach", "Zucchini", "Bean sprouts", "Egg", "Soy sauce", "Sesame oil", "Garlic", "Gochujang", "Sesame seeds"],
+      "Instructions": "Cook short-grain rice according to package instructions. Divide cooked rice among bowls. Sauté julienned carrot, blanched spinach, sliced zucchini, and blanched bean sprouts separately in sesame oil and minced garlic. Fry an egg sunny-side-up. Arrange cooked vegetables and fried egg on top of the rice. Serve with a mixture of soy sauce, sesame oil, and gochujang. Sprinkle with sesame seeds."
+    },
+    {
+      "Recipe": "Chickpea Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Cucumber", "Tomatoes", "Red onion", "Feta cheese", "Kalamata olives", "Olive oil", "Lemon juice", "Garlic", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Mix cooked chickpeas with diced cucumber, diced tomatoes, diced red onion, crumbled feta cheese, halved Kalamata olives, olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper."
+    },
+    {
+      "Recipe": "Roasted Cauliflower",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Cauliflower", "Olive oil", "Garlic powder", "Paprika", "Salt", "Pepper"],
+      "Instructions": "Toss cauliflower florets with olive oil, garlic powder, paprika, salt, and pepper. Roast in the oven until golden brown and tender."
+    },
+    {
+      "Recipe": "Vegetable Frittata",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Eggs", "Bell peppers", "Spinach", "Tomatoes", "Onion", "Garlic", "Mushrooms", "Parmesan cheese", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion, minced garlic, sliced bell peppers, sliced mushrooms, and diced tomatoes until softened. Add spinach and cook until wilted. Beat eggs with grated Parmesan cheese, salt, and pepper. Pour over vegetables in the pan. Cook until the bottom is set, then transfer to the oven and broil until the top is golden brown and cooked through."
+    },
+    {
+      "Recipe": "Mushroom Risotto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Arborio rice", "Mushrooms", "Onion", "Garlic", "Vegetable broth", "White wine", "Parmesan cheese", "Butter", "Parsley", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion and minced garlic in butter until softened. Add sliced mushrooms and cook until browned. Stir in Arborio rice and cook for a few minutes. Add white wine and cook until absorbed. Gradually add vegetable broth, stirring constantly, until rice is creamy and cooked through. Stir in grated Parmesan cheese, chopped parsley, salt, and pepper."
+    },
+    {
+      "Recipe": "Shakshuka",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Eggs", "Tomatoes", "Bell pepper", "Onion", "Garlic", "Cumin", "Paprika", "Red pepper flakes", "Olive oil", "Parsley", "Salt", "Pepper", "Crusty bread"],
+      "Instructions": "Sauté diced onion, sliced bell pepper, and minced garlic in olive oil until softened. Add diced tomatoes, cumin, paprika, and red pepper flakes. Simmer until thickened. Make wells in the sauce and crack eggs into them. Cover and cook until eggs are set. Garnish with chopped parsley and serve with crusty bread."
+    },
+    {
+      "Recipe": "Lentil Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Bay leaf", "Thyme", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion, minced garlic, diced carrots, and diced celery until softened. Add lentils, diced tomatoes, vegetable broth, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer until lentils are tender. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Vegetarian Sushi Rolls",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Sushi rice", "Nori sheets", "Cucumber", "Avocado", "Carrot", "Bell pepper", "Radish", "Soy sauce", "Wasabi", "Pickled ginger"],
+      "Instructions": "Prepare sushi rice according to package instructions. Place a nori sheet on a bamboo mat. Spread rice over the nori, leaving a border along the edges. Arrange julienned cucumber, sliced avocado, matchstick carrots, sliced bell pepper, and sliced radish in the center. Roll tightly using the bamboo mat. Slice into rounds. Serve with soy sauce, wasabi, and pickled ginger."
+    },
+    {
+      "Recipe": "Mango Avocado Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Mango", "Avocado", "Mixed greens", "Red onion", "Lime juice", "Olive oil", "Honey", "Salt", "Pepper"],
+      "Instructions": "Slice mango and avocado. Toss mixed greens with sliced red onion. Arrange mango and avocado slices on top. Whisk together lime juice, olive oil, honey, salt, and pepper. Drizzle over the salad."
+    },
+    {
+      "Recipe": "Greek Pasta Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Pasta", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Red wine vinegar", "Dijon mustard", "Garlic", "Oregano", "Salt", "Pepper"],
+      "Instructions": "Cook pasta according to package instructions. Rinse with cold water and drain. Toss with diced cucumber, halved cherry tomatoes, sliced red onion, halved Kalamata olives, crumbled feta cheese, olive oil, red wine vinegar, Dijon mustard, minced garlic, dried oregano, salt, and pepper."
+    },
+    {
+      "Recipe": "Vegetable Lo Mein",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Lo mein noodles", "Bell peppers", "Carrots", "Snow peas", "Mushrooms", "Broccoli", "Green onions", "Garlic", "Ginger", "Soy sauce", "Sesame oil"],
+      "Instructions": "Cook lo mein noodles according to package instructions. Drain and set aside. Sauté sliced bell peppers, julienned carrots, trimmed snow peas, sliced mushrooms, broccoli florets, sliced green onions, minced garlic, and grated ginger in sesame oil until tender-crisp. Toss with cooked noodles and soy sauce."
+    },
+    {
+      "Recipe": "Cucumber Tomato Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 110,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Cucumber", "Tomatoes", "Red onion", "Balsamic vinegar", "Olive oil", "Honey", "Salt", "Pepper"],
+      "Instructions": "Slice cucumber, halve cherry tomatoes, and thinly slice red onion. Toss with balsamic vinegar, olive oil, honey, salt, and pepper."
+    },
+    {
+      "Recipe": "Mushroom Spinach Quesadillas",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Flour tortillas", "Mushrooms", "Spinach", "Red onion", "Garlic", "Cheddar cheese", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Sauté sliced mushrooms, chopped spinach, diced red onion, and minced garlic in olive oil until vegetables are tender. Season with salt and pepper. Spread mixture over half of a flour tortilla. Top with shredded cheddar cheese. Fold tortilla in half. Cook in a skillet until golden brown on both sides."
+    },
+    {
+      "Recipe": "Vegetable Pizza",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella cheese", "Bell peppers", "Red onion", "Mushrooms", "Spinach", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Roll out pizza dough on a baking sheet. Spread tomato sauce over the dough. Top with shredded mozzarella cheese, sliced bell peppers, sliced red onion, sliced mushrooms, and chopped spinach. Drizzle with olive oil. Season with salt and pepper. Bake in a preheated oven according to dough instructions."
+    },
+    {
+      "Recipe": "Vegetable Lentil Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Bay leaf", "Thyme", "Salt", "Pepper"],
+      "Instructions": "Sauté diced onion, minced garlic, diced carrots, and diced celery until softened. Add lentils, diced tomatoes, vegetable broth, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer until lentils are tender. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Vegetable Stir-Fry with Tofu",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Tofu", "Broccoli", "Bell pepper", "Carrots", "Snap peas", "Onion", "Garlic", "Ginger", "Soy sauce", "Sesame oil"],
+      "Instructions": "Press tofu to remove excess moisture, then cut into cubes. Stir-fry tofu until golden brown. Remove from pan. Stir-fry broccoli, sliced bell pepper, julienned carrot, snap peas, sliced onion, minced garlic, and grated ginger in sesame oil. Add tofu back to the pan along with soy sauce. Cook until vegetables are tender-crisp."
+    },
+  {
+  "Recipe": "Quinoa Salad with Roasted Vegetables",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 280,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 6,
+  "Ingredients": ["Quinoa", "Bell peppers", "Zucchini", "Cherry tomatoes", "Red onion", "Garlic", "Olive oil", "Balsamic vinegar", "Salt", "Pepper", "Fresh basil"],
+  "Instructions": "Cook quinoa according to package instructions. Toss sliced bell peppers, sliced zucchini, halved cherry tomatoes, and thinly sliced red onion with minced garlic, olive oil, balsamic vinegar, salt, and pepper. Roast in the oven until vegetables are tender. Serve over cooked quinoa and garnish with fresh basil."
+  },
+  {
+  "Recipe": "Vegetarian Chili",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 270,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 7,
+  "Ingredients": ["Kidney beans", "Black beans", "Bell peppers", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Chili powder", "Cumin", "Oregano", "Salt", "Pepper"],
+  "Instructions": "Sauté diced onion and minced garlic until softened. Add diced bell peppers and cook until tender. Stir in kidney beans, black beans, diced tomatoes, vegetable broth, chili powder, cumin, oregano, salt, and pepper. Simmer until flavors are blended. Serve hot."
+  },
+  {
+  "Recipe": "Spinach and Feta Stuffed Portobello Mushrooms",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 250,
+  "Saturated Fat (g) per serving": 2,
+  "Fiber (g) per serving": 4,
+  "Ingredients": ["Portobello mushrooms", "Spinach", "Feta cheese", "Garlic", "Olive oil", "Salt", "Pepper"],
+  "Instructions": "Remove stems from portobello mushrooms and brush with olive oil. Bake in the oven until tender. Sauté chopped spinach with minced garlic until wilted. Stir in crumbled feta cheese. Stuff spinach mixture into mushroom caps. Bake until heated through. Season with salt and pepper."
+  },
+  {
+  "Recipe": "Vegetable and Tofu Stir-Fry",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 260,
+  "Saturated Fat (g) per serving": 1,
+  "Fiber (g) per serving": 5,
+  "Ingredients": ["Tofu", "Broccoli", "Carrots", "Bell peppers", "Snap peas", "Onion", "Garlic", "Ginger", "Soy sauce", "Rice vinegar", "Sesame oil", "Cornstarch", "Water", "Sesame seeds"],
+  "Instructions": "Press tofu to remove excess moisture, then cut into cubes. Sauté tofu in sesame oil until golden brown. Remove from pan. Stir-fry chopped broccoli, sliced carrots, sliced bell peppers, snap peas, sliced onion, minced garlic, and grated ginger in sesame oil. Mix soy sauce, rice vinegar, cornstarch, and water to make a sauce. Add sauce and tofu back to the pan. Cook until vegetables are tender-crisp. Serve hot, garnished with sesame seeds."
+  },
+  {
+  "Recipe": "Vegetable Quiche",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 280,
+  "Saturated Fat (g) per serving": 2,
+  "Fiber (g) per serving": 3,
+  "Ingredients": ["Pie crust", "Eggs", "Milk", "Spinach", "Bell peppers", "Mushrooms", "Onion", "Garlic", "Cheddar cheese", "Salt", "Pepper", "Nutmeg"],
+  "Instructions": "Preheat oven to 375°F (190°C). Line a pie dish with pie crust. Sauté chopped spinach, diced bell peppers, sliced mushrooms, and diced onion until tender. Whisk together eggs, milk, salt, pepper, and a pinch of nutmeg. Stir in cooked vegetables and shredded cheddar cheese. Pour mixture into pie crust. Bake for 35-40 minutes or until set and golden brown."
+  },
+  {
+  "Recipe": "Vegetarian Soba Noodle Salad",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 270,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 4,
+  "Ingredients": ["Soba noodles", "Edamame", "Carrots", "Cucumber", "Bell peppers", "Green onions", "Sesame seeds", "Rice vinegar", "Soy sauce", "Sesame oil", "Honey", "Garlic", "Ginger"],
+  "Instructions": "Cook soba noodles according to package instructions. Rinse under cold water and drain. Toss cooked soba noodles with shelled edamame, julienned carrots, sliced cucumber, diced bell peppers, sliced green onions, and sesame seeds. Whisk together rice vinegar, soy sauce, sesame oil, honey, minced garlic, and grated ginger. Toss dressing with noodles and vegetables. Serve chilled."
+  },
+  {
+  "Recipe": "Vegetarian Enchiladas",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 290,
+  "Saturated Fat (g) per serving": 2,
+  "Fiber (g) per serving": 5,
+  "Ingredients": ["Corn tortillas", "Black beans", "Corn", "Bell peppers", "Onion", "Garlic", "Enchilada sauce", "Cheddar cheese", "Cilantro", "Avocado", "Greek yogurt"],
+  "Instructions": "Preheat oven to 375°F (190°C). Warm corn tortillas in the microwave. Fill each tortilla with a mixture of black beans, corn, diced bell peppers, diced onion, and minced garlic. Roll up and place seam-side down in a baking dish. Pour enchilada sauce over the top. Sprinkle with shredded cheddar cheese. Bake for 20-25 minutes or until cheese is melted and bubbly. Serve hot with chopped cilantro, diced avocado, and a dollop of Greek yogurt."
+  },
+  {
+  "Recipe": "Vegetarian Buddha Bowl",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 280,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 6,
+  "Ingredients": ["Quinoa", "Chickpeas", "Sweet potatoes", "Broccoli", "Carrots", "Red cabbage", "Avocado", "Tahini dressing", "Lemon wedges"],
+  "Instructions": "Cook quinoa according to package instructions. Roast chickpeas and diced sweet potatoes in the oven until crispy. Steam broccoli and carrots until tender-crisp. Shred red cabbage. Assemble bowls with cooked quinoa, roasted chickpeas and sweet potatoes, steamed broccoli and carrots, shredded red cabbage, sliced avocado, and drizzle with tahini dressing. Serve with lemon wedges for squeezing."
+  },
+  {
+  "Recipe": "Vegetarian Stuffed Peppers",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 260,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 5,
+  "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Onion", "Garlic", "Tomatoes", "Cumin", "Chili powder", "Salt", "Pepper", "Cheddar cheese", "Cilantro"],
+  "Instructions": "Preheat oven to 375°F (190°C). Cut bell peppers in half lengthwise and remove seeds. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Stir in cooked quinoa, drained black beans, corn, diced tomatoes, cumin, chili powder, salt, and pepper. Spoon mixture into bell pepper halves. Top with shredded cheddar cheese. Bake for 25-30 minutes or until peppers are tender. Garnish with chopped cilantro."
+  },
+  {
+  "Recipe": "Vegetarian Pad Thai",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 270,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 4,
+  "Ingredients": ["Rice noodles", "Tofu", "Carrots", "Bean sprouts", "Green onions", "Eggs", "Peanuts", "Cilantro", "Lime wedges", "Pad Thai sauce"],
+  "Instructions": "Soak rice noodles in hot water until softened. Drain and set aside. Press tofu to remove excess moisture, then cut into cubes. Sauté tofu in a pan until golden brown. Push tofu to one side of the pan and crack eggs into the other side. Scramble eggs until cooked through, then mix with tofu. Add julienned carrots, bean sprouts, sliced green onions, and soaked rice noodles to the pan. Pour pad Thai sauce over the top and toss until heated through. Serve hot, garnished with chopped peanuts, cilantro, and lime wedges."
+  },
+  {
+  "Recipe": "Vegetarian Chickpea Curry",
+  "Risk Category": "Diabetes",
+  "Calories per serving": 280,
+  "Saturated Fat (g) per serving": 1.5,
+  "Fiber (g) per serving": 6,
+  "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Coconut milk", "Curry powder", "Turmeric", "Cumin", "Coriander", "Cayenne pepper", "Salt", "Pepper", "Cilantro"],
+  "Instructions": "Sauté diced onion, minced garlic, and grated ginger in a pot until softened. Stir in diced tomatoes, drained chickpeas, coconut milk, curry powder, turmeric, cumin, coriander, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally, until flavors are blended and sauce thickens. Serve hot, garnished with chopped cilantro."
+  },
+    {
+      "Recipe": "Mediterranean Chickpea Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Chickpeas", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Garlic", "Dried oregano", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "In a large bowl, combine chickpeas, diced cucumber, halved cherry tomatoes, thinly sliced red onion, pitted and halved kalamata olives, and crumbled feta cheese. In a small bowl, whisk together olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper. Pour dressing over salad and toss to coat. Garnish with chopped fresh parsley before serving."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Shepherd's Pie",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomato paste", "Vegetable broth", "Frozen peas", "Corn", "Mashed potatoes", "Butter", "Milk", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). In a large pot, sauté diced onion, minced garlic, chopped carrots, and diced celery until softened. Stir in cooked lentils, tomato paste, and vegetable broth. Simmer until mixture thickens. Add frozen peas and corn. Season with salt and pepper. Transfer lentil mixture to a baking dish. Spread mashed potatoes over the top. Bake for 25-30 minutes or until heated through and golden brown."
+    },
+    {
+      "Recipe": "Vegetarian Eggplant Parmesan",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Eggplant", "Whole wheat breadcrumbs", "Eggs", "Mozzarella cheese", "Parmesan cheese", "Tomato sauce", "Garlic powder", "Dried basil", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Slice eggplant into rounds. Dip eggplant slices in beaten eggs, then coat in whole wheat breadcrumbs. Place on a baking sheet lined with parchment paper. Bake for 20 minutes or until golden brown. In a baking dish, layer baked eggplant slices with tomato sauce, shredded mozzarella cheese, and grated Parmesan cheese. Sprinkle with garlic powder, dried basil, dried oregano, salt, and pepper. Repeat layers. Bake for an additional 20 minutes or until cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Loaf",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Eggs", "Whole wheat breadcrumbs", "Ketchup", "Worcestershire sauce", "Dijon mustard", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cook lentils according to package instructions. Sauté diced onion, minced garlic, chopped carrots, and diced celery until softened. In a large bowl, combine cooked lentils, sautéed vegetables, beaten eggs, whole wheat breadcrumbs, ketchup, Worcestershire sauce, Dijon mustard, salt, and pepper. Transfer mixture to a greased loaf pan. Bake for 40-45 minutes or until firm and golden brown."
+    },
+    {
+      "Recipe": "Vegetarian Cauliflower Fried Rice",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Cauliflower", "Carrots", "Peas", "Bell peppers", "Onion", "Garlic", "Eggs", "Soy sauce", "Sesame oil", "Scallions", "Sesame seeds"],
+      "Instructions": "Pulse cauliflower florets in a food processor until they resemble rice grains. Sauté riced cauliflower, diced carrots, peas, diced bell peppers, and diced onion until tender. Push vegetables to one side of the pan and scramble eggs on the other side. Once eggs are cooked, mix with vegetables. Stir in soy sauce and sesame oil. Garnish with sliced scallions and sesame seeds before serving."
+    },
+    {
+      "Recipe": "Vegetarian Stuffed Acorn Squash",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Acorn squash", "Quinoa", "Kale", "Pecans", "Dried cranberries", "Onion", "Garlic", "Olive oil", "Maple syrup", "Cinnamon", "Nutmeg", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Cut acorn squash in half lengthwise and remove seeds. Place squash halves cut-side down on a baking sheet lined with parchment paper. Roast for 30 minutes. Cook quinoa according to package instructions. Sauté chopped kale, diced onion, and minced garlic in olive oil until kale is wilted. Stir in cooked quinoa, chopped pecans, dried cranberries, maple syrup, cinnamon, nutmeg, salt, and pepper. Divide filling among roasted squash halves. Return to oven and bake for an additional 15 minutes or until squash is tender."
+    },
+    {
+      "Recipe": "Vegetarian Black Bean Tacos",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Black beans", "Bell peppers", "Onion", "Garlic", "Cumin", "Chili powder", "Salt", "Pepper", "Whole wheat tortillas", "Avocado", "Salsa", "Greek yogurt", "Cilantro"],
+      "Instructions": "Rinse and drain black beans. Sauté diced bell peppers, diced onion, and minced garlic until softened. Stir in black beans, cumin, chili powder, salt, and pepper. Cook until heated through. Warm whole wheat tortillas. Fill tortillas with black bean mixture. Top with sliced avocado, salsa, Greek yogurt, and chopped cilantro."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 8,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Vegetable broth", "Tomatoes", "Bay leaves", "Thyme", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "In a large pot, sauté diced onion, minced garlic, chopped carrots, and diced celery until softened. Add rinsed lentils, vegetable broth, diced tomatoes, bay leaves, and thyme. Bring to a boil, then reduce heat and simmer for 30-40 minutes or until lentils are tender. Season with salt and pepper. Garnish with chopped fresh parsley before serving."
+    },
+    {
+      "Recipe": "Vegetarian Caprese Stuffed Portobello Mushrooms",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Portobello mushrooms", "Tomatoes", "Fresh mozzarella cheese", "Basil leaves", "Balsamic glaze", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Remove stems from portobello mushrooms and brush with olive oil. Place mushrooms on a baking sheet lined with parchment paper. Top each mushroom with sliced tomatoes, fresh mozzarella cheese, and basil leaves. Drizzle with balsamic glaze. Season with salt and pepper. Bake for 20 minutes or until mushrooms are tender and cheese is melted."
+    },
+    {
+      "Recipe": "Vegetarian Chickpea Salad Sandwich",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Celery", "Red onion", "Fresh parsley", "Lemon juice", "Greek yogurt", "Dijon mustard", "Salt", "Pepper", "Whole grain bread", "Lettuce", "Tomato", "Cucumber", "Avocado"],
+      "Instructions": "In a bowl, mash chickpeas with a fork. Stir in diced celery, finely chopped red onion, chopped fresh parsley, lemon juice, Greek yogurt, Dijon mustard, salt, and pepper. Spread chickpea salad onto whole grain bread slices. Top with lettuce, tomato, cucumber, and sliced avocado. Cover with another slice of bread to make a sandwich."
+    },
+    {
+      "Recipe": "Vegetarian Zucchini Noodles with Pesto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Zucchini", "Cherry tomatoes", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Using a spiralizer, turn zucchini into noodles. Sauté zucchini noodles and halved cherry tomatoes in olive oil until tender. In a food processor, blend basil leaves, pine nuts, minced garlic, grated Parmesan cheese, olive oil, lemon juice, salt, and pepper until smooth. Toss zucchini noodles with pesto sauce. Serve warm."
+    },
+    {
+      "Recipe": "Vegetarian Ratatouille",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Eggplant", "Zucchini", "Yellow squash", "Bell peppers", "Tomatoes", "Onion", "Garlic", "Olive oil", "Herbes de Provence", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Thinly slice eggplant, zucchini, yellow squash, and bell peppers. Slice tomatoes and onion. Arrange sliced vegetables in a baking dish, alternating and overlapping them. Drizzle with olive oil. Sprinkle with herbes de Provence, salt, and pepper. Cover with foil and bake for 45 minutes. Remove foil and bake for an additional 15 minutes or until vegetables are tender and lightly browned."
+    },
+    {
+      "Recipe": "Vegetarian Stuffed Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Onion", "Garlic", "Tomato sauce", "Cheddar cheese", "Cilantro"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut tops off bell peppers and remove seeds. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Stir in cooked quinoa, drained black beans, corn, and tomato sauce. Fill bell peppers with quinoa mixture. Top with shredded cheddar cheese. Bake for 25-30 minutes or until peppers are tender. Garnish with chopped cilantro."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Tacos",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Lentils", "Bell peppers", "Onion", "Garlic", "Chili powder", "Cumin", "Paprika", "Salt", "Pepper", "Corn tortillas", "Lettuce", "Tomato", "Avocado", "Cilantro", "Lime wedges"],
+      "Instructions": "Cook lentils according to package instructions. Sauté diced bell peppers, diced onion, and minced garlic until softened. Stir in cooked lentils, chili powder, cumin, paprika, salt, and pepper. Warm corn tortillas. Fill tortillas with lentil mixture. Top with shredded lettuce, diced tomato, sliced avocado, chopped cilantro, and a squeeze of lime juice."
+    },
+    {
+      "Recipe": "Vegetarian Spinach Lasagna",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Lasagna noodles", "Spinach", "Ricotta cheese", "Parmesan cheese", "Egg", "Garlic", "Marinara sauce", "Mozzarella cheese"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions. Sauté chopped spinach and minced garlic until wilted. In a bowl, combine ricotta cheese, grated Parmesan cheese, beaten egg, and sautéed spinach. Spread a layer of marinara sauce in the bottom of a baking dish. Arrange cooked lasagna noodles on top. Spread ricotta mixture over noodles. Repeat layers, ending with marinara sauce. Top with shredded mozzarella cheese. Cover with foil and bake for 30 minutes. Remove foil and bake for an additional 15 minutes or until cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Vegetarian Falafel Wraps",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Onion", "Garlic", "Parsley", "Cumin", "Coriander", "Salt", "Pepper", "Whole wheat pitas", "Lettuce", "Tomato", "Cucumber", "Tahini sauce"],
+      "Instructions": "Preheat oven to 375°F (190°C). In a food processor, blend chickpeas, diced onion, minced garlic, chopped parsley, ground cumin, ground coriander, salt, and pepper until mixture is smooth. Form mixture into balls and place on a baking sheet lined with parchment paper. Bake for 20-25 minutes or until golden brown. Warm whole wheat pitas. Fill pitas with falafel, shredded lettuce, sliced tomato, sliced cucumber, and drizzle with tahini sauce."
+    },
+    {
+      "Recipe": "Vegetarian Greek Quinoa Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Quinoa", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Dried oregano", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "Cook quinoa according to package instructions. Dice cucumber, halve cherry tomatoes, thinly slice red onion, and pit and halve kalamata olives. In a large bowl, combine cooked quinoa, diced cucumber, halved cherry tomatoes, thinly sliced red onion, pitted and halved kalamata olives, and crumbled feta cheese. In a small bowl, whisk together olive oil, lemon juice, dried oregano, salt, and pepper. Pour dressing over salad and toss to coat. Garnish with chopped fresh parsley before serving."
+    },
+    {
+      "Recipe": "Vegetarian Sweet Potato Buddha Bowl",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Sweet potatoes", "Quinoa", "Black beans", "Avocado", "Broccoli", "Tahini", "Lemon", "Garlic", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Dice sweet potatoes and toss with olive oil, salt, and pepper. Roast in the oven until tender and caramelized. Cook quinoa according to package instructions. Heat black beans on the stove. Steam broccoli until tender-crisp. Assemble bowls with cooked quinoa, roasted sweet potatoes, warmed black beans, sliced avocado, steamed broccoli, and drizzle with tahini dressing. Serve with lemon wedges for squeezing."
+    },
+    {
+      "Recipe": "Vegetarian Stuffed Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Onion", "Garlic", "Tomatoes", "Cumin", "Chili powder", "Salt", "Pepper", "Cheddar cheese", "Cilantro"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut bell peppers in half lengthwise and remove seeds. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Stir in cooked quinoa, drained black beans, corn, diced tomatoes, cumin, chili powder, salt, and pepper. Spoon mixture into bell pepper halves. Top with shredded cheddar cheese. Bake for 25-30 minutes or until peppers are tender. Garnish with chopped cilantro."
+    },
+    {
+      "Recipe": "Vegetarian Pad Thai",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Rice noodles", "Tofu", "Carrots", "Bean sprouts", "Green onions", "Eggs", "Peanuts", "Cilantro", "Lime wedges", "Pad Thai sauce"],
+      "Instructions": "Soak rice noodles in hot water until softened. Drain and set aside. Press tofu to remove excess moisture, then cut into cubes. Sauté tofu in a pan until golden brown. Push tofu to one side of the pan and crack eggs into the other side. Scramble eggs until cooked through, then mix with tofu. Add julienned carrots, bean sprouts, sliced green onions, and soaked rice noodles to the pan. Pour pad Thai sauce over the top and toss until heated through. Serve hot, garnished with chopped peanuts, cilantro, and lime wedges."
+    },
+    {
+      "Recipe": "Vegetarian Chickpea Curry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Coconut milk", "Curry powder", "Turmeric", "Cumin", "Coriander", "Cayenne pepper", "Salt", "Pepper", "Cilantro"],
+      "Instructions": "Sauté diced onion, minced garlic, and grated ginger in a pot until softened. Stir in diced tomatoes, drained chickpeas, coconut milk, curry powder, turmeric, cumin, coriander, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Serve hot, garnished with chopped cilantro."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Bolognese",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomato sauce", "Dried oregano", "Dried basil", "Salt", "Pepper", "Whole wheat spaghetti", "Parmesan cheese"],
+      "Instructions": "Cook lentils according to package instructions. Sauté diced carrots, diced celery, diced onion, and minced garlic until softened. Stir in cooked lentils, tomato sauce, dried oregano, dried basil, salt, and pepper. Simmer for 15-20 minutes. Serve over cooked whole wheat spaghetti and garnish with grated Parmesan cheese."
+    },
+    {
+      "Recipe": "Vegetarian Mushroom Risotto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Arborio rice", "Mushrooms", "Onion", "Garlic", "Vegetable broth", "Dry white wine", "Parmesan cheese", "Butter", "Olive oil", "Thyme", "Salt", "Pepper", "Parsley"],
+      "Instructions": "In a pot, heat vegetable broth until simmering. In a separate pan, sauté diced onion and minced garlic in olive oil until softened. Add Arborio rice to the pan and toast until lightly golden. Deglaze the pan with dry white wine and cook until absorbed. Gradually add hot vegetable broth to the rice, stirring constantly, until rice is creamy and cooked through. In another pan, sauté sliced mushrooms with thyme until golden brown. Stir cooked mushrooms, grated Parmesan cheese, and butter into the risotto. Season with salt and pepper. Serve hot, garnished with chopped parsley."
+    },
+    {
+      "Recipe": "Vegetarian Butternut Squash Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Butternut squash", "Onion", "Garlic", "Vegetable broth", "Coconut milk", "Maple syrup", "Curry powder", "Cinnamon", "Nutmeg", "Salt", "Pepper", "Pumpkin seeds"],
+      "Instructions": "Preheat oven to 400°F (200°C). Cut butternut squash in half lengthwise and remove seeds. Place squash halves cut-side down on a baking sheet lined with parchment paper. Roast for 45-50 minutes or until tender. Scoop out flesh from squash. Sauté diced onion and minced garlic in a pot until softened. Add roasted squash flesh, vegetable broth, coconut milk, maple syrup, curry powder, cinnamon, nutmeg, salt, and pepper. Simmer for 15-20 minutes. Blend soup until smooth. Serve hot, garnished with toasted pumpkin seeds."
+    },
+    {
+      "Recipe": "Vegetarian Spanakopita",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Phyllo dough", "Spinach", "Feta cheese", "Onion", "Garlic", "Eggs", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Thaw phyllo dough according to package instructions. Sauté chopped spinach, diced onion, and minced garlic until spinach is wilted. In a bowl, mix together cooked spinach, crumbled feta cheese, beaten eggs, olive oil, salt, and pepper. Brush phyllo dough sheets with melted butter and layer them in a baking dish, brushing each layer with butter. Spread spinach and feta mixture evenly over phyllo dough. Fold edges over the filling. Bake for 30-35 minutes or until golden brown and crispy."
+    },
+    {
+      "Recipe": "Vegetarian Stuffed Mushrooms",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Mushrooms", "Cream cheese", "Spinach", "Garlic", "Parmesan cheese", "Panko breadcrumbs", "Olive oil", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "Preheat oven to 375°F (190°C). Remove stems from mushrooms and finely chop. Sauté chopped mushroom stems, minced garlic, and chopped spinach until spinach is wilted. In a bowl, mix together sautéed mixture, softened cream cheese, grated Parmesan cheese, panko breadcrumbs, salt, and pepper. Stuff mushroom caps with filling. Drizzle with olive oil. Bake for 20-25 minutes or until mushrooms are tender. Garnish with chopped fresh parsley before serving."
+    },
+    {
+      "Recipe": "Vegetarian Thai Peanut Noodles",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Rice noodles", "Bell peppers", "Carrots", "Snap peas", "Green onions", "Peanut butter", "Soy sauce", "Rice vinegar", "Sesame oil", "Maple syrup", "Garlic", "Ginger", "Red pepper flakes", "Cilantro", "Peanuts"],
+      "Instructions": "Soak rice noodles in hot water until softened. Drain and set aside. Julienne bell peppers and carrots, and chop snap peas and green onions. In a bowl, whisk together peanut butter, soy sauce, rice vinegar, sesame oil, maple syrup, minced garlic, grated ginger, and red pepper flakes. Toss cooked rice noodles with peanut sauce and chopped vegetables until well coated. Serve hot, garnished with chopped cilantro and peanuts."
+    },
+    {
+      "Recipe": "Vegetarian Veggie Burger",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 290,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Black beans", "Quinoa", "Bell peppers", "Onion", "Garlic", "Egg", "Whole wheat breadcrumbs", "Worcestershire sauce", "Salt", "Pepper", "Whole wheat burger buns", "Lettuce", "Tomato", "Avocado"],
+      "Instructions": "Rinse and drain black beans. Cook quinoa according to package instructions. Sauté diced bell peppers, diced onion, and minced garlic until softened. In a food processor, pulse black beans until mashed but still chunky. In a bowl, combine mashed black beans, cooked quinoa, sautéed vegetables, beaten egg, whole wheat breadcrumbs, Worcestershire sauce, salt, and pepper. Form mixture into patties. Cook patties in a skillet over medium heat until golden brown on both sides. Serve on whole wheat burger buns with lettuce, tomato, and sliced avocado."
+    },
+    {
+      "Recipe": "Vegetarian Tomato Basil Bruschetta",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 260,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Baguette", "Tomatoes", "Fresh basil", "Garlic", "Olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Slice baguette into rounds and place on a baking sheet. Toast in the oven for 5-7 minutes or until lightly golden. Dice tomatoes and chop fresh basil. In a bowl, mix together diced tomatoes, chopped basil, minced garlic, olive oil, balsamic vinegar, salt, and pepper. Spoon tomato mixture onto toasted baguette slices. Serve immediately."
+    },
+    {
+      "Recipe": "Vegetarian Greek Pasta Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Pasta", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Dried oregano", "Salt", "Pepper", "Fresh parsley"],
+      "Instructions": "Cook pasta according to package instructions. Dice cucumber, halve cherry tomatoes, thinly slice red onion, and pit and halve kalamata olives. In a large bowl, combine cooked pasta, diced cucumber, halved cherry tomatoes, thinly sliced red onion, pitted and halved kalamata olives, and crumbled feta cheese. In a small bowl, whisk together olive oil, lemon juice, dried oregano, salt, and pepper. Pour dressing over salad and toss to coat. Garnish with chopped fresh parsley before serving."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Sloppy Joes",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Lentils", "Onion", "Bell peppers", "Garlic", "Tomato sauce", "Ketchup", "Brown sugar", "Mustard", "Worcestershire sauce", "Vinegar", "Salt", "Pepper", "Whole wheat hamburger buns"],
+      "Instructions": "Cook lentils according to package instructions. Sauté diced onion, diced bell peppers, and minced garlic until softened. Stir in cooked lentils, tomato sauce, ketchup, brown sugar, mustard, Worcestershire sauce, vinegar, salt, and pepper. Simmer for 15-20 minutes. Serve hot on toasted whole wheat hamburger buns."
+    },
+    {
+      "Recipe": "Vegetarian Quinoa Stuffed Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Tomatoes", "Onion", "Garlic", "Cumin", "Chili powder", "Salt", "Pepper", "Cheddar cheese", "Cilantro"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut tops off bell peppers and remove seeds. Cook quinoa according to package instructions. Sauté diced onion and minced garlic until softened. Stir in cooked quinoa, drained black beans, corn, diced tomatoes, cumin, chili powder, salt, and pepper. Spoon mixture into bell pepper halves. Top with shredded cheddar cheese. Bake for 25-30 minutes or until peppers are tender. Garnish with chopped cilantro."
+    },
+    {
+      "Recipe": "Vegetarian Lentil Tacos",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 270,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Lentils", "Bell peppers", "Onion", "Garlic", "Chili powder", "Cumin", "Paprika", "Salt", "Pepper", "Corn tortillas", "Lettuce", "Tomato", "Avocado", "Cilantro", "Lime wedges"],
+      "Instructions": "Cook lentils according to package instructions. Sauté diced bell peppers, diced onion, and minced garlic until softened. Stir in cooked lentils, chili powder, cumin, paprika, salt, and pepper. Warm corn tortillas. Fill tortillas with lentil mixture. Top with shredded lettuce, diced tomato, sliced avocado, chopped cilantro, and a squeeze of lime juice."
+    }
+  ]
+  
+  
+  
+  
