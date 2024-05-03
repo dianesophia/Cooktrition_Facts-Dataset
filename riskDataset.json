@@ -2162,9 +2162,753 @@
     "Fiber (g) per serving": 2,
     "Ingredients": ["Crab", "Chili sauce", "Tomato sauce", "Garlic", "Ginger", "Shallots", "Eggs", "Cornstarch", "Sugar", "Soy sauce", "Vegetable oil", "Salt"],
     "Instructions": "Clean and cut crab into pieces. In a bowl, mix chili sauce, tomato sauce, minced garlic, minced ginger, chopped shallots, beaten eggs, cornstarch, sugar, soy sauce, and salt to make the sauce. In a wok or large skillet, heat vegetable oil over medium heat. Add crab pieces and stir-fry until partially cooked. Pour sauce over the crab and continue to cook until crab is fully cooked and sauce thickens. Serve hot with steamed rice."
-  }
-
-    
+  },
+  {
+    "Recipe": "Mexican Chicken Fajitas",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime juice", "Chili powder", "Cumin", "Paprika", "Garlic powder", "Olive oil", "Salt", "Tortillas", "Sour cream", "Guacamole", "Salsa"],
+    "Instructions": "Marinate chicken strips in lime juice, chili powder, cumin, paprika, and garlic powder. Sauté chicken with sliced bell peppers and onions in olive oil until cooked through. Serve with warm tortillas and toppings like sour cream, guacamole, and salsa."
+  },
+  {
+    "Recipe": "Italian Caprese Salad",
+    "Risk Category": "None",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 4.5,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic vinegar", "Extra virgin olive oil", "Salt", "Pepper"],
+    "Instructions": "Slice tomatoes and fresh mozzarella cheese. Arrange them alternately on a plate with fresh basil leaves. Drizzle with balsamic vinegar and extra virgin olive oil. Season with salt and pepper to taste."
+  },
+  {
+    "Recipe": "Greek Tzatziki Sauce",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 60,
+    "Saturated Fat (g) per serving": 0.5,
+    "Fiber (g) per serving": 1,
+    "Ingredients": ["Greek yogurt", "Cucumber", "Garlic", "Lemon juice", "Fresh dill", "Salt", "Pepper", "Olive oil"],
+    "Instructions": "Grate cucumber and squeeze out excess moisture. Mix with Greek yogurt, minced garlic, lemon juice, chopped fresh dill, salt, pepper, and a drizzle of olive oil. Refrigerate for at least 30 minutes before serving."
+  },
+  {
+    "Recipe": "Japanese Miso Soup",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 50,
+    "Saturated Fat (g) per serving": 0.5,
+    "Fiber (g) per serving": 1,
+    "Ingredients": ["Dashi stock", "Miso paste", "Tofu", "Wakame seaweed", "Green onions"],
+    "Instructions": "Bring dashi stock to a simmer and dissolve miso paste in the stock. Add cubed tofu and rehydrated wakame seaweed. Simmer for a few minutes. Garnish with sliced green onions before serving."
+  },
+  {
+    "Recipe": "Mediterranean Grilled Eggplant",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 120,
+    "Saturated Fat (g) per serving": 1,
+    "Fiber (g) per serving": 6,
+    "Ingredients": ["Eggplant", "Olive oil", "Garlic", "Lemon juice", "Fresh parsley", "Salt", "Pepper"],
+    "Instructions": "Slice eggplant into rounds and brush with olive oil. Grill until tender and lightly charred. Mix minced garlic, lemon juice, chopped fresh parsley, salt, and pepper to make a dressing. Drizzle over grilled eggplant before serving."
+  },
+  {
+    "Recipe": "Indian Chickpea Curry (Chana Masala)",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 6,
+    "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Green chilies", "Cumin", "Coriander", "Turmeric", "Garam masala", "Vegetable oil", "Salt"],
+    "Instructions": "Sauté finely chopped onion, minced garlic, ginger, and chopped green chilies in vegetable oil until golden brown. Add diced tomatoes and cook until softened. Stir in cumin, coriander, turmeric, and garam masala. Add cooked chickpeas and simmer until flavors meld. Season with salt to taste. Serve hot with rice or naan."
+  },
+  {
+    "Recipe": "Mediterranean Quinoa Salad",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 1,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Quinoa", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Fresh parsley", "Lemon juice", "Extra virgin olive oil", "Salt", "Pepper"],
+    "Instructions": "Cook quinoa according to package instructions and let cool. Dice cucumber, tomatoes, and red onion. Chop Kalamata olives and fresh parsley. In a large bowl, combine cooked quinoa with diced vegetables, olives, crumbled feta cheese, and chopped parsley. Dress with lemon juice, extra virgin olive oil, salt, and pepper. Toss to combine and serve chilled."
+  },
+  {
+    "Recipe": "Vegetarian Stir-Fry with Tofu",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Tofu", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Garlic", "Ginger", "Soy sauce", "Rice vinegar", "Sesame oil", "Cornstarch", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Cube tofu and stir-fry in vegetable oil until golden brown. Remove tofu from the pan and set aside. In the same pan, stir-fry chopped garlic and ginger until fragrant. Add sliced bell peppers, broccoli florets, julienned carrots, and snap peas. Cook until vegetables are tender-crisp. Return tofu to the pan. In a small bowl, mix soy sauce, rice vinegar, sesame oil, and cornstarch. Pour over tofu and vegetables. Cook until sauce thickens. Season with salt and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Roasted Brussels Sprouts with Balsamic Glaze",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 150,
+    "Saturated Fat (g) per serving": 0.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Brussels sprouts", "Olive oil", "Balsamic vinegar", "Honey", "Salt", "Pepper"],
+    "Instructions": "Preheat oven to 400°F (200°C). Trim Brussels sprouts and cut in half. Toss with olive oil, salt, and pepper. Spread on a baking sheet and roast in the oven until caramelized and tender, about 25-30 minutes. In a small saucepan, simmer balsamic vinegar and honey until reduced and thickened. Drizzle over roasted Brussels sprouts before serving."
+  },
+  {
+    "Recipe": "Turkey and Vegetable Skillet",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 1,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Ground turkey", "Zucchini", "Yellow squash", "Bell peppers", "Onion", "Garlic", "Tomato sauce", "Italian seasoning", "Olive oil", "Salt", "Pepper"],
+    "Instructions": "In a large skillet, heat olive oil over medium heat. Add chopped onion and minced garlic, and cook until softened. Add ground turkey and cook until browned. Stir in diced zucchini, yellow squash, and bell peppers. Cook until vegetables are tender. Pour in tomato sauce and sprinkle with Italian seasoning. Simmer until heated through. Season with salt and pepper. Serve hot."
+  },
+    {
+      "Recipe": "Mushroom and Spinach Stuffed Chicken Breast",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Chicken breast", "Mushrooms", "Spinach", "Garlic", "Parmesan cheese", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Sauté chopped mushrooms and minced garlic in olive oil until softened. Add chopped spinach and cook until wilted. Season with salt and pepper. Butterfly chicken breasts and stuff with the mushroom-spinach mixture. Sprinkle with grated Parmesan cheese. Bake until chicken is cooked through."
+    },
+    {
+      "Recipe": "Cauliflower Rice Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Cauliflower", "Carrots", "Bell peppers", "Snap peas", "Eggs", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Grate cauliflower to make cauliflower rice. Stir-fry grated cauliflower with julienned carrots, sliced bell peppers, and snap peas in vegetable oil until tender-crisp. Push vegetables to one side of the pan and scramble eggs on the other side. Mix eggs with vegetables. Stir in minced garlic and ginger. Add soy sauce and sesame oil. Season with salt and pepper. Garnish with chopped green onions before serving."
+    },
+    {
+      "Recipe": "Salmon with Lemon-Dill Sauce",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Salmon fillets", "Lemon", "Fresh dill", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Season salmon fillets with salt, pepper, and olive oil. Grill or bake until cooked through. In a small bowl, mix freshly squeezed lemon juice with chopped fresh dill. Drizzle over cooked salmon before serving."
+    },
+    {
+      "Recipe": "Eggplant Parmesan",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Eggplant", "Eggs", "Breadcrumbs", "Parmesan cheese", "Mozzarella cheese", "Tomato sauce", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Slice eggplant into rounds. Dip eggplant slices in beaten eggs, then coat with breadcrumbs mixed with grated Parmesan cheese. Bake until golden brown. Layer baked eggplant slices with tomato sauce and shredded mozzarella cheese. Bake until cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Onion", "Garlic", "Tomato sauce", "Cumin", "Chili powder", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions. Sauté chopped onion and minced garlic in olive oil until softened. Add cooked quinoa, black beans, corn, tomato sauce, cumin, and chili powder. Season with salt and pepper. Cut tops off bell peppers and remove seeds. Stuff with quinoa mixture. Bake until bell peppers are tender."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Chili",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Ground turkey", "Bell peppers", "Onion", "Garlic", "Tomatoes", "Black beans", "Kidney beans", "Corn", "Chili powder", "Cumin", "Vegetable broth", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Sauté chopped onion and minced garlic in olive oil until softened. Add ground turkey and cook until browned. Stir in diced bell peppers, chopped tomatoes, drained black beans, drained kidney beans, corn, chili powder, and cumin. Pour in vegetable broth. Simmer until flavors meld and chili thickens. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Zucchini Noodles with Pesto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Zucchini", "Basil", "Parmesan cheese", "Pine nuts", "Garlic", "Lemon juice", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Spiralize zucchini into noodles. In a food processor, blend fresh basil, grated Parmesan cheese, pine nuts, minced garlic, and lemon juice until smooth. Slowly add olive oil while blending until desired consistency is reached. Toss zucchini noodles with pesto. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Garlic and Herb Roasted Chicken Thighs",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["Chicken thighs", "Garlic", "Fresh herbs (rosemary, thyme, parsley)", "Lemon zest", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Rub chicken thighs with minced garlic, chopped fresh herbs, lemon zest, olive oil, salt, and pepper. Roast in the oven until golden brown and cooked through."
+    },
+    {
+      "Recipe": "Cucumber Avocado Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cucumber", "Avocado", "Red onion", "Lemon juice", "Olive oil", "Fresh dill", "Salt", "Pepper"],
+      "Instructions": "Dice cucumber and avocado. Thinly slice red onion. Toss together with lemon juice, olive oil, chopped fresh dill, salt, and pepper."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Lettuce Wraps",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Ground turkey", "Bell peppers", "Carrots", "Water chestnuts", "Lettuce leaves", "Soy sauce", "Rice vinegar", "Garlic", "Ginger", "Green onions", "Sesame oil", "Vegetable oil", "Salt", "Pepper"],
+      "Instructions": "Sauté ground turkey in vegetable oil until browned. Add diced bell peppers, shredded carrots, chopped water chestnuts, minced garlic, minced ginger, and sliced green onions. Cook until vegetables are tender. Stir in soy sauce, rice vinegar, and sesame oil. Season with salt and pepper. Spoon turkey mixture onto lettuce leaves. Roll up and serve."
+    },
+    {
+      "Recipe": "Stir-Fried Tofu with Broccoli and Cashews",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 210,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Tofu", "Broccoli", "Cashews", "Garlic", "Ginger", "Soy sauce", "Rice vinegar", "Sesame oil", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Cut tofu into cubes and stir-fry in vegetable oil until golden brown. Remove tofu from the pan and set aside. In the same pan, stir-fry chopped broccoli florets until tender-crisp. Add minced garlic and ginger. Return tofu to the pan. Stir in soy sauce, rice vinegar, and sesame oil. Toss with cashews and sliced green onions. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Mushroom Barley Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Mushrooms", "Barley", "Carrots", "Celery", "Onion", "Garlic", "Vegetable broth", "Thyme", "Bay leaf", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Sauté chopped onion and minced garlic in olive oil until softened. Add sliced mushrooms, diced carrots, and diced celery. Cook until vegetables are tender. Stir in barley, vegetable broth, thyme, and bay leaf. Simmer until barley is cooked through. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Spaghetti Squash with Marinara Sauce",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Spaghetti squash", "Tomato sauce", "Garlic", "Olive oil", "Fresh basil", "Parmesan cheese", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Cut spaghetti squash in half lengthwise and remove seeds. Drizzle cut sides with olive oil and sprinkle with minced garlic, salt, and pepper. Place cut side down on a baking sheet and roast until tender, about 40-50 minutes. Scrape the flesh with a fork to create spaghetti-like strands. Serve with heated marinara sauce, chopped fresh basil, and grated Parmesan cheese."
+    },
+    {
+      "Recipe": "Cabbage and Apple Slaw",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cabbage", "Apple", "Carrot", "Greek yogurt", "Apple cider vinegar", "Honey", "Dijon mustard", "Salt", "Pepper"],
+      "Instructions": "Shred cabbage and carrots. Thinly slice apple. In a bowl, whisk together Greek yogurt, apple cider vinegar, honey, Dijon mustard, salt, and pepper to make the dressing. Toss shredded cabbage, carrots, and apple with the dressing until well coated."
+    },
+    {
+      "Recipe": "Sautéed Green Beans with Almonds",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 130,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Green beans", "Almonds", "Garlic", "Olive oil", "Lemon zest", "Salt", "Pepper"],
+      "Instructions": "Trim green beans and blanch in boiling water until tender-crisp. Drain and set aside. Sauté sliced almonds in olive oil until lightly toasted. Add minced garlic and cook until fragrant. Add blanched green beans and cook until heated through. Season with lemon zest, salt, and pepper."
+    },
+    {
+      "Recipe": "Tuna Salad Lettuce Wraps",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Canned tuna", "Celery", "Red onion", "Greek yogurt", "Dijon mustard", "Lemon juice", "Fresh parsley", "Lettuce leaves", "Salt", "Pepper"],
+      "Instructions": "Drain canned tuna and flake with a fork. Dice celery and red onion. In a bowl, mix together flaked tuna, diced celery, diced red onion, Greek yogurt, Dijon mustard, lemon juice, chopped fresh parsley, salt, and pepper. Spoon tuna salad onto lettuce leaves. Roll up and serve."
+    },
+    {
+      "Recipe": "Broiled Asparagus with Lemon-Garlic Butter",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 90,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Asparagus", "Butter", "Garlic", "Lemon zest", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Trim asparagus spears and arrange on a baking sheet. Broil until tender-crisp and lightly charred. In a small saucepan, melt butter with minced garlic until fragrant. Stir in lemon zest and lemon juice. Drizzle over broiled asparagus. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Caprese Salad Skewers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Cherry tomatoes", "Fresh mozzarella balls", "Basil leaves", "Balsamic glaze", "Salt", "Pepper"],
+      "Instructions": "Thread cherry tomatoes, fresh mozzarella balls, and basil leaves onto skewers. Drizzle with balsamic glaze. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Grilled Lemon Herb Chicken",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 0,
+      "Ingredients": ["Chicken breasts", "Lemon", "Fresh parsley", "Fresh thyme", "Garlic", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Marinate chicken breasts in a mixture of lemon juice, minced garlic, chopped fresh parsley, chopped fresh thyme, olive oil, salt, and pepper for at least 30 minutes. Grill until cooked through."
+    },
+    {
+      "Recipe": "Greek Salad with Feta and Olives",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Red wine vinegar", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Dice cucumber, tomatoes, and red onion. Pit and chop Kalamata olives. Crumble feta cheese. In a large bowl, combine diced vegetables, olives, and feta cheese. Dress with olive oil, red wine vinegar, dried oregano, salt, and pepper. Toss to combine."
+    },
+    {
+      "Recipe": "Lemon Garlic Shrimp Skewers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 0,
+      "Ingredients": ["Shrimp", "Lemon", "Garlic", "Olive oil", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Thread shrimp onto skewers. In a bowl, whisk together lemon juice, minced garlic, olive oil, chopped fresh parsley, salt, and pepper. Brush mixture over shrimp skewers. Grill until shrimp are pink and cooked through."
+    },
+    {
+      "Recipe": "Cauliflower and Broccoli Gratin",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 190,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cauliflower", "Broccoli", "Parmesan cheese", "Mozzarella cheese", "Heavy cream", "Garlic", "Butter", "Salt", "Pepper"],
+      "Instructions": "Steam cauliflower and broccoli florets until tender-crisp. Arrange in a baking dish. In a saucepan, melt butter and sauté minced garlic until fragrant. Stir in heavy cream and grated Parmesan cheese until smooth. Pour sauce over cauliflower and broccoli. Top with shredded mozzarella cheese. Bake until cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Tofu Stir-Fry with Snow Peas and Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 210,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Tofu", "Snow peas", "Bell peppers", "Garlic", "Ginger", "Soy sauce", "Rice vinegar", "Sesame oil", "Vegetable oil", "Salt", "Pepper"],
+      "Instructions": "Cube tofu and pat dry with paper towels. Stir-fry tofu in vegetable oil until golden brown. Remove tofu from the pan and set aside. In the same pan, stir-fry sliced bell peppers until tender-crisp. Add minced garlic and ginger. Return tofu to the pan. Stir in snow peas. Drizzle with soy sauce, rice vinegar, and sesame oil. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Mediterranean Baked Fish",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["White fish fillets (such as cod or tilapia)", "Tomatoes", "Kalamata olives", "Red onion", "Garlic", "Olive oil", "Fresh parsley", "Fresh oregano", "Lemon", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Season fish fillets with salt and pepper. Arrange in a baking dish. Top with sliced tomatoes, halved Kalamata olives, thinly sliced red onion, and minced garlic. Drizzle with olive oil. Sprinkle with chopped fresh parsley and fresh oregano. Bake until fish is cooked through. Serve with lemon wedges."
+    },
+    {
+      "Recipe": "Spinach and Mushroom Stuffed Portobello Mushrooms",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 170,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Portobello mushrooms", "Spinach", "Mushrooms", "Garlic", "Parmesan cheese", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Remove stems from portobello mushrooms and scrape out gills. Place mushroom caps on a baking sheet. Sauté chopped mushrooms and minced garlic in olive oil until softened. Add chopped spinach and cook until wilted. Season with salt and pepper. Fill mushroom caps with spinach-mushroom mixture. Sprinkle with grated Parmesan cheese. Bake until mushrooms are tender and cheese is melted."
+    },
+    {
+      "Recipe": "Asian-Inspired Beef and Broccoli Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Flank steak", "Broccoli", "Garlic", "Ginger", "Soy sauce", "Hoisin sauce", "Rice vinegar", "Sesame oil", "Cornstarch", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Slice flank steak thinly against the grain. In a bowl, whisk together soy sauce, hoisin sauce, rice vinegar, sesame oil, minced garlic, minced ginger, cornstarch, salt, and pepper. Marinate steak slices in the mixture for at least 30 minutes. Stir-fry marinated steak in vegetable oil until browned. Remove steak from the pan and set aside. In the same pan, stir-fry broccoli until tender-crisp. Return steak to the pan. Drizzle with any remaining marinade. Cook until heated through. Garnish with sliced green onions."
+    },
+    {
+      "Recipe": "Caprese Stuffed Avocado",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 190,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Avocado", "Cherry tomatoes", "Fresh mozzarella balls", "Fresh basil", "Balsamic glaze", "Salt", "Pepper"],
+      "Instructions": "Cut avocados in half and remove pits. Scoop out some flesh from each avocado half to create a larger cavity. Dice cherry tomatoes and fresh mozzarella balls. Tear fresh basil leaves. In a bowl, combine diced tomatoes, diced mozzarella, and torn basil. Season with salt and pepper. Spoon tomato-mozzarella mixture into avocado halves. Drizzle with balsamic glaze."
+    },
+    {
+      "Recipe": "Roasted Vegetable Quinoa Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 210,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Quinoa", "Zucchini", "Bell peppers", "Red onion", "Cherry tomatoes", "Olive oil", "Balsamic vinegar", "Garlic", "Italian seasoning", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions. Cut zucchini, bell peppers, and red onion into bite-sized pieces. Halve cherry tomatoes. Toss vegetables with olive oil, balsamic vinegar, minced garlic, Italian seasoning, salt, and pepper. Roast in the oven until tender. Mix roasted vegetables with cooked quinoa."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Meatball Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Ground turkey", "Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Italian seasoning", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). In a bowl, mix together ground turkey, minced garlic, Italian seasoning, salt, and pepper. Form mixture into meatballs and place on a baking sheet. Bake until cooked through. In a pot, sauté diced onion, carrots, and celery in olive oil until softened. Add diced tomatoes and vegetable broth. Bring to a simmer. Add turkey meatballs and simmer until flavors meld. Season with salt and pepper."
+    },
+    {
+      "Recipe": "Cucumber and Radish Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 100,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cucumber", "Radishes", "Red onion", "Greek yogurt", "Dill", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Thinly slice cucumber, radishes, and red onion. In a bowl, whisk together Greek yogurt, chopped dill, lemon juice, salt, and pepper. Toss sliced vegetables with yogurt dressing."
+    },
+    {
+      "Recipe": "Broccoli and Cheddar Stuffed Chicken",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken breasts", "Broccoli", "Cheddar cheese", "Garlic powder", "Paprika", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Butterfly chicken breasts and pound to an even thickness. Season with garlic powder, paprika, salt, and pepper. Steam broccoli until tender-crisp. Place a layer of steamed broccoli and shredded cheddar cheese on each chicken breast. Roll up chicken breasts and secure with toothpicks. Heat olive oil in an oven-safe skillet over medium-high heat. Sear chicken on all sides until browned. Transfer skillet to the oven and bake until chicken is cooked through and cheese is melted."
+    },
+    {
+      "Recipe": "Mushroom and Spinach Quiche",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Pie crust", "Mushrooms", "Spinach", "Onion", "Eggs", "Milk", "Parmesan cheese", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Roll out pie crust and press into a pie dish. In a skillet, sauté sliced mushrooms, chopped spinach, and diced onion in olive oil until vegetables are tender. Spread cooked vegetables in the pie crust. In a bowl, whisk together eggs, milk, grated Parmesan cheese, salt, and pepper. Pour egg mixture over the vegetables. Bake until quiche is set and crust is golden brown."
+    },
+    {
+      "Recipe": "Zucchini Noodles with Pesto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Zucchini", "Basil", "Pine nuts", "Parmesan cheese", "Garlic", "Olive oil", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Using a spiralizer, make zucchini noodles. In a food processor, blend basil, pine nuts, grated Parmesan cheese, minced garlic, olive oil, lemon juice, salt, and pepper until smooth. Toss zucchini noodles with pesto sauce."
+    },
+    {
+      "Recipe": "Cauliflower Rice Stir-Fry with Tofu",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 190,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cauliflower", "Tofu", "Carrots", "Bell peppers", "Onion", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Pulse cauliflower florets in a food processor until they resemble rice grains. Sauté diced tofu in vegetable oil until golden brown. Remove tofu from the pan and set aside. In the same pan, sauté diced carrots, diced bell peppers, and diced onion until tender. Add minced garlic and ginger. Stir in cauliflower rice and cooked tofu. Drizzle with soy sauce and sesame oil. Cook until heated through. Garnish with sliced green onions."
+    },{
+      "Recipe": "Balsamic Glazed Salmon",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 0,
+      "Ingredients": ["Salmon fillets", "Balsamic vinegar", "Honey", "Garlic", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). In a small saucepan, simmer balsamic vinegar, honey, and minced garlic until thickened. Brush salmon fillets with olive oil and season with salt and pepper. Place on a baking sheet lined with parchment paper. Bake for about 12-15 minutes or until salmon is cooked through. Drizzle with balsamic glaze before serving."
+    },
+    {
+      "Recipe": "Quinoa Stuffed Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn kernels", "Tomatoes", "Onion", "Garlic", "Cumin", "Chili powder", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds and membranes. In a saucepan, cook quinoa according to package instructions. In a skillet, sauté diced onion and minced garlic in olive oil until softened. Add diced tomatoes, black beans, corn kernels, cooked quinoa, cumin, chili powder, salt, and pepper. Cook until heated through. Stuff bell peppers with quinoa mixture. Place stuffed peppers in a baking dish. Cover with foil and bake for about 25-30 minutes or until peppers are tender."
+    },
+    {
+      "Recipe": "Mango Avocado Salsa",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Mango", "Avocado", "Red onion", "Cilantro", "Lime", "Jalapeno", "Salt", "Pepper"],
+      "Instructions": "Dice mango, avocado, red onion, and jalapeno. Chop cilantro. In a bowl, combine diced mango, diced avocado, finely chopped red onion, chopped cilantro, minced jalapeno, and lime juice. Season with salt and pepper. Mix well and refrigerate for at least 30 minutes before serving."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Chili",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Ground turkey", "Black beans", "Kidney beans", "Tomatoes", "Bell peppers", "Onion", "Garlic", "Chili powder", "Cumin", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "In a large pot, heat olive oil over medium heat. Add diced onion and minced garlic, and cook until softened. Add ground turkey and cook until browned. Stir in diced bell peppers, diced tomatoes, drained and rinsed black beans, drained and rinsed kidney beans, chili powder, cumin, salt, and pepper. Bring to a simmer and cook for about 20-25 minutes, stirring occasionally. Serve hot."
+    },
+    {
+      "Recipe": "Eggplant and Tomato Ratatouille",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Eggplant", "Zucchini", "Tomatoes", "Onion", "Garlic", "Olive oil", "Basil", "Thyme", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Slice eggplant, zucchini, tomatoes, and onion into thin rounds. Arrange sliced vegetables in overlapping layers in a baking dish. Drizzle with olive oil and sprinkle with minced garlic, chopped basil, chopped thyme, salt, and pepper. Cover with foil and bake for about 30 minutes. Remove foil and bake for an additional 15-20 minutes or until vegetables are tender and lightly browned."
+    },
+    {
+      "Recipe": "Stuffed Portobello Mushrooms",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Portobello mushrooms", "Spinach", "Feta cheese", "Garlic", "Olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Remove stems from portobello mushrooms and scrape out gills. Place mushroom caps on a baking sheet. In a skillet, sauté minced garlic in olive oil until fragrant. Add chopped spinach and cook until wilted. Remove from heat and stir in crumbled feta cheese. Fill mushroom caps with spinach-feta mixture. Drizzle with balsamic vinegar. Bake for about 15-20 minutes or until mushrooms are tender."
+    },
+    {
+      "Recipe": "Garlic Roasted Brussels Sprouts",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Brussels sprouts", "Garlic", "Olive oil", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Trim and halve Brussels sprouts. Toss Brussels sprouts with minced garlic, olive oil, lemon juice, salt, and pepper. Spread in a single layer on a baking sheet. Roast for about 20-25 minutes or until Brussels sprouts are tender and lightly browned, stirring halfway through."
+    },
+    {
+      "Recipe": "Cucumber and Tomato Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 90,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cucumber", "Tomatoes", "Red onion", "Olive oil", "Red wine vinegar", "Dill", "Salt", "Pepper"],
+      "Instructions": "Slice cucumber, tomatoes, and red onion thinly. In a bowl, whisk together olive oil, red wine vinegar, chopped dill, salt, and pepper. Toss sliced vegetables with dressing. Chill before serving."
+    },
+    {
+      "Recipe": "Chicken and Vegetable Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Chicken breast", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Onion", "Garlic", "Ginger", "Soy sauce", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Slice chicken breast thinly. Heat olive oil in a skillet over medium-high heat. Add sliced chicken and cook until browned. Remove chicken from skillet and set aside. In the same skillet, add sliced onion, minced garlic, and grated ginger. Stir-fry until fragrant. Add sliced bell peppers, broccoli florets, julienned carrots, and snap peas. Stir-fry until vegetables are tender-crisp. Return cooked chicken to the skillet. Drizzle with soy sauce and toss to combine. Cook for another 2-3 minutes. Serve hot."
+    },
+    {
+      "Recipe": "Spinach and Feta Stuffed Chicken",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["Chicken breasts", "Spinach", "Feta cheese", "Garlic", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Butterfly chicken breasts and pound to an even thickness. Season with salt and pepper. In a skillet, sauté minced garlic in olive oil until fragrant. Add chopped spinach and cook until wilted. Remove from heat and stir in crumbled feta cheese. Place a layer of spinach-feta mixture on each chicken breast. Roll up chicken breasts and secure with toothpicks. Heat olive oil in an oven-safe skillet over medium-high heat. Sear chicken on all sides until browned. Transfer skillet to the oven and bake until chicken is cooked through."
+    },
+    {
+      "Recipe": "Lemon Herb Grilled Chicken",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 0,
+      "Ingredients": ["Chicken breasts", "Lemon juice", "Olive oil", "Garlic", "Fresh herbs (such as rosemary, thyme, and parsley)", "Salt", "Pepper"],
+      "Instructions": "In a bowl, whisk together lemon juice, olive oil, minced garlic, chopped fresh herbs, salt, and pepper to create a marinade. Place chicken breasts in a shallow dish and pour marinade over them, ensuring they are evenly coated. Cover and refrigerate for at least 30 minutes, or ideally, overnight. Preheat grill to medium-high heat. Remove chicken from marinade and discard excess marinade. Grill chicken for 6-8 minutes on each side, or until cooked through and juices run clear. Serve hot."
+    },
+    {
+      "Recipe": "Spicy Cauliflower Bites",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 130,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cauliflower florets", "Whole wheat flour", "Garlic powder", "Paprika", "Cayenne pepper", "Salt", "Black pepper", "Egg", "Water", "Hot sauce", "Olive oil"],
+      "Instructions": "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper. In a large bowl, mix together whole wheat flour, garlic powder, paprika, cayenne pepper, salt, and black pepper. In a separate bowl, whisk together egg, water, and hot sauce to create a batter. Dip cauliflower florets into the batter, coating evenly, then transfer to the flour mixture, coating again. Place coated cauliflower florets on the prepared baking sheet. Drizzle with olive oil. Bake for 20-25 minutes, turning halfway through, until golden and crispy. Serve hot with your favorite dipping sauce."
+    },
+    {
+      "Recipe": "Greek Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cucumbers", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Red wine vinegar", "Dried oregano", "Salt", "Pepper"],
+      "Instructions": "Dice cucumbers, tomatoes, and red onion. Pit and chop Kalamata olives. Crumble feta cheese. In a large bowl, combine diced cucumbers, diced tomatoes, diced red onion, Kalamata olives, and crumbled feta cheese. Drizzle with olive oil and red wine vinegar. Sprinkle with dried oregano, salt, and pepper. Toss to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Salmon and Asparagus Foil Packs",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Salmon fillets", "Asparagus spears", "Lemon", "Garlic", "Fresh dill", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Cut sheets of aluminum foil large enough to wrap around each salmon fillet and asparagus spears. Place a salmon fillet in the center of each foil sheet. Arrange asparagus spears around the salmon. Thinly slice lemon and place lemon slices on top of the salmon. Mince garlic and sprinkle over the salmon and asparagus. Chop fresh dill and sprinkle over the top. Drizzle olive oil over each packet. Season with salt and pepper. Wrap the foil tightly around the salmon and asparagus to create a packet. Place packets on a baking sheet. Bake for 15-20 minutes, or until salmon is cooked through and asparagus is tender. Carefully open the packets and serve hot."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Skillet",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Ground turkey", "Bell peppers", "Zucchini", "Onion", "Garlic", "Tomatoes", "Olive oil", "Italian seasoning", "Salt", "Pepper"],
+      "Instructions": "Heat olive oil in a large skillet over medium heat. Add diced onion and minced garlic, and cook until softened. Add ground turkey and cook until browned, breaking it up with a spoon. Stir in diced bell peppers and diced zucchini, and cook until vegetables are tender. Add diced tomatoes and Italian seasoning. Season with salt and pepper to taste. Cook for another 5-7 minutes, allowing flavors to meld. Serve hot."
+    },
+    {
+      "Recipe": "Mediterranean Quinoa Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Quinoa", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Cook quinoa according to package instructions and let cool. Dice cucumber, tomatoes, and red onion. Pit and chop Kalamata olives. Crumble feta cheese. In a large bowl, combine cooked quinoa, diced cucumber, diced tomatoes, diced red onion, chopped Kalamata olives, and crumbled feta cheese. In a small bowl, whisk together olive oil, lemon juice, chopped fresh parsley, salt, and pepper. Pour dressing over the quinoa mixture and toss to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers with Ground Turkey",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Bell peppers", "Ground turkey", "Quinoa", "Onion", "Garlic", "Tomato sauce", "Italian seasoning", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds and membranes. Place bell peppers in a baking dish. Heat olive oil in a skillet over medium heat. Add diced onion and minced garlic, and cook until softened. Add ground turkey and cook until browned, breaking it up with a spoon. Stir in cooked quinoa, tomato sauce, and Italian seasoning. Season with salt and pepper to taste. Spoon turkey mixture into bell peppers. Cover with foil and bake for about 30 minutes. Remove foil and bake for an additional 10-15 minutes, or until peppers are tender and filling is heated through."
+    },
+    {
+      "Recipe": "Spinach and Mushroom Stuffed Chicken Breast",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 230,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken breasts", "Spinach", "Mushrooms", "Garlic", "Parmesan cheese", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Butterfly chicken breasts and pound to an even thickness. Season with salt and pepper. In a skillet, heat olive oil over medium heat. Add minced garlic and sliced mushrooms, and cook until mushrooms are tender. Add chopped spinach and cook until wilted. Remove from heat and stir in grated Parmesan cheese. Place a layer of spinach-mushroom mixture on each chicken breast. Roll up chicken breasts and secure with toothpicks. Place chicken breasts in a baking dish. Bake for 25-30 minutes, or until chicken is cooked through."
+    },
+    {
+      "Recipe": "Zucchini Lasagna",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Zucchini", "Ground turkey", "Tomato sauce", "Ricotta cheese", "Egg", "Parmesan cheese", "Garlic powder", "Italian seasoning", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Slice zucchini lengthwise into thin strips. In a skillet, cook ground turkey until browned. Stir in tomato sauce, garlic powder, Italian seasoning, salt, and pepper. In a bowl, mix together ricotta cheese, egg, grated Parmesan cheese, salt, and pepper. Spread a thin layer of turkey mixture in the bottom of a baking dish. Arrange a layer of zucchini slices over the turkey mixture. Spread a layer of ricotta cheese mixture over the zucchini. Repeat layers, ending with a layer of turkey mixture on top. Cover with foil and bake for 45 minutes. Remove foil and bake for an additional 15 minutes, or until lasagna is bubbly and zucchini is tender. Let stand for 10 minutes before serving."
+    },
+    {
+      "Recipe": "Sautéed Green Beans with Almonds",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 110,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Green beans", "Almonds", "Garlic", "Olive oil", "Lemon zest", "Salt", "Pepper"],
+      "Instructions": "Trim green beans and blanch in boiling water for 2-3 minutes, then drain and rinse with cold water. In a skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant. Add blanched green beans and sauté until tender-crisp. Stir in sliced almonds and cook until lightly toasted. Remove from heat and sprinkle with lemon zest, salt, and pepper. Toss to combine. Serve hot."
+    },
+    {
+      "Recipe": "Tofu Stir-Fry with Broccoli and Carrots",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Firm tofu", "Broccoli", "Carrots", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Cut tofu into cubes and press between paper towels to remove excess moisture. Cut broccoli into florets and slice carrots thinly. Mince garlic and grate ginger. Heat vegetable oil in a skillet or wok over medium-high heat. Add minced garlic and grated ginger, and cook until fragrant. Add tofu cubes and stir-fry until golden brown. Add broccoli florets and sliced carrots, and stir-fry until vegetables are tender-crisp. Stir in soy sauce and sesame oil. Season with salt and pepper to taste. Garnish with sliced green onions before serving."
+    },
+    {
+      "Recipe": "Cabbage and Apple Slaw",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Green cabbage", "Red cabbage", "Apple", "Carrots", "Greek yogurt", "Apple cider vinegar", "Honey", "Dijon mustard", "Salt", "Pepper"],
+      "Instructions": "Shred green cabbage, red cabbage, and carrots. Core and chop apple. In a large bowl, combine shredded cabbages, chopped apple, and shredded carrots. In a small bowl, whisk together Greek yogurt, apple cider vinegar, honey, Dijon mustard, salt, and pepper to make the dressing. Pour dressing over cabbage mixture and toss to coat evenly. Chill in the refrigerator for at least 30 minutes before serving."
+    },
+    {
+      "Recipe": "Mediterranean Chickpea Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Chickpeas", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Lemon juice", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Rinse and drain chickpeas. Dice cucumber, tomatoes, and red onion. Pit and chop Kalamata olives. Crumble feta cheese. In a large bowl, combine chickpeas, diced cucumber, diced tomatoes, diced red onion, chopped Kalamata olives, and crumbled feta cheese. In a small bowl, whisk together olive oil, lemon juice, chopped fresh parsley, salt, and pepper. Pour dressing over the chickpea mixture and toss to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Asian Cucumber Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 80,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Cucumber", "Rice vinegar", "Soy sauce", "Sesame oil", "Honey", "Garlic", "Red pepper flakes", "Toasted sesame seeds", "Green onions"],
+      "Instructions": "Slice cucumber thinly and place in a bowl. In a small bowl, whisk together rice vinegar, soy sauce, sesame oil, honey, minced garlic, and red pepper flakes to make the dressing. Pour dressing over sliced cucumbers and toss to coat evenly. Sprinkle with toasted sesame seeds and sliced green onions. Chill before serving."
+    },
+    {
+      "Recipe": "Italian White Bean and Spinach Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["White beans", "Spinach", "Carrots", "Celery", "Onion", "Garlic", "Vegetable broth", "Italian seasoning", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Dice carrots, celery, and onion. Mince garlic. In a large pot, heat olive oil over medium heat. Add diced onion, carrots, and celery, and cook until softened. Add minced garlic and cook until fragrant. Add vegetable broth, drained and rinsed white beans, and Italian seasoning. Bring to a simmer and cook for 15-20 minutes. Stir in chopped spinach and cook until wilted. Season with salt and pepper to taste. Serve hot."
+    },
+    {
+      "Recipe": "Roasted Brussels Sprouts with Balsamic Glaze",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Brussels sprouts", "Olive oil", "Balsamic vinegar", "Honey", "Garlic powder", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Trim ends of Brussels sprouts and cut in half. In a bowl, toss Brussels sprouts with olive oil, garlic powder, salt, and pepper until evenly coated. Spread Brussels sprouts in a single layer on a baking sheet. Roast for 20-25 minutes, or until tender and caramelized, stirring halfway through. In a small saucepan, combine balsamic vinegar and honey. Bring to a simmer over medium heat and cook until reduced by half and slightly thickened. Drizzle balsamic glaze over roasted Brussels sprouts before serving."
+    },
+    {
+      "Recipe": "Cauliflower Rice Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 100,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cauliflower", "Carrots", "Bell peppers", "Broccoli", "Green peas", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Vegetable oil", "Salt", "Pepper"],
+      "Instructions": "Grate cauliflower into rice-sized pieces using a box grater or food processor. Dice carrots, bell peppers, and broccoli. Mince garlic and grate ginger. Heat vegetable oil in a large skillet or wok over medium heat. Add minced garlic and grated ginger, and cook until fragrant. Add diced carrots, bell peppers, broccoli, and green peas, and stir-fry until tender-crisp. Push vegetables to one side of the skillet and add grated cauliflower. Stir-fry until cauliflower is heated through. Drizzle with soy sauce and sesame oil. Season with salt and pepper to taste. Serve hot."
+    },
+    {
+      "Recipe": "Mushroom and Spinach Quiche",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Pie crust", "Mushrooms", "Spinach", "Onion", "Garlic", "Eggs", "Milk", "Swiss cheese", "Salt", "Pepper", "Nutmeg"],
+      "Instructions": "Preheat oven to 375°F (190°C). Roll out pie crust and press into a pie dish. In a skillet, heat olive oil over medium heat. Add sliced mushrooms and cook until browned. Add minced garlic and diced onion, and cook until softened. Add chopped spinach and cook until wilted. Remove from heat and let cool slightly. In a bowl, whisk together eggs, milk, salt, pepper, and a pinch of nutmeg. Stir in grated Swiss cheese and cooked mushroom-spinach mixture. Pour filling into the prepared pie crust. Bake for 35-40 minutes, or until set and golden brown. Let cool for a few minutes before slicing and serving."
+    },
+    {
+      "Recipe": "Lentil and Vegetable Soup",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 7,
+      "Ingredients": ["Brown lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Bay leaf", "Thyme", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Rinse lentils and pick over for any debris. Dice carrots, celery, onion, and tomatoes. Mince garlic. In a large pot, heat olive oil over medium heat. Add diced onion, carrots, and celery, and cook until softened. Add minced garlic and cook until fragrant. Add rinsed lentils, diced tomatoes, vegetable broth, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer for 25-30 minutes, or until lentils are tender. Season with salt and pepper to taste. Serve hot."
+    },
+    {
+      "Recipe": "Cucumber Avocado Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cucumber", "Avocado", "Red onion", "Cherry tomatoes", "Lemon juice", "Olive oil", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Dice cucumber, avocado, red onion, and cherry tomatoes. In a large bowl, combine diced cucumber, diced avocado, diced red onion, and halved cherry tomatoes. Drizzle with lemon juice and olive oil. Add chopped fresh parsley. Season with salt and pepper to taste. Toss gently to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Eggplant Parmesan",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 5,
+      "Ingredients": ["Eggplant", "Whole wheat breadcrumbs", "Eggs", "Parmesan cheese", "Tomato sauce", "Mozzarella cheese", "Olive oil", "Basil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Slice eggplant into rounds. In one shallow dish, whisk eggs. In another shallow dish, combine whole wheat breadcrumbs, grated Parmesan cheese, chopped fresh basil, salt, and pepper. Dip each eggplant slice into the beaten eggs, then coat with the breadcrumb mixture. Place coated eggplant slices on a baking sheet lined with parchment paper. Bake for 20-25 minutes, flipping halfway through, until golden brown and crispy. Spread tomato sauce on the bottom of a baking dish. Arrange baked eggplant slices in the dish, overlapping slightly. Top with more tomato sauce and shredded mozzarella cheese. Bake for an additional 15-20 minutes, or until cheese is melted and bubbly. Serve hot."
+    },
+    {
+      "Recipe": "Mango Salsa",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 80,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Mango", "Red bell pepper", "Red onion", "Cilantro", "Lime juice", "Salt", "Pepper"],
+      "Instructions": "Dice mango, red bell pepper, and red onion. Chop cilantro. In a bowl, combine diced mango, diced red bell pepper, diced red onion, and chopped cilantro. Squeeze fresh lime juice over the mixture. Season with salt and pepper to taste. Toss gently to combine. Serve chilled."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 240,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn kernels", "Onion", "Garlic", "Tomato sauce", "Cheddar cheese", "Cumin", "Chili powder", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds and membranes. Place bell peppers in a baking dish. Cook quinoa according to package instructions and let cool. In a skillet, heat olive oil over medium heat. Add diced onion and minced garlic, and cook until softened. Stir in cooked quinoa, drained and rinsed black beans, corn kernels, tomato sauce, cumin, chili powder, salt, and pepper. Cook for 5-7 minutes, allowing flavors to meld. Spoon quinoa mixture into bell peppers. Top with shredded cheddar cheese. Cover with foil and bake for about 30 minutes. Remove foil and bake for an additional 10-15 minutes, or until peppers are tender and filling is heated through."
+    },
+    {
+      "Recipe": "Broccoli and Cheese Stuffed Chicken Breast",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken breasts", "Broccoli florets", "Cheddar cheese", "Garlic powder", "Onion powder", "Paprika", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Butterfly chicken breasts and pound to an even thickness. Season both sides of each chicken breast with garlic powder, onion powder, paprika, salt, and pepper. Steam broccoli florets until tender, then chop into small pieces. Place a layer of chopped broccoli on each chicken breast. Top with shredded cheddar cheese. Roll up chicken breasts and secure with toothpicks. Place chicken breasts in a baking dish. Bake for 25-30 minutes, or until chicken is cooked through and cheese is melted and bubbly."
+    },
+    {
+      "Recipe": "Cauliflower Pizza Crust",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cauliflower", "Eggs", "Parmesan cheese", "Almond flour", "Garlic powder", "Italian seasoning", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 425°F (220°C). Cut cauliflower into florets and pulse in a food processor until finely chopped. Place chopped cauliflower in a microwave-safe bowl and microwave on high for 4-5 minutes, until tender. Let cool slightly, then transfer cauliflower to a clean kitchen towel and wring out excess moisture. In a large bowl, combine cauliflower, beaten eggs, grated Parmesan cheese, almond flour, garlic powder, Italian seasoning, salt, and pepper. Mix until well combined. Line a baking sheet with parchment paper and spread cauliflower mixture into a thin, even crust shape. Bake for 15-20 minutes, or until crust is golden brown and set. Remove from oven and add desired toppings. Return to oven and bake for an additional 10-15 minutes, or until toppings are heated through and cheese is melted."
+    },
+    {
+      "Recipe": "Greek Salad with Lemon Herb Vinaigrette",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 140,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Lemon juice", "Olive oil", "Fresh oregano", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Dice cucumber, tomatoes, and red onion. Pit and halve Kalamata olives. Crumble feta cheese. In a large bowl, combine diced cucumber, diced tomatoes, diced red onion, halved Kalamata olives, and crumbled feta cheese. In a small bowl, whisk together lemon juice, olive oil, chopped fresh oregano, chopped fresh parsley, salt, and pepper to make the dressing. Pour dressing over the salad and toss to coat evenly. Serve chilled."
+    },
+    {
+      "Recipe": "Grilled Lemon Garlic Shrimp Skewers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 1,
+      "Ingredients": ["Shrimp", "Lemon", "Garlic", "Olive oil", "Fresh parsley", "Salt", "Pepper"],
+      "Instructions": "Peel and devein shrimp, leaving tails intact. In a bowl, whisk together olive oil, minced garlic, chopped fresh parsley, salt, and pepper. Add shrimp to the bowl and toss to coat evenly. Cover and refrigerate for 30 minutes to marinate. Preheat grill to medium-high heat. Thread marinated shrimp onto skewers. Grill shrimp skewers for 2-3 minutes per side, or until shrimp are pink and opaque. Squeeze fresh lemon juice over the grilled shrimp before serving."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Lettuce Wraps",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Ground turkey", "Bell peppers", "Carrots", "Water chestnuts", "Green onions", "Soy sauce", "Sesame oil", "Ginger", "Garlic", "Lettuce leaves", "Sriracha sauce (optional)"],
+      "Instructions": "Heat sesame oil in a skillet over medium heat. Add minced ginger and garlic, and cook until fragrant. Add ground turkey and cook until browned. Stir in diced bell peppers, shredded carrots, chopped water chestnuts, and sliced green onions. Cook until vegetables are tender. Season with soy sauce to taste. Spoon turkey mixture onto lettuce leaves. Serve with sriracha sauce for extra spice, if desired."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Ground turkey", "Broccoli", "Carrots", "Bell peppers", "Snow peas", "Garlic", "Ginger", "Soy sauce", "Hoisin sauce", "Sesame oil", "Vegetable oil", "Green onions", "Sesame seeds", "Salt", "Pepper"],
+      "Instructions": "Heat vegetable oil in a wok or large skillet over high heat. Add minced garlic and grated ginger, and cook until fragrant. Add ground turkey and stir-fry until browned. Add chopped broccoli, sliced carrots, diced bell peppers, and snow peas. Stir-fry until vegetables are tender-crisp. In a small bowl, mix together soy sauce, hoisin sauce, and sesame oil. Pour sauce over turkey and vegetables. Stir until evenly coated and heated through. Garnish with sliced green onions and toasted sesame seeds before serving."
+    }
 ]
 
 
