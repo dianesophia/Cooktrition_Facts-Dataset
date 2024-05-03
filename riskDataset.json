@@ -1442,7 +1442,728 @@
     "Fiber (g) per serving": 2,
     "Ingredients": "Cabbage, Carrots, Apple cider vinegar, Honey, Dijon mustard, Olive oil, Salt, Pepper",
     "Instructions": "Shred cabbage and carrots. Mix in a dressing made of apple cider vinegar, honey, Dijon mustard, olive oil, salt, and pepper. Toss to combine. Serve chilled."
+  },
+  {
+    "Recipe": "Quinoa Salad with Chickpeas",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Quinoa", "Chickpeas", "Cucumber", "Cherry tomatoes", "Red onion", "Parsley", "Lemon juice", "Olive oil", "Salt", "Pepper"],
+    "Instructions": "Cook quinoa according to package instructions. In a large bowl, combine cooked quinoa, drained and rinsed chickpeas, diced cucumber, halved cherry tomatoes, finely chopped red onion, and chopped parsley. Dress with lemon juice, olive oil, salt, and pepper. Toss gently to combine. Serve chilled or at room temperature."
+  },
+  {
+    "Recipe": "Grilled Salmon with Asparagus",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Salmon fillets", "Asparagus spears", "Lemon", "Garlic", "Olive oil", "Salt", "Pepper"],
+    "Instructions": "Preheat grill to medium-high heat. Season salmon fillets and asparagus spears with minced garlic, lemon zest, olive oil, salt, and pepper. Grill salmon for 4-5 minutes per side or until desired doneness, and grill asparagus for 2-3 minutes per side or until tender. Serve hot with lemon wedges."
+  },
+  {
+    "Recipe": "Lentil Soup with Spinach",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 150,
+    "Saturated Fat (g) per serving": 0.6,
+    "Fiber (g) per serving": 6,
+    "Ingredients": ["Brown lentils", "Spinach", "Carrots", "Celery", "Onion", "Garlic", "Vegetable broth", "Bay leaves", "Olive oil", "Salt", "Pepper"],
+    "Instructions": "In a large pot, heat olive oil over medium heat. Add diced onion, minced garlic, sliced carrots, and chopped celery. Cook until vegetables are tender. Add rinsed brown lentils, vegetable broth, and bay leaves. Bring to a boil, then reduce heat and simmer for 20-25 minutes or until lentils are tender. Stir in chopped spinach and cook until wilted. Season with salt and pepper to taste. Serve hot."
+  },
+  {
+    "Recipe": "Grilled Chicken with Roasted Vegetables",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Chicken breasts", "Bell peppers", "Zucchini", "Red onion", "Cherry tomatoes", "Balsamic vinegar", "Garlic", "Olive oil", "Italian seasoning", "Salt", "Pepper"],
+    "Instructions": "Preheat grill to medium-high heat. Season chicken breasts with minced garlic, olive oil, Italian seasoning, salt, and pepper. Grill for 6-7 minutes per side or until cooked through. Meanwhile, toss sliced bell peppers, zucchini, red onion, and cherry tomatoes with balsamic vinegar, minced garlic, olive oil, salt, and pepper. Spread vegetables on a baking sheet and roast in the oven at 400°F (200°C) for 20-25 minutes or until tender. Serve grilled chicken with roasted vegetables."
+  },
+  {
+    "Recipe": "Quinoa Stuffed Bell Peppers",
+    "Risk Category": "Osteoarthritis",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.9,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Bell peppers", "Quinoa", "Black beans", "Corn", "Red onion", "Jalapeno", "Lime juice", "Cilantro", "Cumin", "Chili powder", "Salt", "Pepper"],
+    "Instructions": "Cook quinoa according to package instructions. In a large bowl, mix cooked quinoa with drained and rinsed black beans, corn kernels, diced red onion, minced jalapeno, chopped cilantro, lime juice, cumin, chili powder, salt, and pepper. Cut the tops off bell peppers and remove seeds and membranes. Stuff each bell pepper with the quinoa mixture. Place stuffed peppers in a baking dish and bake at 375°F (190°C) for 25-30 minutes or until peppers are tender. Serve hot."
+  },
+  {
+    "Recipe": "Sinigang na Baboy (Pork Sinigang)",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Pork belly", "Tamarind soup base", "Water", "Tomatoes", "Radish", "String beans", "Spinach", "Onion", "Fish sauce", "Salt", "Pepper"],
+    "Instructions": "In a pot, boil water and add pork belly. Once pork is tender, add tamarind soup base, tomatoes, onion, and radish. Simmer until vegetables are tender. Add string beans and cook for a few minutes. Season with fish sauce, salt, and pepper. Add spinach and cook until wilted. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Adobo Manok (Chicken Adobo)",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.0,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Chicken thighs", "Soy sauce", "Vinegar", "Garlic", "Bay leaves", "Peppercorns", "Sugar", "Water"],
+    "Instructions": "In a pan, combine soy sauce, vinegar, garlic, bay leaves, peppercorns, sugar, and water. Add chicken thighs and marinate for at least 30 minutes. Bring to a boil, then lower heat and simmer until chicken is tender and sauce is reduced. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Pancit Canton",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Canton noodles", "Pork", "Shrimp", "Carrots", "Cabbage", "Bell peppers", "Onion", "Garlic", "Soy sauce", "Oyster sauce", "Fish sauce", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Soak canton noodles in water until soft, then drain. In a wok, heat vegetable oil and sauté garlic and onion until fragrant. Add pork and cook until browned. Add shrimp and cook until pink. Stir in carrots, cabbage, bell peppers, soy sauce, oyster sauce, and fish sauce. Toss in soaked canton noodles and cook until heated through. Season with salt and pepper. Serve hot."
+  },
+  {
+    "Recipe": "Lumpiang Shanghai (Filipino Spring Rolls)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 0.6,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Ground pork", "Carrots", "Green onions", "Onion", "Garlic", "Salt", "Pepper", "Lumpia wrappers", "Egg", "Vegetable oil (for frying)"],
+    "Instructions": "In a bowl, combine ground pork, grated carrots, chopped green onions, minced onion, minced garlic, salt, and pepper. Mix well. Place a spoonful of the pork mixture on a lumpia wrapper and roll tightly, sealing the edges with beaten egg. Heat vegetable oil in a pan and fry lumpia until golden brown and crispy. Serve hot with sweet chili sauce or banana ketchup."
+  },
+  {
+    "Recipe": "Kare-Kare (Oxtail Stew in Peanut Sauce)",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Oxtail", "Eggplant", "String beans", "Bok choy", "Peanut butter", "Annatto seeds", "Onion", "Garlic", "Beef broth", "Fish sauce", "Salt", "Pepper"],
+    "Instructions": "Boil oxtail in water until tender. In a separate pan, sauté annatto seeds in oil until color is extracted. Remove seeds and sauté garlic and onion until fragrant. Add boiled oxtail, beef broth, and peanut butter. Simmer until sauce thickens. Add eggplant, string beans, and bok choy and cook until vegetables are tender. Season with fish sauce, salt, and pepper. Serve hot with bagoong (fermented shrimp paste) on the side."
+  },
+  {
+    "Recipe": "Paksiw na Bangus (Milkfish Stewed in Vinegar)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 1.0,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Milkfish (Bangus)", "Vinegar", "Water", "Ginger", "Garlic", "Onion", "Long green pepper", "Salt", "Pepper"],
+    "Instructions": "Clean and slice milkfish into serving pieces. In a pot, combine vinegar, water, ginger, garlic, onion, long green pepper, salt, and pepper. Bring to a boil, then add milkfish pieces. Simmer until fish is cooked and sauce thickens. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Pinakbet (Mixed Vegetable Stew)",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 0.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Bitter melon (ampalaya)", "Eggplant", "Okra", "Squash", "String beans", "Tomatoes", "Onion", "Garlic", "Shrimp paste", "Pork belly (optional)", "Salt", "Pepper"],
+    "Instructions": "In a pan, sauté garlic and onion until fragrant. Add pork belly (if using) and cook until browned. Add tomatoes and cook until softened. Add bitter melon, eggplant, okra, squash, and string beans. Stir in shrimp paste and a little water. Cover and simmer until vegetables are tender. Season with salt and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Tinola (Chicken Ginger Soup)",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Ginger", "Garlic", "Onion", "Chayote", "Spinach", "Fish sauce", "Water", "Salt", "Pepper"],
+    "Instructions": "In a pot, sauté ginger, garlic, and onion until fragrant. Add chicken thighs and cook until lightly browned. Pour in water and bring to a boil. Add sliced chayote and simmer until chicken is tender and chayote is cooked. Add spinach and cook until wilted. Season with fish sauce, salt, and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Lechon Kawali (Crispy Fried Pork Belly)",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 1,
+    "Ingredients": ["Pork belly", "Water", "Salt", "Pepper", "Oil (for frying)", "Soy sauce (for dipping)"],
+    "Instructions": "In a pot, boil pork belly in water with salt and pepper until tender. Remove from pot and let it cool. Heat oil in a deep fryer or pan. Carefully lower the boiled pork belly into the hot oil and fry until crispy and golden brown. Drain excess oil on paper towels. Slice and serve hot with soy sauce for dipping and steamed rice."
+  },
+  {
+    "Recipe": "Bicol Express",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Pork belly", "Coconut milk", "Shrimp paste", "Chili peppers", "Garlic", "Onion", "Ginger", "Salt", "Pepper"],
+    "Instructions": "In a pan, sauté garlic, onion, and ginger until fragrant. Add sliced pork belly and cook until lightly browned. Stir in shrimp paste and chili peppers. Pour in coconut milk and simmer until pork is tender and sauce thickens. Season with salt and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Greek Salad",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 200,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Romaine lettuce", "Cucumber", "Tomatoes", "Red onion", "Kalamata olives", "Feta cheese", "Olive oil", "Red wine vinegar", "Dried oregano", "Salt", "Pepper"],
+    "Instructions": "Chop romaine lettuce, cucumber, tomatoes, and red onion. Place them in a large bowl. Add kalamata olives and crumbled feta cheese. In a small bowl, whisk together olive oil, red wine vinegar, dried oregano, salt, and pepper to make the dressing. Pour the dressing over the salad and toss to combine. Serve immediately."
+  },
+  {
+    "Recipe": "Vegetable Stir Fry",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 1.0,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Broccoli", "Bell peppers", "Carrots", "Snow peas", "Mushrooms", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Cornstarch", "Water", "Salt", "Pepper"],
+    "Instructions": "Cut broccoli into florets, slice bell peppers, carrots, and mushrooms. Heat sesame oil in a large skillet or wok over medium-high heat. Add minced garlic and ginger, cook until fragrant. Add vegetables and stir-fry until tender-crisp. In a small bowl, mix soy sauce, water, and cornstarch to make a sauce. Pour the sauce over the vegetables and cook until thickened. Season with salt and pepper. Serve hot with rice or noodles."
+  },
+  {
+    "Recipe": "Caprese Salad",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 150,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Extra virgin olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+    "Instructions": "Slice tomatoes and fresh mozzarella cheese into rounds. Arrange them alternately on a serving platter, overlapping slightly. Tuck fresh basil leaves between the tomato and cheese slices. Drizzle extra virgin olive oil and balsamic vinegar over the salad. Season with salt and pepper. Serve immediately."
+  },
+  {
+    "Recipe": "Chicken Teriyaki",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Chicken thighs", "Soy sauce", "Mirin", "Brown sugar", "Garlic", "Ginger", "Cornstarch", "Water", "Green onions", "Sesame seeds", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "In a bowl, mix soy sauce, mirin, brown sugar, minced garlic, and grated ginger to make the teriyaki sauce. Reserve half of the sauce for later. Marinate chicken thighs in the remaining sauce for at least 30 minutes. Heat vegetable oil in a skillet over medium-high heat. Cook chicken thighs until golden brown and cooked through. In a small saucepan, heat the reserved teriyaki sauce. In a separate bowl, mix cornstarch and water to make a slurry. Add the slurry to the heated sauce, stirring constantly until thickened. Pour the sauce over the cooked chicken. Garnish with sliced green onions and sesame seeds. Serve hot with rice."
+  },
+  {
+    "Recipe": "Mediterranean Quinoa Bowl",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 6,
+    "Ingredients": ["Quinoa", "Chickpeas", "Cucumber", "Cherry tomatoes", "Kalamata olives", "Red onion", "Feta cheese", "Lemon juice", "Olive oil", "Fresh parsley", "Salt", "Pepper"],
+    "Instructions": "Cook quinoa according to package instructions. In a large bowl, combine cooked quinoa, drained and rinsed chickpeas, diced cucumber, halved cherry tomatoes, sliced kalamata olives, diced red onion, crumbled feta cheese, and chopped fresh parsley. Drizzle with lemon juice and olive oil. Season with salt and pepper. Toss gently to combine. Serve immediately or refrigerate for later."
+  },
+  {
+    "Recipe": "Chana Masala",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 6,
+    "Ingredients": ["Chickpeas", "Tomatoes", "Onion", "Garlic", "Ginger", "Green chili", "Coriander powder", "Cumin powder", "Turmeric powder", "Garam masala", "Salt", "Cilantro", "Lemon juice", "Vegetable oil"],
+    "Instructions": "In a pan, heat vegetable oil and sauté chopped onions until golden brown. Add minced garlic, ginger, and green chili, and cook until fragrant. Stir in coriander powder, cumin powder, turmeric powder, and garam masala. Add chopped tomatoes and cook until softened. Add boiled chickpeas and simmer for 10-15 minutes. Season with salt and garnish with chopped cilantro and lemon juice before serving."
+  },
+  {
+    "Recipe": "Ratatouille",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 0.5,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Onion", "Garlic", "Olive oil", "Herbes de Provence", "Salt", "Pepper"],
+    "Instructions": "Preheat oven to 375°F (190°C). Slice eggplant, zucchini, bell peppers, and tomatoes into rounds. Thinly slice onion and mince garlic. In a baking dish, arrange the sliced vegetables in an alternating pattern. Drizzle with olive oil and sprinkle with herbes de Provence, salt, and pepper. Cover with foil and bake for 45 minutes. Uncover and bake for an additional 15 minutes or until vegetables are tender. Serve hot or at room temperature."
+  },
+  {
+    "Recipe": "Spaghetti Aglio e Olio",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Spaghetti", "Garlic", "Red pepper flakes", "Parsley", "Extra virgin olive oil", "Salt", "Pepper"],
+    "Instructions": "Cook spaghetti according to package instructions. In a pan, heat extra virgin olive oil over medium heat. Add minced garlic and red pepper flakes, and cook until garlic is golden but not browned. Drain cooked spaghetti and add it to the pan. Toss to coat the spaghetti with the garlic-infused oil. Season with salt and pepper. Garnish with chopped parsley before serving."
+  },
+  {
+    "Recipe": "Tofu Stir Fry",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 180,
+    "Saturated Fat (g) per serving": 0.6,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Firm tofu", "Bell peppers", "Broccoli", "Carrots", "Snap peas", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Cornstarch", "Water", "Salt", "Pepper"],
+    "Instructions": "Cut firm tofu into cubes and pat dry with paper towels. In a bowl, mix soy sauce, sesame oil, minced garlic, and grated ginger. Marinate tofu in the sauce for at least 15 minutes. In a separate bowl, mix cornstarch and water to make a slurry. Heat vegetable oil in a skillet over medium-high heat. Add marinated tofu and cook until golden brown. Remove tofu from the skillet. In the same skillet, stir-fry bell peppers, broccoli, carrots, and snap peas until tender-crisp. Add the cooked tofu back to the skillet and pour the cornstarch slurry over the tofu and vegetables. Stir until the sauce thickens. Season with salt and pepper. Serve hot with rice."
+  },
+  {
+    "Recipe": "Mushroom Risotto",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Arborio rice", "Mushrooms", "Onion", "Garlic", "White wine", "Vegetable broth", "Parmesan cheese", "Butter", "Olive oil", "Salt", "Pepper"],
+    "Instructions": "In a pot, heat vegetable broth and keep it warm. In a separate pan, heat olive oil and sauté chopped onion and minced garlic until softened. Add Arborio rice and cook until translucent. Stir in white wine and cook until absorbed. Add sliced mushrooms and cook until tender. Gradually add warm vegetable broth, stirring constantly, until rice is cooked and creamy. Stir in grated Parmesan cheese and butter. Season with salt and pepper. Serve hot."
+  },
+  {
+    "Recipe": "Pad Thai",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Rice noodles", "Shrimp", "Tofu", "Bean sprouts", "Green onions", "Garlic", "Eggs", "Peanuts", "Soy sauce", "Fish sauce", "Tamarind paste", "Sugar", "Vegetable oil", "Lime wedges"],
+    "Instructions": "Soak rice noodles in warm water until soft, then drain. In a wok or large skillet, heat vegetable oil over medium-high heat. Add minced garlic and diced tofu, and cook until tofu is golden brown. Push tofu to one side of the pan and crack eggs into the other side. Scramble eggs until cooked, then mix with tofu. Add shrimp and cook until pink. Add soaked rice noodles, bean sprouts, chopped green onions, and crushed peanuts. In a bowl, mix soy sauce, fish sauce, tamarind paste, and sugar. Pour over the noodle mixture and toss to combine. Serve hot with lime wedges."
+  },
+  {
+    "Recipe": "Sushi Rolls",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Sushi rice", "Nori sheets", "Raw fish (salmon, tuna, or shrimp)", "Avocado", "Cucumber", "Carrot", "Soy sauce", "Wasabi", "Pickled ginger"],
+    "Instructions": "Prepare sushi rice according to package instructions. Place a nori sheet on a bamboo sushi mat. Spread a layer of sushi rice over the nori sheet, leaving a 1-inch border at the top edge. Arrange strips of raw fish, avocado, cucumber, and carrot in the center of the rice. Roll up the sushi tightly using the bamboo mat. Wet the top border of the nori sheet with water to seal the roll. Slice the sushi roll into bite-sized pieces using a sharp knife. Serve with soy sauce, wasabi, and pickled ginger."
+  },
+  {
+    "Recipe": "Chicken Curry",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Potatoes", "Carrots", "Onion", "Garlic", "Ginger", "Coconut milk", "Curry powder", "Turmeric powder", "Cumin", "Coriander", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "In a pot, heat vegetable oil over medium heat. Add chopped onion, minced garlic, and grated ginger, and cook until softened. Add curry powder, turmeric powder, cumin, and coriander, and cook until fragrant. Add diced chicken thighs and cook until browned. Stir in diced potatoes and carrots. Pour in coconut milk and bring to a simmer. Cover and cook until chicken is cooked through and vegetables are tender. Season with salt and pepper. Serve hot with rice or naan bread."
+  },
+  {
+    "Recipe": "Beef Pho",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Beef brisket", "Rice noodles", "Beef broth", "Onion", "Ginger", "Star anise", "Cinnamon stick", "Cloves", "Fish sauce", "Bean sprouts", "Thai basil", "Lime wedges", "Sriracha sauce", "Hoisin sauce"],
+    "Instructions": "In a large pot, bring beef broth to a boil. Add sliced onion, sliced ginger, star anise, cinnamon stick, and cloves. Simmer for 30 minutes to infuse flavors. Meanwhile, cook rice noodles according to package instructions. Thinly slice beef brisket. Place cooked noodles in serving bowls and top with sliced beef brisket. Ladle hot broth over the noodles and beef. Serve with bean sprouts, Thai basil, lime wedges, sriracha sauce, and hoisin sauce on the side."
+  },
+  {
+    "Recipe": "Thai Green Curry",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Chicken breast", "Bell peppers", "Eggplant", "Bamboo shoots", "Coconut milk", "Thai green curry paste", "Fish sauce", "Sugar", "Thai basil leaves", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "In a wok or large skillet, heat vegetable oil over medium heat. Add sliced bell peppers, diced eggplant, and bamboo shoots, and stir-fry until vegetables are slightly tender. Add sliced chicken breast and cook until browned. Stir in Thai green curry paste and cook until fragrant. Pour in coconut milk and bring to a simmer. Season with fish sauce, sugar, salt, and pepper. Simmer for 10-15 minutes until chicken is cooked through and vegetables are tender. Stir in Thai basil leaves just before serving. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Korean Bibimbap",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Cooked rice", "Beef bulgogi (or tofu for vegetarian option)", "Spinach", "Carrots", "Bean sprouts", "Zucchini", "Eggs", "Sesame oil", "Soy sauce", "Gochujang (Korean chili paste)", "Sesame seeds", "Garlic", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Marinate beef bulgogi (or tofu) in a mixture of soy sauce, sesame oil, minced garlic, salt, and pepper. Stir-fry or grill the marinated meat/tofu until cooked. In a separate pan, sauté spinach, carrots, bean sprouts, and zucchini with a little sesame oil and salt until vegetables are tender. Fry eggs sunny-side-up. To assemble, divide cooked rice into bowls. Arrange cooked meat/tofu and sautéed vegetables on top of the rice. Place a fried egg on each bowl. Serve with a dollop of gochujang and sprinkle with sesame seeds."
+  },
+  {
+    "Recipe": "Japanese Ramen",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Ramen noodles", "Pork belly", "Soft-boiled eggs", "Bamboo shoots", "Green onions", "Nori (seaweed)", "Soy sauce", "Mirin", "Sake", "Chicken broth", "Garlic", "Ginger", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Cook ramen noodles according to package instructions. Drain and set aside. In a pot, heat vegetable oil and sauté minced garlic and grated ginger until fragrant. Add sliced pork belly and cook until browned. Deglaze the pot with sake, then add chicken broth, soy sauce, and mirin. Bring to a simmer. To serve, divide cooked noodles into bowls. Ladle hot broth over the noodles. Garnish with soft-boiled eggs, sliced green onions, bamboo shoots, and torn nori sheets."
+  },
+  {
+    "Recipe": "Thai Tom Yum Soup",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Shrimp", "Mushrooms", "Tomatoes", "Galangal (or ginger)", "Lemongrass", "Kaffir lime leaves", "Thai bird's eye chilies", "Lime juice", "Fish sauce", "Sugar", "Vegetable broth", "Cilantro", "Salt", "Pepper"],
+    "Instructions": "In a pot, bring vegetable broth to a boil. Add sliced galangal, bruised lemongrass stalks, torn kaffir lime leaves, and sliced Thai bird's eye chilies. Simmer for 5 minutes to infuse flavors. Add sliced mushrooms and tomatoes, and cook until softened. Add peeled and deveined shrimp, and cook until pink. Season with fish sauce, sugar, lime juice, salt, and pepper. Garnish with chopped cilantro before serving."
+  },
+  {
+    "Recipe": "Chinese Mapo Tofu",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 1.0,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Soft tofu", "Ground pork (or beef for variation)", "Sichuan peppercorns", "Garlic", "Ginger", "Scallions", "Chili bean paste", "Fermented black beans", "Soy sauce", "Chicken broth", "Cornstarch", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Cut soft tofu into cubes and set aside. In a wok or skillet, heat vegetable oil over medium heat. Add minced garlic, ginger, and chopped scallions, and cook until fragrant. Add ground pork (or beef) and cook until browned. Stir in chili bean paste and fermented black beans. Add chicken broth and bring to a simmer. Gently add tofu cubes and simmer for a few minutes. Mix cornstarch with water to make a slurry and add to the simmering sauce to thicken. Season with soy sauce, salt, and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Vietnamese Banh Mi Sandwich",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Baguette", "Grilled pork (or tofu for vegetarian option)", "Pickled vegetables (carrots, daikon radish)", "Cilantro", "Jalapeno peppers", "Mayonnaise", "Soy sauce", "Fish sauce", "Sugar", "Lime juice", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Slice baguette lengthwise and lightly toast. Spread mayonnaise on the inside of the baguette. Layer grilled pork (or tofu), pickled vegetables, sliced jalapeno peppers, and fresh cilantro on one side of the baguette. In a small bowl, mix soy sauce, fish sauce, sugar, lime juice, and vegetable oil to make a dressing. Drizzle the dressing over the filling. Close the sandwich and press gently. Serve immediately."
+  },
+  {
+    "Recipe": "Indian Butter Chicken (Murgh Makhani)",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 2.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Tomatoes", "Cream", "Butter", "Garlic", "Ginger", "Garam masala", "Kashmiri chili powder", "Turmeric powder", "Kasuri methi (dried fenugreek leaves)", "Sugar", "Salt", "Cilantro"],
+    "Instructions": "Marinate chicken thighs in a mixture of yogurt, garlic, ginger, garam masala, Kashmiri chili powder, turmeric powder, and salt for at least 2 hours. In a pan, heat butter and cook marinated chicken until browned and cooked through. In another pan, heat butter and sauté minced garlic until fragrant. Add chopped tomatoes and cook until softened. Blend the cooked tomatoes to make a smooth puree. Pour the tomato puree back into the pan and simmer. Stir in cream, kasuri methi, sugar, and salt. Add the cooked chicken to the sauce and simmer for a few minutes. Garnish with chopped cilantro and serve hot with naan or rice."
+  },
+  {
+    "Recipe": "Japanese Tempura",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 240,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Shrimp", "Assorted vegetables (e.g., sweet potato, bell pepper, eggplant, broccoli)", "Tempura batter mix", "Ice-cold water", "Vegetable oil", "Salt", "Dipping sauce (e.g., soy sauce, mirin, dashi broth)"],
+    "Instructions": "Prepare tempura batter by mixing tempura batter mix with ice-cold water until smooth. Peel and devein shrimp, leaving tails intact. Cut vegetables into bite-sized pieces. Heat vegetable oil in a deep fryer or large pot to 350°F (180°C). Dip shrimp and vegetables into the tempura batter, then carefully place them into the hot oil. Fry until golden and crispy. Remove from oil and drain on paper towels. Sprinkle with salt while still hot. Serve immediately with dipping sauce."
+  },
+  {
+    "Recipe": "Thai Massaman Curry",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Beef chuck roast", "Potatoes", "Onion", "Peanuts", "Coconut milk", "Massaman curry paste", "Fish sauce", "Palm sugar", "Tamarind paste", "Cinnamon stick", "Cardamom pods", "Star anise", "Vegetable oil", "Salt", "Cilantro"],
+    "Instructions": "Cut beef chuck roast into cubes and set aside. Heat vegetable oil in a pot over medium heat. Add chopped onion and cook until softened. Stir in massaman curry paste and cook until fragrant. Add beef cubes and brown on all sides. Pour in coconut milk and bring to a simmer. Add chopped potatoes, peanuts, fish sauce, palm sugar, tamarind paste, cinnamon stick, cardamom pods, and star anise. Cover and simmer until beef is tender and potatoes are cooked through. Season with salt and garnish with chopped cilantro before serving with rice."
+  },
+  {
+    "Recipe": "Chinese Kung Pao Chicken",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken breast", "Bell peppers", "Zucchini", "Peanuts", "Green onions", "Garlic", "Ginger", "Dried red chilies", "Soy sauce", "Rice vinegar", "Hoisin sauce", "Cornstarch", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Cut chicken breast into bite-sized pieces and set aside. In a small bowl, mix soy sauce, rice vinegar, hoisin sauce, cornstarch, and water to make a sauce. Heat vegetable oil in a wok or large skillet over high heat. Add minced garlic, ginger, and dried red chilies, and cook until fragrant. Add chicken pieces and stir-fry until browned. Add sliced bell peppers and zucchini, and stir-fry until vegetables are tender-crisp. Pour in the sauce and cook until thickened. Stir in peanuts and chopped green onions. Season with salt and pepper. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Vietnamese Pho Ga (Chicken Pho)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Rice noodles", "Chicken broth", "Onion", "Ginger", "Star anise", "Cloves", "Cinnamon stick", "Fish sauce", "Sugar", "Bean sprouts", "Thai basil", "Lime wedges", "Sriracha sauce", "Hoisin sauce"],
+    "Instructions": "In a pot, bring chicken broth to a boil. Add sliced onion, sliced ginger, star anise, cloves, and cinnamon stick. Simmer for 30 minutes to infuse flavors. Meanwhile, cook rice noodles according to package instructions. Thinly slice chicken thighs. Place cooked noodles in serving bowls and top with sliced chicken thighs. Ladle hot broth over the noodles and chicken. Serve with bean sprouts, Thai basil, lime wedges, sriracha sauce, and hoisin sauce on the side."
+  },
+  {
+    "Recipe": "Korean Kimchi Fried Rice",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Cooked rice", "Kimchi", "Bacon (or tofu for vegetarian option)", "Eggs", "Green onions", "Soy sauce", "Sesame oil", "Toasted sesame seeds", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Chop kimchi and bacon into small pieces. Heat vegetable oil in a large skillet or wok over medium-high heat. Add chopped bacon and cook until crispy. Push bacon to one side of the skillet and crack eggs into the other side. Scramble eggs until cooked, then mix with bacon. Add chopped kimchi and cook for a few minutes. Stir in cooked rice, soy sauce, and sesame oil. Cook, stirring occasionally, until heated through. Season with salt and pepper. Garnish with sliced green onions and toasted sesame seeds before serving."
+  },
+  {
+    "Recipe": "Thai Green Papaya Salad (Som Tam)",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Green papaya", "Tomatoes", "Long beans (or green beans)", "Thai bird's eye chilies", "Garlic", "Palm sugar", "Fish sauce", "Lime juice", "Roasted peanuts", "Salt"],
+    "Instructions": "Peel and shred green papaya using a grater or julienne peeler. Cut tomatoes into wedges and trim long beans into bite-sized pieces. In a mortar and pestle, pound Thai bird's eye chilies and minced garlic into a coarse paste. Add palm sugar, fish sauce, and lime juice, and pound until sugar dissolves. Taste and adjust seasoning as needed. In a large bowl, combine shredded papaya, tomatoes, and long beans. Pour the dressing over the salad and toss to combine. Sprinkle with roasted peanuts and a pinch of salt before serving."
+  },
+  {
+    "Recipe": "Chinese Mapo Eggplant",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Chinese eggplant", "Ground pork (or tofu for vegetarian option)", "Garlic", "Ginger", "Fermented black beans", "Chili bean paste", "Soy sauce", "Chicken broth", "Cornstarch", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+    "Instructions": "Cut Chinese eggplant into bite-sized pieces. In a bowl, mix soy sauce, chicken broth, and cornstarch to make a slurry. Heat vegetable oil in a wok or large skillet over high heat. Add minced garlic and ginger, and cook until fragrant. Add ground pork and cook until browned. Stir in fermented black beans and chili bean paste. Add eggplant pieces and stir-fry until softened. Pour in the slurry and cook until the sauce thickens. Season with salt and pepper. Garnish with sliced green onions before serving."
+  },
+  {
+    "Recipe": "Vietnamese Banh Xeo (Sizzling Pancakes)",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Rice flour", "Coconut milk", "Turmeric powder", "Shrimp", "Bean sprouts", "Pork belly", "Green onions", "Lettuce leaves", "Vietnamese herbs (e.g., mint, cilantro)", "Nuoc cham dipping sauce"],
+    "Instructions": "In a bowl, whisk together rice flour, coconut milk, turmeric powder, and water to make a thin batter. Heat a non-stick skillet over medium-high heat and add a little oil. Add shrimp, sliced pork belly, and chopped green onions to one side of the skillet. Pour some batter over the ingredients to cover the skillet's surface. Add a handful of bean sprouts on top. Cover and cook until the edges are crispy and golden. Fold the pancake in half and transfer to a plate. Serve hot with lettuce leaves, Vietnamese herbs, and nuoc cham dipping sauce."
+  },
+  {
+    "Recipe": "Japanese Gyoza (Pan-Fried Dumplings)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Gyoza wrappers", "Ground pork", "Cabbage", "Green onions", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Vegetable oil", "Rice vinegar", "Dipping sauce (e.g., soy sauce, rice vinegar, chili oil)"],
+    "Instructions": "Finely chop cabbage, green onions, garlic, and ginger. In a bowl, mix ground pork with chopped vegetables, soy sauce, and sesame oil until well combined. Place a small spoonful of the filling onto a gyoza wrapper. Moisten the edges of the wrapper with water and fold in half to form a half-moon shape. Press the edges to seal. Heat vegetable oil in a skillet over medium heat. Arrange gyoza in the skillet in a single layer. Cook until the bottoms are golden brown. Pour in a mixture of water and rice vinegar, cover, and steam until the filling is cooked through and the wrappers are translucent. Serve hot with dipping sauce."
+  },
+  {
+    "Recipe": "Indian Vegetable Biryani",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Basmati rice", "Mixed vegetables (e.g., carrots, peas, potatoes)", "Onion", "Tomatoes", "Ginger-garlic paste", "Yogurt", "Garam masala", "Turmeric powder", "Cumin seeds", "Bay leaves", "Cinnamon stick", "Cardamom pods", "Vegetable oil", "Salt", "Cilantro"],
+    "Instructions": "Soak basmati rice in water for 30 minutes, then drain. In a large pot, heat vegetable oil and sauté sliced onions until golden brown. Add ginger-garlic paste and cook until fragrant. Stir in mixed vegetables and cook for a few minutes. Add chopped tomatoes, garam masala, turmeric powder, and salt, and cook until tomatoes are soft. In a separate pot, bring water to a boil and add soaked rice along with whole spices (cumin seeds, bay leaves, cinnamon stick, cardamom pods). Cook until rice is almost done. Drain the rice and layer it over the vegetable mixture in the pot. Cover and cook on low heat until rice is fully cooked and vegetables are tender. Garnish with chopped cilantro before serving."
+  },
+  {
+    "Recipe": "Japanese Chicken Katsu Curry",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken breast", "Panko breadcrumbs", "Egg", "All-purpose flour", "Japanese curry roux blocks", "Onion", "Carrots", "Potatoes", "Vegetable oil", "Cooked rice"],
+    "Instructions": "Pound chicken breast until thin, then season with salt and pepper. Dredge chicken in flour, dip in beaten egg, and coat with panko breadcrumbs. Heat vegetable oil in a skillet and fry chicken until golden brown and cooked through. In a separate pot, heat vegetable oil and sauté chopped onions until translucent. Add chopped carrots and potatoes, and cook until slightly softened. Add water and Japanese curry roux blocks. Stir until the roux is dissolved and the sauce thickens. Slice chicken katsu and serve with Japanese curry sauce and cooked rice."
+  },
+  {
+    "Recipe": "Thai Red Curry with Tofu",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Firm tofu", "Bell peppers", "Bamboo shoots", "Thai red curry paste", "Coconut milk", "Fish sauce", "Palm sugar", "Thai basil leaves", "Vegetable oil", "Salt", "Rice"],
+    "Instructions": "Cut firm tofu into cubes and set aside. Heat vegetable oil in a skillet over medium heat. Add sliced bell peppers and bamboo shoots, and cook until tender. Stir in Thai red curry paste and cook until fragrant. Pour in coconut milk and bring to a simmer. Add cubed tofu and simmer until heated through. Season with fish sauce and palm sugar, adjusting to taste. Stir in Thai basil leaves just before serving. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Chinese Hot and Sour Soup",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Firm tofu", "Wood ear mushrooms", "Bamboo shoots", "Eggs", "Green onions", "Ginger", "Garlic", "Soy sauce", "Rice vinegar", "Sesame oil", "Cornstarch", "Chicken broth", "White pepper", "Chili oil (optional)"],
+    "Instructions": "Cut firm tofu into small cubes and set aside. Soak wood ear mushrooms in hot water until softened, then thinly slice. Heat chicken broth in a pot and bring to a simmer. Add sliced wood ear mushrooms, sliced bamboo shoots, minced ginger, and minced garlic. In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, and cornstarch to make a slurry. Stir the slurry into the soup and simmer until slightly thickened. Slowly drizzle beaten eggs into the soup while stirring gently to create ribbons. Add cubed tofu and sliced green onions. Season with white pepper and additional soy sauce if needed. Serve hot with a drizzle of chili oil if desired."
+  },
+  {
+    "Recipe": "Vietnamese Bun Cha",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Ground pork", "Fish sauce", "Sugar", "Garlic", "Shallots", "Lemongrass", "Rice vinegar", "Rice noodles", "Lettuce leaves", "Cucumber", "Bean sprouts", "Vietnamese herbs (e.g., mint, cilantro)", "Lime wedges", "Chili slices"],
+    "Instructions": "In a bowl, mix ground pork with minced garlic, chopped shallots, finely chopped lemongrass, fish sauce, sugar, and rice vinegar. Shape the mixture into small patties. Grill or pan-fry the pork patties until cooked through and slightly caramelized. Cook rice noodles according to package instructions, then drain and rinse under cold water. To serve, divide cooked noodles, lettuce leaves, cucumber slices, bean sprouts, and pork patties among serving bowls. Garnish with Vietnamese herbs, lime wedges, and chili slices. Serve with nuoc cham dipping sauce on the side."
+  },
+  {
+    "Recipe": "Korean Japchae (Sweet Potato Noodles)",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Sweet potato noodles", "Beef (or tofu for vegetarian option)", "Spinach", "Carrots", "Bell peppers", "Onion", "Soy sauce", "Sesame oil", "Sugar", "Garlic", "Sesame seeds", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Cook sweet potato noodles according to package instructions, then rinse under cold water and drain. Slice beef thinly and marinate with soy sauce, sesame oil, sugar, minced garlic, salt, and pepper. In a skillet, heat vegetable oil over medium-high heat and stir-fry marinated beef until cooked. Set aside. In the same skillet, stir-fry sliced carrots, bell peppers, and onion until tender. Add cooked noodles, beef, and spinach to the skillet. Stir in soy sauce and sesame oil, and toss until well combined. Sprinkle with sesame seeds before serving."
+  },
+  {
+    "Recipe": "Thai Yellow Curry with Shrimp",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Shrimp", "Potatoes", "Carrots", "Onion", "Coconut milk", "Thai yellow curry paste", "Fish sauce", "Palm sugar", "Lime leaves", "Thai basil leaves", "Vegetable oil", "Salt", "Cooked rice"],
+    "Instructions": "Peel and devein shrimp, leaving tails intact. Peel and cut potatoes and carrots into bite-sized pieces. In a pot, heat vegetable oil over medium heat and sauté sliced onion until translucent. Add shrimp and cook until pink. Stir in Thai yellow curry paste and cook until fragrant. Pour in coconut milk and bring to a simmer. Add potatoes and carrots, and cook until vegetables are tender. Season with fish sauce, palm sugar, and torn lime leaves. Stir in Thai basil leaves just before serving. Serve hot with cooked rice."
+  },
+  {
+    "Recipe": "Chinese Steamed Fish with Ginger and Scallions",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.0,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["White fish fillets (e.g., tilapia, sea bass)", "Ginger", "Scallions", "Soy sauce", "Sesame oil", "Vegetable oil", "Salt", "White pepper", "Cooked rice"],
+    "Instructions": "Place white fish fillets on a heatproof plate. Thinly slice ginger and scallions, then scatter over the fish. In a small bowl, mix soy sauce, sesame oil, vegetable oil, salt, and white pepper. Drizzle the sauce over the fish. Prepare a steamer and steam the fish over boiling water for about 8-10 minutes, or until cooked through. Garnish with additional sliced scallions before serving. Serve hot with cooked rice."
+  },
+  {
+    "Recipe": "Vietnamese Caramelized Pork (Thit Kho)",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Pork belly", "Coconut water", "Fish sauce", "Sugar", "Hard-boiled eggs", "Garlic", "Shallots", "Black peppercorns", "Cooked rice"],
+    "Instructions": "Cut pork belly into bite-sized pieces. In a pot, combine coconut water, fish sauce, and sugar, and bring to a simmer. Add pork belly, crushed garlic, sliced shallots, and black peppercorns to the pot. Cover and simmer over low heat for about 1.5-2 hours, or until pork is tender and the sauce is reduced and caramelized. Add hard-boiled eggs to the pot during the last 30 minutes of cooking. Serve hot with cooked rice."
+  },
+  {
+    "Recipe": "Japanese Miso Soup",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Dashi stock", "Tofu", "Wakame seaweed", "Green onions", "Miso paste"],
+    "Instructions": "In a pot, bring dashi stock to a gentle simmer. Add cubed tofu and soaked wakame seaweed to the pot. Cook for a few minutes until tofu is heated through and seaweed is rehydrated. In a small bowl, dissolve miso paste in a small amount of hot dashi stock. Stir the miso mixture into the pot and remove from heat (do not boil miso soup). Garnish with sliced green onions before serving."
+  },
+  {
+    "Recipe": "Indian Palak Paneer",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Paneer (Indian cottage cheese)", "Spinach", "Tomatoes", "Onion", "Garlic", "Ginger", "Green chilies", "Garam masala", "Cumin powder", "Coriander powder", "Turmeric powder", "Cream", "Vegetable oil", "Salt"],
+    "Instructions": "Blanch spinach in boiling water for a few seconds, then transfer to ice water. Drain and blend spinach into a smooth puree. In a pan, heat vegetable oil and sauté finely chopped onion until translucent. Add minced garlic, ginger, and green chilies, and cook until fragrant. Stir in chopped tomatoes and cook until soft. Add garam masala, cumin powder, coriander powder, and turmeric powder, and cook for a few minutes. Pour in spinach puree and cook until the mixture thickens. Add cubed paneer and cream, and simmer for a few minutes. Season with salt to taste before serving."
+  },
+  {
+    "Recipe": "Thai Pineapple Fried Rice",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Cooked rice", "Shrimp", "Pineapple", "Bell peppers", "Onion", "Cashew nuts", "Raisins", "Eggs", "Garlic", "Soy sauce", "Fish sauce", "Curry powder", "Vegetable oil", "Salt", "Cilantro"],
+    "Instructions": "Heat vegetable oil in a wok or large skillet over medium-high heat. Add minced garlic and cook until fragrant. Add peeled and deveined shrimp and cook until pink. Push shrimp to one side of the skillet and crack eggs into the other side. Scramble eggs until cooked, then mix with shrimp. Add diced pineapple, sliced bell peppers, chopped onion, cashew nuts, and raisins to the skillet. Stir in cooked rice and toss to combine. Season with soy sauce, fish sauce, curry powder, and salt. Cook until heated through. Garnish with chopped cilantro before serving."
+  },
+  {
+    "Recipe": "Chinese Sichuan Dan Dan Noodles",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Noodles", "Ground pork (or tofu for vegetarian option)", "Sichuan peppercorns", "Chili oil", "Garlic", "Ginger", "Green onions", "Soy sauce", "Chinese black vinegar", "Sesame paste (or peanut butter)", "Sugar", "Vegetable oil", "Salt"],
+    "Instructions": "Cook noodles according to package instructions, then drain and set aside. In a pan, heat vegetable oil over medium heat. Add minced garlic, ginger, and chopped green onions, and cook until fragrant. Add ground pork (or tofu) and cook until browned. Stir in Sichuan peppercorns, soy sauce, Chinese black vinegar, sesame paste (or peanut butter), sugar, and salt. Add cooked noodles to the pan and toss to coat in the sauce. Serve hot with a drizzle of chili oil."
+  },
+  {
+    "Recipe": "Vietnamese Caramelized Clay Pot Fish (Ca Kho To)",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Fish fillets (e.g., catfish, tilapia)", "Fish sauce", "Sugar", "Shallots", "Garlic", "Ginger", "Black peppercorns", "Green onions", "Thai chilies", "Coconut water", "Vegetable oil", "Cooked rice"],
+    "Instructions": "Cut fish fillets into large chunks and set aside. In a bowl, mix fish sauce and sugar until the sugar dissolves. In a clay pot or heavy-bottomed pot, heat vegetable oil over medium heat. Add thinly sliced shallots, minced garlic, minced ginger, crushed black peppercorns, and sliced green onions, and cook until fragrant. Add fish fillets to the pot and pour the fish sauce mixture over them. Add Thai chilies and enough coconut water to cover the fish. Bring to a simmer and cook until the sauce thickens and fish is cooked through. Serve hot with cooked rice."
+  },
+  {
+    "Recipe": "Japanese Chirashi Sushi",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Sushi rice", "Assorted sashimi (e.g., salmon, tuna, yellowtail)", "Cucumber", "Avocado", "Tamagoyaki (Japanese rolled omelette)", "Radish sprouts", "Nori strips", "Soy sauce", "Wasabi", "Pickled ginger"],
+    "Instructions": "Prepare sushi rice according to package instructions and let it cool to room temperature. Slice assorted sashimi, cucumber, avocado, and tamagoyaki into thin strips. Arrange sushi rice in a serving bowl. Top with sliced sashimi, cucumber, avocado, and tamagoyaki. Garnish with radish sprouts and nori strips. Serve with soy sauce, wasabi, and pickled ginger on the side."
+  },
+  {
+    "Recipe": "Korean Bibimbap",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 5,
+    "Ingredients": ["Cooked rice", "Beef (or tofu for vegetarian option)", "Carrots", "Spinach", "Bean sprouts", "Zucchini", "Mushrooms", "Eggs", "Soy sauce", "Sesame oil", "Garlic", "Sesame seeds", "Gochujang (Korean chili paste)", "Vegetable oil", "Salt", "Pepper"],
+    "Instructions": "Slice beef thinly and marinate with soy sauce, sesame oil, minced garlic, salt, and pepper. Julienne carrots, blanch spinach, and bean sprouts. Slice zucchini and mushrooms. Fry eggs sunny-side up. In a hot skillet, stir-fry each ingredient separately until cooked. Arrange cooked rice in bowls and top with the stir-fried ingredients and fried eggs. Garnish with sesame seeds and serve with gochujang on the side."
+  },
+  {
+    "Recipe": "Thai Green Curry with Chicken",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Chicken breast", "Thai green curry paste", "Coconut milk", "Bell peppers", "Eggplant", "Bamboo shoots", "Thai basil leaves", "Fish sauce", "Palm sugar", "Vegetable oil", "Salt"],
+    "Instructions": "Slice chicken breast into bite-sized pieces. In a pot, heat vegetable oil over medium heat and sauté Thai green curry paste until fragrant. Add sliced chicken and cook until browned. Pour in coconut milk and bring to a simmer. Add sliced bell peppers, diced eggplant, bamboo shoots, and torn Thai basil leaves. Simmer until chicken is cooked through and vegetables are tender. Season with fish sauce, palm sugar, and salt to taste. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Chinese Mapo Tofu",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Tofu", "Ground pork (or beef for a different twist)", "Fermented black beans", "Chili bean paste", "Garlic", "Ginger", "Green onions", "Soy sauce", "Szechuan peppercorns", "Vegetable oil", "Salt"],
+    "Instructions": "Cut tofu into cubes and set aside. In a wok, heat vegetable oil over medium heat. Add minced garlic, ginger, and chopped green onions, and cook until fragrant. Add ground pork and cook until browned. Stir in fermented black beans and chili bean paste, and cook for a few minutes. Add tofu cubes and gently stir to combine. Pour in soy sauce and Szechuan peppercorns, and simmer until tofu is heated through. Season with salt to taste. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Vietnamese Pho Bo (Beef Noodle Soup)",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Beef brisket", "Beef bones", "Rice noodles", "Onion", "Ginger", "Star anise", "Cinnamon stick", "Cloves", "Fish sauce", "Rock sugar", "Lime", "Bean sprouts", "Thai basil leaves", "Sliced chili", "Hoisin sauce", "Sriracha sauce"],
+    "Instructions": "In a large pot, bring water to a boil and blanch beef bones. Rinse bones under cold water, then return them to the pot with fresh water. Add beef brisket, sliced onion, sliced ginger, star anise, cinnamon stick, and cloves. Simmer for at least 1 hour, skimming off any impurities. Cook rice noodles according to package instructions. Thinly slice cooked beef brisket. Arrange cooked noodles and sliced beef in serving bowls. Ladle hot broth over the noodles and beef. Serve with lime wedges, bean sprouts, Thai basil leaves, sliced chili, hoisin sauce, and sriracha sauce on the side."
+  },
+  {
+    "Recipe": "Japanese Yakitori (Grilled Chicken Skewers)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Chicken thigh", "Chicken breast", "Green onions", "Soy sauce", "Mirin", "Sake", "Sugar", "Vegetable oil", "Salt"],
+    "Instructions": "Cut chicken thigh and breast into bite-sized pieces. Thread chicken onto skewers, alternating with pieces of green onions. In a bowl, mix soy sauce, mirin, sake, and sugar to make the yakitori sauce. Grill skewers over medium-high heat, basting with the yakitori sauce and turning occasionally, until chicken is cooked through and lightly charred. Sprinkle with salt before serving."
+  },
+  {
+    "Recipe": "Indian Butter Chicken (Murgh Makhani)",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 2.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Tomatoes", "Onion", "Garlic", "Ginger", "Green chilies", "Cashew nuts", "Cream", "Butter", "Garam masala", "Kashmiri red chili powder", "Kasuri methi (dried fenugreek leaves)", "Vegetable oil", "Salt"],
+    "Instructions": "Marinate chicken thighs with yogurt, ginger-garlic paste, Kashmiri red chili powder, and salt. Grill or bake until cooked through. In a pan, heat vegetable oil and sauté finely chopped onion until golden brown. Add minced garlic, ginger, and chopped green chilies, and cook until fragrant. Blend tomatoes and cashew nuts into a smooth puree. Add the tomato-cashew puree to the pan and cook until the oil separates. Stir in garam masala and kasuri methi. Add grilled chicken and simmer until the sauce thickens. Finish with cream and butter before serving."
+  },
+  {
+    "Recipe": "Thai Pad Thai",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 320,
+    "Saturated Fat (g) per serving": 1.8,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Rice noodles", "Shrimp", "Tofu", "Bean sprouts", "Eggs", "Garlic", "Shallots", "Green onions", "Tamarind paste", "Fish sauce", "Sugar", "Peanuts", "Vegetable oil", "Lime wedges", "Cilantro"],
+    "Instructions": "Soak rice noodles in warm water until softened, then drain. In a pan, heat vegetable oil over medium heat. Add minced garlic and chopped shallots, and cook until fragrant. Add shrimp and diced tofu, and cook until shrimp is pink and tofu is golden brown. Push ingredients to one side of the pan and crack eggs into the other side. Scramble eggs until cooked, then mix with the shrimp and tofu. Add softened rice noodles and bean sprouts to the pan. Stir in tamarind paste, fish sauce, and sugar. Cook until noodles are heated through. Garnish with chopped green onions, crushed peanuts, lime wedges, and cilantro before serving."
+  },
+  {
+    "Recipe": "Chinese Kung Pao Chicken",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken breast", "Bell peppers", "Zucchini", "Dried red chilies", "Garlic", "Ginger", "Green onions", "Soy sauce", "Rice vinegar", "Hoisin sauce", "Cornstarch", "Vegetable oil", "Roasted peanuts", "Salt"],
+    "Instructions": "Cut chicken breast into bite-sized pieces and marinate with soy sauce, rice vinegar, and cornstarch. In a wok or large skillet, heat vegetable oil over high heat. Add dried red chilies and cook until fragrant. Add minced garlic, ginger, and chopped green onions, and stir-fry for a few seconds. Add marinated chicken and stir-fry until browned. Add diced bell peppers and zucchini, and continue to stir-fry until vegetables are tender-crisp. Stir in hoisin sauce and roasted peanuts. Cook until heated through. Season with salt to taste before serving."
+  },
+  {
+    "Recipe": "Vietnamese Banh Mi Sandwich",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Baguette", "Pork belly", "Carrots", "Daikon radish", "Cucumber", "Cilantro", "Jalapeno peppers", "Mayonnaise", "Soy sauce", "Rice vinegar", "Sugar", "Salt"],
+    "Instructions": "Slice baguette lengthwise and toast until crispy. Thinly slice pork belly and pan-fry until crispy. Julienne carrots and daikon radish, then pickle in a mixture of rice vinegar, sugar, and salt. Slice cucumber and jalapeno peppers. Spread mayonnaise on the toasted baguette. Layer with crispy pork belly, pickled carrots and daikon, sliced cucumber, jalapeno peppers, and fresh cilantro. Close the sandwich and serve immediately."
+  },
+  {
+    "Recipe": "Japanese Okonomiyaki (Savory Pancake)",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Cabbage", "Flour", "Eggs", "Green onions", "Tenkasu (tempura scraps)", "Bacon (or seafood for a different variation)", "Okonomiyaki sauce", "Japanese mayonnaise", "Bonito flakes", "Aonori (dried seaweed flakes)"],
+    "Instructions": "Thinly slice cabbage and chop green onions. In a bowl, mix flour, eggs, sliced cabbage, chopped green onions, and tenkasu. Heat a non-stick skillet over medium heat and pour the batter into a round pancake shape. Arrange bacon slices (or seafood) on top of the pancake. Cook until the bottom is golden brown, then flip and cook the other side until browned and crispy. Drizzle okonomiyaki sauce and Japanese mayonnaise over the pancake. Sprinkle with bonito flakes and aonori before serving."
+  },
+  {
+    "Recipe": "Indonesian Nasi Goreng",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Cooked rice", "Chicken thighs (or shrimp, tofu)", "Carrots", "Green beans", "Cabbage", "Eggs", "Onion", "Garlic", "Kecap manis (sweet soy sauce)", "Sambal oelek (chili paste)", "Vegetable oil", "Salt", "Pepper", "Fried shallots (for garnish)"],
+    "Instructions": "In a wok or large skillet, heat vegetable oil over medium heat. Add minced garlic and chopped onion, and cook until fragrant. Add diced chicken thighs (or protein of your choice) and cook until browned. Push chicken to one side of the wok and crack eggs into the other side. Scramble eggs until cooked, then mix with the chicken. Add chopped carrots, green beans, and shredded cabbage to the wok. Stir-fry until vegetables are tender. Stir in cooked rice, kecap manis, and sambal oelek. Season with salt and pepper to taste. Serve hot, garnished with fried shallots."
+  },
+  {
+    "Recipe": "Thai Tom Yum Soup",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Shrimp", "Lemongrass", "Galangal (Thai ginger)", "Kaffir lime leaves", "Thai bird's eye chilies", "Mushrooms", "Tomatoes", "Fish sauce", "Lime juice", "Sugar", "Cilantro", "Vegetable oil", "Salt"],
+    "Instructions": "In a pot, bring water to a boil and add sliced lemongrass, sliced galangal, torn kaffir lime leaves, and sliced Thai bird's eye chilies. Simmer for 5-10 minutes to infuse flavors. Add peeled and deveined shrimp, sliced mushrooms, and halved tomatoes to the pot. Cook until shrimp is pink and cooked through. Season with fish sauce, lime juice, sugar, and salt to taste. Garnish with chopped cilantro before serving."
+  },
+  {
+    "Recipe": "Vietnamese Pho Ga (Chicken Noodle Soup)",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Chicken thighs", "Chicken broth", "Rice noodles", "Ginger", "Star anise", "Cinnamon stick", "Cloves", "Onion", "Green onions", "Bean sprouts", "Thai basil leaves", "Lime wedges", "Sliced chili", "Hoisin sauce", "Sriracha sauce"],
+    "Instructions": "In a pot, combine chicken broth, sliced ginger, star anise, cinnamon stick, cloves, and chopped onion. Bring to a boil, then reduce heat and simmer for 30 minutes to develop flavors. Remove whole spices and onion from the broth. Add boneless chicken thighs to the pot and simmer until cooked through. Cook rice noodles according to package instructions. Thinly slice cooked chicken thighs. Arrange cooked noodles and sliced chicken in serving bowls. Ladle hot broth over the noodles and chicken. Serve with bean sprouts, Thai basil leaves, lime wedges, sliced chili, hoisin sauce, and sriracha sauce on the side."
+  },
+  {
+    "Recipe": "Malaysian Rendang",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Beef chuck", "Coconut milk", "Lemongrass", "Galangal", "Kaffir lime leaves", "Cinnamon stick", "Star anise", "Cloves", "Turmeric powder", "Chili paste", "Tamarind paste", "Palm sugar", "Vegetable oil", "Salt"],
+    "Instructions": "Cut beef chuck into cubes. In a pot, heat vegetable oil over medium heat. Add finely chopped lemongrass, sliced galangal, torn kaffir lime leaves, cinnamon stick, star anise, and cloves, and cook until fragrant. Add beef cubes to the pot and cook until browned. Stir in turmeric powder, chili paste, and tamarind paste, and cook for a few minutes. Pour in coconut milk and bring to a simmer. Cover and cook over low heat for 2-3 hours, or until beef is tender and sauce is thickened. Season with palm sugar and salt to taste."
+  },
+  {
+    "Recipe": "Singaporean Hainanese Chicken Rice",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Chicken thighs", "Chicken broth", "Rice", "Ginger", "Garlic", "Cucumber", "Green onions", "Soy sauce", "Sesame oil", "Chili sauce", "Vegetable oil", "Salt"],
+    "Instructions": "Rub chicken thighs with salt and stuff with sliced ginger and garlic. In a pot, bring chicken broth to a boil and add stuffed chicken thighs. Reduce heat and simmer until chicken is cooked through. Remove chicken from broth and let cool. Cook rice in chicken broth according to package instructions. Slice cucumber and chop green onions. In a small bowl, mix soy sauce, sesame oil, and chili sauce. Serve sliced chicken with rice, cucumber slices, green onions, and dipping sauce on the side."
+  },
+  {
+    "Recipe": "Filipino Chicken Adobo",
+    "Risk Category": "Diabetes",
+    "Calories per serving": 300,
+    "Saturated Fat (g) per serving": 2.0,
+    "Fiber (g) per serving": 4,
+    "Ingredients": ["Chicken thighs", "Soy sauce", "Vinegar", "Garlic", "Bay leaves", "Peppercorns", "Sugar", "Vegetable oil", "Salt"],
+    "Instructions": "In a bowl, combine soy sauce, vinegar, minced garlic, bay leaves, whole peppercorns, and sugar to make the marinade. Add chicken thighs to the marinade and refrigerate for at least 30 minutes. In a skillet, heat vegetable oil over medium heat. Remove chicken from marinade (reserve marinade) and brown in the skillet on both sides. Pour reserved marinade over the chicken and bring to a boil. Reduce heat, cover, and simmer until chicken is tender and cooked through, about 30-40 minutes. Serve hot with steamed rice."
+  },
+  {
+    "Recipe": "Thai Green Papaya Salad (Som Tum)",
+    "Risk Category": "Hypertension",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Green papaya", "Tomatoes", "Green beans", "Thai bird's eye chilies", "Garlic", "Peanuts", "Fish sauce", "Lime juice", "Palm sugar", "Salt"],
+    "Instructions": "Peel and shred green papaya. Slice tomatoes and trim green beans. In a mortar and pestle, pound Thai bird's eye chilies and minced garlic until crushed. Add peanuts and lightly crush. Stir in fish sauce, lime juice, palm sugar, and salt to make the dressing. In a large bowl, combine shredded papaya, sliced tomatoes, trimmed green beans, and dressing. Toss until well coated. Serve chilled as a refreshing salad."
+  },
+  {
+    "Recipe": "Vietnamese Banh Xeo (Sizzling Crepes)",
+    "Risk Category": "Heart Disease",
+    "Calories per serving": 250,
+    "Saturated Fat (g) per serving": 1.2,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Rice flour", "Coconut milk", "Turmeric powder", "Shrimp", "Pork belly", "Bean sprouts", "Green onions", "Lettuce leaves", "Herbs (cilantro, mint, Thai basil)", "Nuoc cham dipping sauce (fish sauce, lime juice, sugar, garlic, chili)"],
+    "Instructions": "In a bowl, whisk together rice flour, coconut milk, turmeric powder, and water to make the batter. Let the batter rest for at least 30 minutes. Heat a non-stick skillet over medium-high heat and add a little oil. Add shrimp, sliced pork belly, and chopped green onions to the skillet. Pour a ladleful of batter over the ingredients and swirl to coat the bottom of the skillet. Cook until the edges are crispy. Add bean sprouts to one half of the crepe and fold it in half. Serve hot with lettuce leaves, herbs, and nuoc cham dipping sauce."
+  },
+  {
+    "Recipe": "Malaysian Laksa",
+    "Risk Category": "Kidney Disease",
+    "Calories per serving": 280,
+    "Saturated Fat (g) per serving": 1.5,
+    "Fiber (g) per serving": 3,
+    "Ingredients": ["Rice noodles", "Shrimp", "Chicken thighs", "Coconut milk", "Lemongrass", "Galangal", "Shallots", "Garlic", "Chilies", "Turmeric", "Curry powder", "Belacan (shrimp paste)", "Tamarind paste", "Fish sauce", "Sugar", "Bean sprouts", "Hard-boiled eggs", "Lime wedges", "Cilantro"],
+    "Instructions": "Cook rice noodles according to package instructions. Peel and devein shrimp. In a pot, simmer chicken thighs in water with lemongrass, galangal, shallots, garlic, chilies, turmeric, curry powder, belacan, tamarind paste, fish sauce, and sugar until chicken is cooked and flavors are infused. Add coconut milk and bring to a simmer. Add shrimp and cook until pink. Serve laksa over cooked rice noodles, garnished with bean sprouts, halved hard-boiled eggs, lime wedges, and chopped cilantro."
+  },
+  {
+    "Recipe": "Singaporean Chili Crab",
+    "Risk Category": "Liver Disease",
+    "Calories per serving": 220,
+    "Saturated Fat (g) per serving": 0.8,
+    "Fiber (g) per serving": 2,
+    "Ingredients": ["Crab", "Chili sauce", "Tomato sauce", "Garlic", "Ginger", "Shallots", "Eggs", "Cornstarch", "Sugar", "Soy sauce", "Vegetable oil", "Salt"],
+    "Instructions": "Clean and cut crab into pieces. In a bowl, mix chili sauce, tomato sauce, minced garlic, minced ginger, chopped shallots, beaten eggs, cornstarch, sugar, soy sauce, and salt to make the sauce. In a wok or large skillet, heat vegetable oil over medium heat. Add crab pieces and stir-fry until partially cooked. Pour sauce over the crab and continue to cook until crab is fully cooked and sauce thickens. Serve hot with steamed rice."
   }
+
     
 ]
 
