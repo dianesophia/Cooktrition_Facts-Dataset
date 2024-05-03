@@ -1,0 +1,284 @@
+[
+    {
+      "Recipe Name": "Diabetic Oatmeal Breakfast Bowl",
+      "Ingredients": [
+        "1/2 cup rolled oats",
+        "1 cup unsweetened almond milk",
+        "1 tablespoon chia seeds",
+        "1/2 banana, sliced",
+        "1 tablespoon almond butter",
+        "1 teaspoon cinnamon"
+      ],
+      "Calories per serving": 250,
+      "Saturated Fat (g) per serving": 2.5,
+      "Fiber (g) per serving": 4,
+      "Sugar (g) per serving": 10,
+      "Sodium (mg) per serving": 300,
+      "Protein (g) per serving": 20,
+      "Carbohydrates (g) per serving": 30,
+      "Risk Category": "Diabetes"
+    },
+    {
+      "Recipe Name": "Heart-Healthy Grilled Chicken Salad",
+      "Ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "4 cups mixed salad greens",
+        "1/2 cup cherry tomatoes, halved",
+        "1/4 cup cucumber, sliced",
+        "1/4 cup red onion, thinly sliced",
+        "2 tablespoons olive oil",
+        "1 tablespoon balsamic vinegar",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 3,
+      "Sugar (g) per serving": 5,
+      "Sodium (mg) per serving": 250,
+      "Protein (g) per serving": 15,
+      "Carbohydrates (g) per serving": 25,
+      "Risk Category": "Cholesterol"
+    },
+    {
+      "Recipe Name": "Low-Sugar Berry Smoothie",
+      "Ingredients": [
+        "1 cup mixed berries (such as strawberries, blueberries, and raspberries)",
+        "1/2 banana",
+        "1/2 cup unsweetened almond milk",
+        "1 tablespoon Greek yogurt",
+        "1 tablespoon honey (optional)",
+        "Ice cubes"
+      ],
+      "Calories per serving": 300,
+      "Saturated Fat (g) per serving": 3,
+      "Fiber (g) per serving": 2,
+      "Sugar (g) per serving": 15,
+      "Sodium (mg) per serving": 350,
+      "Protein (g) per serving": 25,
+      "Carbohydrates (g) per serving": 35,
+      "Risk Category": "Diabetes"
+    },
+    {
+      "Recipe Name": "Heart-Healthy Avocado Toast",
+      "Ingredients": [
+        "2 slices whole grain bread, toasted",
+        "1 ripe avocado, mashed",
+        "1/2 teaspoon red pepper flakes",
+        "1 tablespoon lemon juice",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 5,
+      "Sugar (g) per serving": 8,
+      "Sodium (mg) per serving": 200,
+      "Protein (g) per serving": 18,
+      "Carbohydrates (g) per serving": 20,
+      "Risk Category": "Cholesterol"
+    },
+    {
+      "Recipe Name": "Hypertension-Friendly Turkey Chili",
+      "Ingredients": [
+        "1 pound lean ground turkey",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can (14.5 ounces) diced tomatoes",
+        "1 can (15 ounces) kidney beans, drained and rinsed",
+        "1 can (15 ounces) black beans, drained and rinsed",
+        "1 bell pepper, diced",
+        "1 tablespoon chili powder",
+        "1 teaspoon cumin",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 1.5,
+      "Fiber (g) per serving": 8,
+      "Sugar (g) per serving": 4,
+      "Sodium (mg) per serving": 400,
+      "Protein (g) per serving": 22,
+      "Carbohydrates (g) per serving": 30,
+      "Risk Category": "Hypertension"
+    },
+    {
+      "Recipe Name": "Osteoarthritis-Friendly Salmon with Quinoa",
+      "Ingredients": [
+        "4 salmon fillets",
+        "1 cup quinoa, cooked",
+        "1 cup broccoli florets",
+        "1 tablespoon olive oil",
+        "1 lemon, juiced",
+        "1 teaspoon dried oregano",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 320,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Sugar (g) per serving": 2,
+      "Sodium (mg) per serving": 300,
+      "Protein (g) per serving": 28,
+      "Carbohydrates (g) per serving": 25,
+      "Risk Category": "Osteoarthritis"
+    },
+    {
+      "Recipe Name": "Kidney Disease-Friendly Vegetable Stir-Fry",
+      "Ingredients": [
+        "2 cups mixed vegetables (such as bell peppers, snap peas, carrots)",
+        "1/2 cup tofu, cubed",
+        "2 tablespoons low-sodium soy sauce",
+        "1 tablespoon sesame oil",
+        "1 clove garlic, minced",
+        "1 teaspoon ginger, grated",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon honey (optional)",
+        "Cooked brown rice for serving"
+      ],
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 5,
+      "Sugar (g) per serving": 6,
+      "Sodium (mg) per serving": 150,
+      "Protein (g) per serving": 10,
+      "Carbohydrates (g) per serving": 25,
+      "Risk Category": "Kidney Disease"
+    },
+    {
+      "Recipe Name": "Liver Disease-Friendly Roasted Vegetables",
+      "Ingredients": [
+        "2 cups mixed vegetables (such as carrots, beets, sweet potatoes)",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Sugar (g) per serving": 6,
+      "Sodium (mg) per serving": 100,
+      "Protein (g) per serving": 2,
+      "Carbohydrates (g) per serving": 20,
+      "Risk Category": "Liver Disease"
+    },
+    {
+      "Recipe Name": "Heart Disease-Friendly Baked Salmon with Vegetables",
+      "Ingredients": [
+        "4 salmon fillets",
+        "2 cups mixed vegetables (such as zucchini, bell peppers, onions)",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "Salt and pepper to taste"
+      ],
+      "Calories per serving": 280,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 6,
+      "Sugar (g) per serving": 4,
+      "Sodium (mg) per serving": 250,
+      "Protein (g) per serving": 24,
+      "Carbohydrates (g) per serving": 15,
+      "Risk Category": "Heart Disease"
+    },
+    {
+        "Recipe Name": "Heart-Healthy Baked Chicken Breast",
+        "Ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried rosemary",
+          "Salt and pepper to taste"
+        ],
+        "Calories per serving": 200,
+        "Saturated Fat (g) per serving": 1.5,
+        "Fiber (g) per serving": 0,
+        "Sugar (g) per serving": 0,
+        "Sodium (mg) per serving": 150,
+        "Protein (g) per serving": 25,
+        "Carbohydrates (g) per serving": 0,
+        "Risk Category": "Heart Disease"
+      },
+      {
+        "Recipe Name": "Heart-Healthy Veggie Omelette",
+        "Ingredients": [
+          "4 large eggs",
+          "1/4 cup diced bell peppers",
+          "1/4 cup diced onions",
+          "1/4 cup diced tomatoes",
+          "1/4 cup chopped spinach",
+          "2 tablespoons shredded cheese",
+          "1 tablespoon olive oil",
+          "Salt and pepper to taste"
+        ],
+        "Calories per serving": 180,
+        "Saturated Fat (g) per serving": 1,
+        "Fiber (g) per serving": 2,
+        "Sugar (g) per serving": 2,
+        "Sodium (mg) per serving": 200,
+        "Protein (g) per serving": 12,
+        "Carbohydrates (g) per serving": 5,
+        "Risk Category": "Heart Disease"
+      },
+      {
+        "Recipe Name": "Heart-Healthy Mediterranean Quinoa Salad",
+        "Ingredients": [
+          "1 cup quinoa, rinsed",
+          "2 cups water",
+          "1/2 cup cucumber, diced",
+          "1/2 cup cherry tomatoes, halved",
+          "1/4 cup kalamata olives, sliced",
+          "1/4 cup crumbled feta cheese",
+          "2 tablespoons chopped fresh parsley",
+          "2 tablespoons olive oil",
+          "1 tablespoon lemon juice",
+          "Salt and pepper to taste"
+        ],
+        "Calories per serving": 220,
+        "Saturated Fat (g) per serving": 1.5,
+        "Fiber (g) per serving": 4,
+        "Sugar (g) per serving": 2,
+        "Sodium (mg) per serving": 250,
+        "Protein (g) per serving": 6,
+        "Carbohydrates (g) per serving": 35,
+        "Risk Category": "Heart Disease"
+      },
+      {
+        "Recipe Name": "Heart-Healthy Roasted Vegetable Medley",
+        "Ingredients": [
+          "2 cups mixed vegetables (such as carrots, bell peppers, zucchini)",
+          "2 tablespoons olive oil",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried rosemary",
+          "Salt and pepper to taste"
+        ],
+        "Calories per serving": 150,
+        "Saturated Fat (g) per serving": 1,
+        "Fiber (g) per serving": 4,
+        "Sugar (g) per serving": 4,
+        "Sodium (mg) per serving": 200,
+        "Protein (g) per serving": 2,
+        "Carbohydrates (g) per serving": 20,
+        "Risk Category": "Heart Disease"
+      },
+      {
+        "Recipe Name": "Heart-Healthy Grilled Shrimp Skewers",
+        "Ingredients": [
+          "1 pound large shrimp, peeled and deveined",
+          "1 tablespoon olive oil",
+          "2 cloves garlic, minced",
+          "1 teaspoon paprika",
+          "1/2 teaspoon dried oregano",
+          "1/4 teaspoon cayenne pepper (optional)",
+          "Salt and pepper to taste",
+          "Lemon wedges for serving"
+        ],
+        "Calories per serving": 150,
+        "Saturated Fat (g) per serving": 0.5,
+        "Fiber (g) per serving": 0,
+        "Sugar (g) per serving": 0,
+        "Sodium (mg) per serving": 200,
+        "Protein (g) per serving": 22,
+        "Carbohydrates (g) per serving": 1,
+        "Risk Category": "Heart Disease"
+      }
+  ]
+  
