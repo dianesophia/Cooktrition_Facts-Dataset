@@ -2998,6 +2998,96 @@
       "Fiber (g) per serving": 2,
       "Ingredients": ["Ground turkey", "Red onion", "Garlic", "Kalamata olives", "Feta cheese", "Fresh parsley", "Dried oregano", "Salt", "Pepper", "Whole wheat hamburger buns", "Lettuce", "Tomato", "Tzatziki sauce"],
       "Instructions": "Finely chop red onion, garlic, Kalamata olives, and fresh parsley. In a large bowl, combine ground turkey, chopped onion, minced garlic, chopped olives, crumbled feta cheese, chopped parsley, dried oregano, salt, and pepper. Mix until well combined. Divide mixture into equal portions and shape into burger patties. Preheat grill to medium-high heat. Grill burgers for 6-8 minutes per side, or until cooked through and internal temperature reaches 165°F (74°C) when tested with a meat thermometer. Serve burgers on whole wheat hamburger buns with lettuce, tomato, and tzatziki sauce."
+    },
+    {
+      "Recipe": "Cauliflower Fried Rice",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Cauliflower", "Carrots", "Peas", "Bell peppers", "Onion", "Garlic", "Ginger", "Eggs", "Soy sauce", "Sesame oil", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Cut cauliflower into florets and pulse in a food processor until rice-sized pieces form. Dice carrots, bell peppers, and onion. Mince garlic and ginger. In a wok or large skillet, heat vegetable oil over medium heat. Add minced garlic and ginger, and cook until fragrant. Add diced onion and cook until translucent. Stir in diced carrots, peas, and diced bell peppers, and cook until vegetables are tender-crisp. Push vegetables to one side of the wok and crack eggs into the other side. Scramble eggs until cooked, then mix with the vegetables. Add cauliflower rice to the wok. Stir in soy sauce and sesame oil. Cook, stirring occasionally, until cauliflower is tender. Season with salt and pepper to taste. Garnish with chopped green onions before serving."
+    },
+    {
+      "Recipe": "Caprese Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 120,
+      "Saturated Fat (g) per serving": 2,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Tomatoes", "Fresh mozzarella cheese", "Fresh basil leaves", "Balsamic glaze", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Slice tomatoes and fresh mozzarella cheese into 1/4-inch thick slices. Arrange tomato and mozzarella slices alternately on a serving platter. Tuck fresh basil leaves between the slices. Drizzle with balsamic glaze and olive oil. Season with salt and pepper to taste. Serve immediately."
+    },
+    {
+      "Recipe": "Stuffed Bell Peppers",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 200,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Bell peppers", "Ground turkey", "Quinoa", "Onion", "Garlic", "Tomato sauce", "Italian seasoning", "Mozzarella cheese", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Cut the tops off bell peppers and remove seeds and membranes. Place bell peppers in a baking dish. Cook quinoa according to package instructions and let cool. In a skillet, cook ground turkey until browned. Add diced onion and minced garlic, and cook until softened. Stir in cooked quinoa, tomato sauce, Italian seasoning, salt, and pepper. Cook for 5-7 minutes, allowing flavors to meld. Spoon turkey mixture into bell peppers. Top with shredded mozzarella cheese. Cover with foil and bake for about 30 minutes. Remove foil and bake for an additional 10-15 minutes, or until peppers are tender and filling is heated through."
+    },
+    {
+      "Recipe": "Eggplant Parmesan",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Eggplant", "Whole wheat breadcrumbs", "Parmesan cheese", "Eggs", "Marinara sauce", "Mozzarella cheese", "Fresh basil leaves", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 375°F (190°C). Slice eggplant into 1/4-inch thick rounds. In one shallow dish, whisk eggs. In another shallow dish, combine whole wheat breadcrumbs, grated Parmesan cheese, salt, and pepper. Dip eggplant slices into beaten eggs, then coat with breadcrumb mixture. Place coated eggplant slices on a baking sheet lined with parchment paper. Drizzle with olive oil. Bake for 20-25 minutes, or until eggplant is golden brown and tender. Spread marinara sauce in the bottom of a baking dish. Arrange baked eggplant slices in the dish, overlapping slightly. Top with more marinara sauce and shredded mozzarella cheese. Bake for an additional 15-20 minutes, or until cheese is melted and bubbly. Garnish with fresh basil leaves before serving."
+    },
+    {
+      "Recipe": "Greek Yogurt Chicken Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 180,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 2,
+      "Ingredients": ["Chicken breast", "Greek yogurt", "Celery", "Red grapes", "Green onions", "Lemon juice", "Dijon mustard", "Salt", "Pepper"],
+      "Instructions": "Poach or grill chicken breast until cooked through, then let cool and chop into bite-sized pieces. In a large bowl, mix together Greek yogurt, lemon juice, Dijon mustard, salt, and pepper to make the dressing. Add chopped chicken breast, diced celery, halved red grapes, and sliced green onions to the bowl. Toss until well combined and coated with the dressing. Serve chilled."
+    },
+    {
+      "Recipe": "Zucchini Noodles with Pesto",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 160,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 3,
+      "Ingredients": ["Zucchini", "Basil leaves", "Parmesan cheese", "Garlic", "Pine nuts", "Olive oil", "Lemon juice", "Salt", "Pepper"],
+      "Instructions": "Using a spiralizer, spiralize zucchini into noodles. In a food processor, combine basil leaves, grated Parmesan cheese, minced garlic, pine nuts, olive oil, lemon juice, salt, and pepper. Blend until smooth to make the pesto sauce. In a skillet, heat olive oil over medium heat. Add zucchini noodles and cook until just tender, about 2-3 minutes. Toss zucchini noodles with pesto sauce until evenly coated. Serve immediately."
+    },
+    {
+      "Recipe": "Roasted Brussels Sprouts",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 100,
+      "Saturated Fat (g) per serving": 0.5,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Brussels sprouts", "Olive oil", "Balsamic vinegar", "Honey", "Garlic powder", "Salt", "Pepper"],
+      "Instructions": "Preheat oven to 400°F (200°C). Trim ends of Brussels sprouts and cut in half. In a bowl, toss Brussels sprouts with olive oil, balsamic vinegar, honey, garlic powder, salt, and pepper until evenly coated. Spread Brussels sprouts in a single layer on a baking sheet lined with parchment paper. Roast in the preheated oven for 20-25 minutes, or until tender and caramelized, stirring halfway through cooking. Serve hot."
+    },
+    {
+      "Recipe": "Broccoli and Almond Stir-Fry",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 140,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Broccoli", "Almonds", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Vegetable oil", "Green onions", "Salt", "Pepper"],
+      "Instructions": "Cut broccoli into florets and blanch in boiling water for 2 minutes. Drain and rinse under cold water to stop cooking. In a wok or large skillet, heat vegetable oil over medium heat. Add minced garlic and ginger, and cook until fragrant. Add blanched broccoli florets and sliced almonds to the wok. Stir-fry for 2-3 minutes, or until broccoli is heated through. Stir in soy sauce and sesame oil. Cook for another minute, tossing to coat evenly. Season with salt and pepper to taste. Garnish with sliced green onions before serving."
+    },
+    {
+      "Recipe": "Turkey and Vegetable Chili",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 220,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 6,
+      "Ingredients": ["Ground turkey", "Onion", "Bell peppers", "Zucchini", "Canned diced tomatoes", "Kidney beans", "Black beans", "Chili powder", "Cumin", "Oregano", "Garlic powder", "Vegetable broth", "Salt", "Pepper"],
+      "Instructions": "In a large pot, cook ground turkey over medium heat until browned. Add diced onion, diced bell peppers, and diced zucchini to the pot. Cook until vegetables are tender. Stir in canned diced tomatoes (with juices), drained and rinsed kidney beans, drained and rinsed black beans, chili powder, cumin, oregano, garlic powder, vegetable broth, salt, and pepper. Bring to a boil, then reduce heat and simmer for 20-25 minutes, stirring occasionally. Adjust seasoning to taste. Serve hot."
+    },
+    {
+      "Recipe": "Avocado and Tomato Salad",
+      "Risk Category": "Diabetes",
+      "Calories per serving": 150,
+      "Saturated Fat (g) per serving": 1,
+      "Fiber (g) per serving": 4,
+      "Ingredients": ["Avocado", "Tomatoes", "Red onion", "Cilantro", "Lime juice", "Olive oil", "Salt", "Pepper"],
+      "Instructions": "Dice avocado, tomatoes, and red onion. Finely chop cilantro. In a bowl, gently toss diced avocado, diced tomatoes, diced red onion, and chopped cilantro with lime juice and olive oil. Season with salt and pepper to taste. Serve immediately."
     }
 ]
 
